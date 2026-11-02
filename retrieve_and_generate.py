@@ -30,9 +30,9 @@ from llama_index.vector_stores.faiss import FaissVectorStore
 
 from evaluate import evaluate_generation
 
-load_dotenv()
+load_dotenv(override=True)
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-LLM_MODEL = "upstage/solar-pro4"  # same model as the bare-bones script
+LLM_MODEL = os.getenv('OPENROUTER-MODEL') 
 
 
 def load_retriever(store_dir: Path, top_k: int):
@@ -74,7 +74,7 @@ def generate(prompt: str) -> str:
         data=json.dumps({
             "model": LLM_MODEL,
             "messages": [{"role": "user", "content": prompt}],
-            "reasoning": {"enabled": False},
+            "reasoning": {"enabled": True},
         }),
     )
     data = resp.json()
