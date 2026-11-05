@@ -1,0 +1,84 @@
+[MISS] What is the case fatality rate of Nipah virus?
+  retrieved from: ['Nipah virus fact sheet.md', 'Disease information on Nipah virus disease.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What animal is the natural host of Nipah virus?
+  retrieved from: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Nipah virus fact sheet.md', 'Disease information on Nipah virus disease.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What is the incubation period for Nipah virus infection?
+  retrieved from: ['Nipah virus fact sheet.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] Is there an approved treatment or vaccine for Nipah virus?
+  retrieved from: ['Nipah virus fact sheet.md', 'WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection 2023–2030.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] Where and when was Nipah virus first identified?
+  retrieved from: ['nipah & Henipaviruses.md', 'Nipah virus fact sheet.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What genus and family does Nipah virus belong to?
+  retrieved from: ['Disease information on Nipah virus disease.md', 'Disease information on Nipah virus disease.md', 'Nipah virus fact sheet.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What biosafety level is required to work with live Nipah virus for propagation and isolation?
+  retrieved from: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection 2023–2030.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What are the two genetic clades of Nipah virus and where is each found?
+  retrieved from: ['Disease information on Nipah virus disease.md', 'Disease information on Nipah virus disease.md', 'Disease information on Nipah virus disease.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What proportion of Nipah virus infections are asymptomatic?
+  retrieved from: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Nipah virus disease - India.md', 'Disease information on Nipah virus disease.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] How many confirmed Nipah virus cases were reported in West Bengal in January 2026, and who were the patients?
+  retrieved from: ['Nipah virus disease - India.md', 'Nipah virus disease - India.md', 'Nipah virus disease - India.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] How many contacts were traced and tested during the January 2026 West Bengal Nipah outbreak, and what were the results?
+  retrieved from: ['Nipah virus disease - India.md', 'Nipah virus disease - India.md', 'Nipah virus disease - India.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] Which laboratory confirmed the January 2026 West Bengal Nipah cases?
+  retrieved from: ['Nipah virus disease - India.md', 'Nipah virus disease - India.md', 'Nipah virus disease - India.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What is WHO's risk assessment for the January 2026 Nipah outbreak in India at the global level?
+  retrieved from: ['Nipah virus disease - India.md', 'Nipah virus disease - India.md', 'WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection 2023–2030.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] How many cases of Nipah virus human infection were reported between 1998 and 2015?
+  retrieved from: ['nipah & Henipaviruses.md', 'Nipah virus fact sheet.md', 'Nipah virus disease - India.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] When was the Nipah virus R&D Roadmap published?
+  retrieved from: ['nipah_rdblueprint_roadmap_advanceddraftoct2019.md', 'nipah_rdblueprint_roadmap_advanceddraftoct2019.md', 'nipah_rdblueprint_roadmap_advanceddraftoct2019.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What is the purpose of the Nipah virus R&D Roadmap?
+  retrieved from: ['nipah_rdblueprint_roadmap_advanceddraftoct2019.md', 'nipah_rdblueprint_roadmap_advanceddraftoct2019.md', 'nipah_rdblueprint_roadmap_advanceddraftoct2019.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What was the case-fatality rate in the original 1998-1999 Nipah outbreak in Malaysia?
+  retrieved from: ['nipah & Henipaviruses.md', 'Nipah virus fact sheet.md', 'Nipah virus fact sheet.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] How many Nipah virus outbreaks have occurred in India since 2001, and in which states?
+  retrieved from: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Nipah virus disease - India.md', 'Nipah virus disease - India.md']
+  precision@3: 0.00  RR: 0.00
+
+[MISS] What was the most severe Nipah outbreak in Kerala, and when did it occur?
+  retrieved from: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Nipah virus disease - India.md', 'Nipah virus disease - India.md']
+  precision@3: 0.00  RR: 0.00
+
+[NEGATIVE TEST] What is the current price of a Nipah virus vaccine?
+  retrieved from: ['nipah & Henipaviruses.md', 'nipah_rdblueprint_roadmap_advanceddraftoct2019.md', 'nipah_rdblueprint_roadmap_advanceddraftoct2019.md']
+
+=== Retrieval Eval Aggregate ===
+Questions scored: 19 (+ 1 negative test case(s), reported separately)
+Mean Precision@3: 0.00
+Hit Rate: 0.00
+MRR: 0.00

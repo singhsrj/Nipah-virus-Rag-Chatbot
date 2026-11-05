@@ -34,6 +34,7 @@ run_full_eval.py                 Orchestrates the full pipeline end-to-end
 
 | File | Role |
 |---|---|
+| `config.py` / `retrieval.py` | Shared settings and the single index/retriever loader |
 | `build_faiss_store.py` | Ingests the corpus, builds the FAISS index |
 | `retrieve_and_generate.py` | Query-time retrieval + cited generation |
 | `evaluate.py` | The 4 evaluation metrics, as reusable scorers |
@@ -119,9 +120,12 @@ The results above are the honest partial numbers from *before* the fix — not b
 ## Setup
 
 ```bash
-uv add llama-index llama-index-embeddings-huggingface llama-index-vector-stores-faiss faiss-cpu
-uv run build_faiss_store.py
-uv run run_full_eval.py --out results.json
+uv sync                                   # install pinned deps from uv.lock
+cp .env.example .env                      # then add OPENROUTER_API_KEY and OPENROUTER_MODEL
+uv run build_faiss_store.py               # build the FAISS index from "Preprocessed Files/"
+uv run evaluate_retrieval.py              # retrieval-only eval, no API calls
+uv run run_full_eval.py --out results/run.json
 ```
 
-Requires an `OPENROUTER_API_KEY` in `.env` for generation and LLM-as-judge scoring.
+The parsed markdown in `Preprocessed Files/` is committed, so you only need a `LLAMA_CLOUD_API_KEY` if you want to re-run `parse.py` on the PDFs in `corpus/`.
+Models, paths, chunk size and `top_k` are all set in `config.py`.

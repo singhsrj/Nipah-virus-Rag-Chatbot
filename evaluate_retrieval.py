@@ -18,22 +18,9 @@ Usage:
 import argparse
 from pathlib import Path
 
-from llama_index.core import Settings, StorageContext, load_index_from_storage
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.vector_stores.faiss import FaissVectorStore
-
+from config import STORE_DIR, TOP_K
+from retrieval import load_retriever
 from test_set import test_set
-
-
-def load_retriever(store_dir: Path, top_k: int):
-    if not store_dir.exists() or not any(store_dir.iterdir()):
-        raise SystemExit(f"No vector store found at {store_dir}. Run build_faiss_store.py first.")
-
-    Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
-    vector_store = FaissVectorStore.from_persist_dir(str(store_dir))
-    storage_context = StorageContext.from_defaults(vector_store=vector_store, persist_dir=str(store_dir))
-    index = load_index_from_storage(storage_context)
-    return index.as_retriever(similarity_top_k=top_k)
 
 
 def node_is_relevant(node, item):
@@ -130,8 +117,8 @@ def run_eval(top_k: int, store_dir: str):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--top-k", type=int, default=3)
-    parser.add_argument("--store", default="vector_store")
+    parser.add_argument("--top-k", type=int, default=TOP_K)
+    parser.add_argument("--store", default=str(STORE_DIR))
     args = parser.parse_args()
 
     run_eval(top_k=args.top_k, store_dir=args.store)

@@ -1,0 +1,3021 @@
+   WHO South-East Asia
+Regional Strategy for the
+ prevention and control
+of Nipah virus infection
+        2023-2030
+
+
+
+                      World Health
+                           rgation
+REGIONAL OFICE FRr South-East Asia
+
+---
+
+NO_CONTENT_HERE
+
+---
+
+   WHO South-East Asia
+Regional Strategy for the
+ prevention and control
+of Nipah virus infection
+        2023-2030
+
+
+
+
+                     World Health
+                     Organization
+REGIONAL OFIcEFORrSouth-East Asia
+
+---
+
+    Purpose and organization of the document
+Nipah virus disease was first recognized in 1998 during an outbreak among pig farmers in
+Malaysia. Despite several outbreaks in recent years throughout the South-East Asia Region,
+WHO has not previously provided Member States with a strategy for Nipah virus prevention
+and control. The purpose of the Strategy is to support Member States of the South-East Asia
+Region, especially senior decision-makers and programme managers involved in the control
+of zoonotic diseases, prevent Nipah virus illness and death from 2023 to 2030.
+As part of a series of initiatives by the Regional Office to strengthen health systems, the
+Strategy reviews what is known about Nipah virus and recommends activities for Member
+States to support risk assessment, spillover reduction, enhanced surveillance, early diagnosis
+and rapid response. The Strategy embraces a One Health approach and recommends
+activities that can prevent and control both Nipah virus and other high-threat zoonotic
+pathogens that may emerge through similar pathways as Nipah virus.
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+ISBN: 978-92-9021-084-9
+© World Health Organization 2023
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided
+the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO
+endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt
+the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a
+translation of this work, you should add the following disclaimer along with the suggested citation: "This translation
+was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this
+translation. The original English edition shall be the binding and authentic edition".
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules
+of the World Intellectual Property Organization..
+Suggested citation. WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection,
+2023-2030. New Delhi: World Health Organization, Regional Office for South-East Asia; 2020. Licence: CC BY-NC-
+SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for
+commercial use and queries on rights and licensing, see http://www.who.int/about/licensing.
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables,
+figures or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain
+permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned
+component in the work rests solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply
+the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city
+or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on
+maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or
+recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions
+excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However,
+the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility
+for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising
+from its use.
+Printed in India
+
+---
+
+        Contents
+
+Foreword                                                                      v
+Acknowledgements        viii
+Acronyms and abbreviations                                                    x
+Executive summary                                                            xi
+1.  Background and context                                                    1
+    Nipah virus: an emerging high-threat pathogen                             1
+    Situation of NiV in WHO's South-East Asia Region                          5
+    Context for the development of the Regional Nipah virus prevention
+    and control strategy                                                      5
+    Outlining the vision and strategy                                         6
+2.  Overview of the NiV regional prevention and control strategy              8
+    Purpose of the strategy                                                   8
+    Guiding principles                                                        9
+3.  Rolling out the South-East Asia regional prevention and control strategy 11
+    Timeline for action                                                      12
+4.  Implementation actions and outcomes                                      16
+    Preparedness                                                             16
+    Prevention                                                               23
+    Detection                                                                25
+    Response                                                                 30
+    Recovery                                                                 32
+5.  Governance and financing mechanisms                                      34
+    Governance                                                               34
+    Financing the components of the Strategy and for contingencies           35
+
+---
+
+6.   Monitoring and evaluation                                             36
+7.   The way forward                                                       37
+References                                                                 38
+Annexures
+1.   M&E indicators and indicative time frames for the Region              42
+2.   Illustrative list of frameworks, guidance and tools that Member States
+     could further reference                                               46
+3.   WHO Emergency Response Framework and Regional Strategy
+     for Nipah Virus                                                       52
+
+---
+
+v
+
+
+Foreword
+
+                         Nipah virus (NiV) is an emerging zoonosis that causes
+                         acute respiratory distress, severe encephalitis and death
+                         in humans with a case-fatality rate of over 70%. NiV
+                         and several other members of the Henipavirus genus
+                         are primarily carried by Old World frugivorous bats (e.g.
+                         Pteropus species). Their home range extends from the
+                         South Pacific islands and Australia through Southeast and
+                         South Asia to Madagascar.
+                         NiV is transmitted to humans either directly by bats
+humans or via infected   through contamination of food with bat excreta, or to
+to close contacts, but    domestic animals. Infected humans can spread NiV infection
+observed. No drugs or   sustained human-to-human transmission has not yet been
+                        vaccines are currently licensed for NiV.
+NiV was first recognized during an outbreak among pig farmers in Malaysia from
+1998 to 1999, when the virus spread from pigs to humans. It was subsequently
+detected in Bangladesh and India in 2001. Since then, nearly annual outbreaks have
+been reported in Bangladesh. Infections have also been identified in the Philippines
+and periodically in eastern and southern India, the most recent case being in 2023 in
+Kerala after its emergence there in 2018.
+While human cases of NiV disease have, to date, been reported in only two countries
+of the Region (Bangladesh and India), transmission to humans can occur wherever
+susceptible animals, presence of the virus, and a pathway for transmission (e.g. date
+palm sap) exist. Other Member countries have the most common natural reservoir
+(Pteropus bats) and an abundance of domestic animals, including pigs and horses,
+which have been associated with human outbreaks or are known to be susceptible,
+including livestock. The risk of spillover is further elevated in the Region due to high
+population density and multiple interfaces for bat-human and bat-animal-human
+contact.
+WHO thus considers NiV and related henipaviruses a priority group of viruses,
+because of their broad geographical range, the wide range of animal species they
+can infect, a propensity to regularly spill over to human populations, a high case-
+fatality rate from infection and non-availability of specific licensed drugs or vaccines.
+In the aftermath of the 2018 outbreak in Kerala, India, and in light of the above
+emerging public health risks, WHO accorded the highest priority to NiV as a regional
+threat. Under the guidance of the Regional Director, WHE SE Asia Regional Office
+organized an expert consultation on NiV in October 2019. The experts proposed
+
+                         WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+vi
+
+
+to translate the recommendations into a regional strategy to guide Member
+States and WHO in preventing and controlling NiV disease. They agreed that the
+strategy should align with regional policy and strategy proclamations such as the
+Delhi Declaration 2019 on Emergency preparedness in the South-East Asia Region,
+the Five-Year Regional Strategic Plan to Strengthen Public Health Preparedness
+and Response for 2019-2023, the Asia Pacific Strategy for Emerging Diseases
+and Public Health Emergencies (APSED III). The expert group also recommended
+making a One Health approach central to the regional strategy so as to ensure
+effective multisectoral and multidisciplinary prevention, control, and response to the
+emerging threat of NiV in the Region.
+Subsequently, the COVID-19 pandemic showed that the growing threat from
+emerging infectious diseases, particularly zoonotic viruses, requires utmost and
+sustained attention, particularly during the interepidemic periods, and coordination
+between the wildlife, human and livestock sectors for epidemic preparedness and
+response. Accordingly, the development of this regional strategy is an important
+action by WHO to align with and implement its Regional strategic roadmap on
+health security and health system resilience for emergencies, 2023-2027 developed
+in 2022. This calls on the Regional Office and Member States to strengthen country
+health security systems to reduce risk, anticipate, detect early, prevent and respond
+to all hazards, particularly infectious diseases. The regional NiV Strategy also
+advances the 2022 South-East Asia Regional Roadmap for Diagnostic Preparedness,
+which promotes agile and resilient laboratory policies and systems and research
+into new technologies, using a One Health approach to surveillance, diagnosis
+and control of NiV in humans, animals and wildlife. The multisectoral One Health
+approach to addressing zoonotic diseases detailed by the Quadripartite in the
+One Health Joint Action Plan and supported by the One Health High Level Expert
+panel has been referred to and served as an overarching reference document for
+the strategy.
+This Regional Nipah prevention and control strategy that is now being released is
+well timed, given the absence of a strategic approach to NiV across all countries
+at risk in the Region. This Strategy aims to support Member States, especially
+senior decision-makers and programme managers involved in zoonotic disease
+control, prevent NiV illness and death. The Strategy recommends key activities
+and milestones for the next eight years (2023-2030) while supporting Member
+States to develop a multisectoral, multidisciplinary, risk-based approach to an
+emerging hazard. Further, this high-level document can also be used to engage with
+development partners, national and international nongovernmental organizations
+(NGOs), and other stakeholders in public health, health-care delivery, and all-hazards
+preparedness and response.
+NiV and related henipaviruses must be viewed as a continued potential threat to
+livestock and human health in the Region. Also, given that it is an emerging zoonotic
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+vii
+
+
+pathogen associated with a high mortality rate, its prevention and control will
+require strong and sustained political and financial commitments at international,
+national and regional levels to address emerging infectious diseases. No doubt, not
+all Member States will implement all activities within the roadmap. Nevertheless,
+it is pertinent to understand the existing infrastructure, capacity and resources
+of different Member States for addressing zoonotic diseases and include recent
+investments in capacity-strengthening made as part of the COVID-19 pandemic
+response. WHO will work with the One Health High-Level Expert Panel and the
+One Health Initiative as well as the Quadripartite to advocate for multisectoral,
+multidisciplinary One Health approaches to NiV prevention and control in the South-
+East Asia Region as part of the overall high-threat pathogen prevention and control
+strategy.
+My congratulations to the team that has prioritized this much-needed effort. We now
+look forward to the roll-out of this comprehensive regional approach to prevention
+and control, with a medium-term vision that has clear goals and an effective
+monitoring and evaluation framework.
+
+
+Dr Poonam Khetrapal Singh
+Regional Director
+WHO South-East Asia Region
+
+
+
+
+
+
+
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    viii
+
+
+        Acknowledgements
+
+        The "WHO South-East Asia Regional Strategy for the prevention and control of Nipah
+        virus infection, 2023-2030" was prepared by the Health Emergencies Department of
+        the WHO Regional Office for South-East Asia, Infectious Hazards Management (IHM)
+        Unit.
+        The contributions of the following are gratefully acknowledged:
+        Overall guidance
+        Dr Roderico Ofrin (Former Regional Emergency Director), Dr Edwin Salvadore
+        (Regional Emergency Director) and Dr Nilesh Buddha (Lead-Regional Emergencies)
+        Coordination
+        Regional Office: Dr Pushpa Ranjan Wijesinghe and Dr Manish Kakkar, Infectious
+        Hazards Management Unit, Health Emergencies Department
+        WHO country offices: All 11 country offices in the WHO's South-East Asia Region
+        provided technical inputs and coordinated timely feedback and inputs provided by
+        Member States.
+        Scientific contributors
+        The Strategy draws from literature review for latest evidence on Nipah virus infection
+        and inputs from the recent regional frameworks as well as technical inputs from a
+        panel of global and regional experts, under the guidance of Dr Jonathan Epstein, Vice
+        President for Science and Outreach, EcoHealth Alliance, USA.
+        The following experts were consulted for developing the Strategy:
+        Dr Jonathan Epstein, Vice President for Science and Outreach, EcoHealth Alliance,
+        USA; Dr Stephen Luby, Professor of Medicine (Infectious Diseases) and Senior
+        Fellow at the Woods Institute and the Freeman Spogli Institute and Professor, by
+        courtesy, of Epidemiology and Population Health, Stanford Woods Institute for
+        the Environment, Stanford University, USA; Dr Emily S Gurley, Professor of the
+        Practice, Division of Infectious Disease Epidemiology, Department of Epidemiology,
+        Johns Hopkins Bloomberg School of Public Health, USA; Dr Mahmudur Rahman,
+        Global Health Development (GHD) Country Representative in Bangladesh, Eastern
+        Mediterranean Public Health Network, Bangladesh and Former Director, Institute
+        of Epidemiology, Disease Control and Research and National Influenza Centre,
+        Bangladesh; Dr Pragya D Yadav, Scientist F and Group Leader, Indian Council
+        of Medical Research-National Institute of Virology, India; and Dr Supaporn
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+ix
+
+
+Wacharapluesadee, Senior Researcher, Thai Red Cross Emerging Infectious Diseases
+Clinical Centre, King Chulalongkorn Memorial Hospital, Faculty of Medicine
+Chulalongkorn University, Thailand.
+Reviewers
+WHO Member States
+Official nominees from Member States in WHO's South-East Asia Region
+Regional fice
+Dr Suman Rijal, Director Department of Communicable Diseases and Dr Karin Haar,
+Medical Officer (Epidemiologist), Communicable Disease Surveillance, Department of
+Communicable Diseases
+WHO headquarters
+Dr Pierre BH Formenty, Team lead - Viral Haemorrhagic Fevers (VHF), Health
+Emergency Interventions (HEI), Health Emergencies programme; Dr Marie-Christine
+Bartens, Technical Officer, Health Emergency Interventions (HEI), Health Emergencies
+programme
+Illustrations
+Fig. 1 and 2: Courtesy: EcoHealth Alliance, USA, 2023
+Drafting the Strategy
+The Strategy was drafted on behalf of WHO by Dr Peter Black and Dr Jay K Varma,
+Consultants, Infectious Hazards Management Unit, Health Emergencies Department,
+WHO Regional Office for South-East Asia.
+Funding
+This activity was executed with internal funding support of WHO through the
+Assessed Countributions (AC) bearing award no. 69479.
+While WHO has used best efforts in preparing this Strategy, it makes no
+representations or warranties with respect to the accuracy or completeness of the
+contents of this Strategy. The advice and strategies contained herein may have to
+be suitably adapted for your specific situation. You should use the existing national
+mechanisms where appropriate to make sure that you have adapted the appropriate
+strategies and activities required for the prevention and control of Nipah virus in your
+settings.
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    x
+
+
+Acronyms and abbreviations
+
+    AES         acute encephalitis syndrome
+    CFR         case-fatality rate
+    CEPI        Coalition for Epidemic Preparedness Innovations
+    COVID       coronavirus disease
+    EID         emerging infectious disease
+    ELISA       enzyme-linked immunosorbent assay
+    ERF         Emergency Response Framework
+    FAO         United Nations Food and Agriculture Organization
+    ICDDR,B     International Centre for Diarrhoeal Disease Research, Bangladesh
+    ICMR        Indian Council of Medical Research
+    IEDCR       Institute of Epidemiology, Disease Control and Research
+    IHR         International Health Regulations
+    IPC         infection prevention and control
+    IPBES       Intergovernmental Science-Policy Platform for Biodiversity
+                and Ecosystem Services
+    JEE         joint external evaluation
+    JRA         joint risk assessment
+    M&E         monitoring and evaluation
+    NAPHS       national action plan for health security
+    NIAID       United States National Institute of Allergy and Infectious Diseases
+    NIH         United States National Institutes of Health
+    NiV         Nipah virus
+    NVD         Nipah virus disease
+    RT-PCR      reverse transcriptase-polymerase chain reaction
+    rRT-PCR     Real-time reverse transcriptase polymerase chain reaction
+    SARI        severe acute respiratory iillness
+    SARS-CoV-2  severe acute respiratory syndrome coronavirus 2
+    SE          South-East
+    SIS OT      Surveillance Information Sharing Operational Tool
+    UNEP        United Nations Environment Programme
+    WHO         World Health Organization
+    WOAH        World Organization for Animal Health
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+xi
+
+
+Executive     summary
+
+Nipah virus (NiV) is an emerging zoonotic virus that has caused outbreaks of severe
+illness and death in the South-East (SE) Asia Region. While human NiV cases have,
+to date, been reported only in Bangladesh and India, countries in the Region are at
+risk wherever there are susceptible animals, presence of the virus, and a pathway for
+transmission. The COVID-19 pandemic has revealed and underscored the need for
+systematic One Health approaches to reducing spillover of pathogens from animals
+into humans and preventing severe illness and death in humans, domestic animals
+and wildlife. Within the WHO SE Asia Region, substantial challenges remain in
+strengthening health systems and pandemic preparedness and response for high-
+threat pathogens such as NiV.
+The WHO SE Asia Region Strategy for Nipah Virus Prevention and Control, 2023-
+2030 was developed to support Member States, especially senior decision-makers
+and programme managers involved in zoonotic disease control, to prevent illness
+and death due to NiV. The Strategy is one of several WHO initiatives in the Region
+to strengthen systems to prevent and control NiV, including a standard operating
+procedure laboratory manual, NiV disease profile to support systematic risk
+assessment, prevention and control at the national level, and policy briefs to enable
+high-level engagement.
+The document describes the key components of the Strategy, priority activities
+for each component, milestones and timelines based on whether countries have
+reported human cases or not. The key components include the following:
+¤  Improve understanding of the socioecological aspects.
+¤  Enhance policy, strategy and regulatory capacity.
+¤  Increase multisectoral, One Health system capacity and readiness for detection,
+   early warning, and response to cases and outbreaks.
+¤  Enhance risk communication and awareness to reduce spillover and spread.
+¤  Promote research and development.
+¤  Promote behavioural changes to reduce risk.
+¤  Improve control of disease in domestic animals through enhanced biosecurity.
+¤  Increase laboratory diagnostic capability in human, animal and wildlife health
+   sectors.
+¤  Increase surveillance and information-sharing among human, animal and wildlife
+   health sectors.
+¤  Improve clinical diagnosis and case management.
+
+
+   WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+xii
+
+
+¤  Develop and improve access to medical countermeasures.
+¤  Ensure resilience.
+An eight-year timeframe (2023-2030) has been proposed for Member States in the
+Region to implement the Strategy, which has been adapted to suit their unique
+country situations and address their risks and vulnerabilities. The resources and
+effort allocated to the activites in this Strategy will vary by Member State. The
+Strategy anticipates that multiple sectors and stakeholders will contribute to activities
+consistent with a One Health approach. WHO and its Quadripartite partners (Food
+and Agriculture Organization, World Organization for Animal Health, United Nations
+Environment Programme) must advocate, promote and support Member States in
+coordinating across ministries and agencies involved in the prevention and control of
+zoonoses.
+
+
+
+
+
+
+
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+Background and context  1
+
+
+
+
+
+Countries in the WHO South-East (SE) Asia Region have, until now, addressed
+Nipah virus (NiV) prevention and control in the context of outbreaks. The COVID-19
+pandemic has raised political commitment and resources to strengthen health
+systems, health security, and One Health coordination to address high-threat
+infectious diseases, such as NiV.
+
+Nipah virus: an emerging high-threat pathogen
+The virus
+NiV is an emerging zoonotic paramyxovirus of the genus Henipavirus that can cause
+acute respiratory distress, severe encephalitis and death in humans (1,2.) NiV and
+several other members of the Henipavirus genus, such as Hendra virus, are primarily
+carried by bats. NiV is transmitted to humans either through contamination of food
+with bat excreta or via infected domestic animals. Infected humans can spread NiV
+to close contacts, but sustained human-to-human transmission has not yet been
+observed. WHO considers NiV and related henipaviruses priority pathogens for
+pandemic preparedness and response, because of their broad geographical range,
+the wide range of animal species they can infect, a propensity to regularly spill over
+into human populations, and a high case-fatality rate (CFR) from infection (2,3). While
+this Strategy focuses on NiV, it will also refer to henipaviruses for some activities,
+because other members of this genus have the potential to cause epidemics,
+infections in humans may arise from similar pathways as NiV, and the activities to
+prevent and control NiV may help with other bat-borne henipaviruses.
+Natural reservoir: Pteropus spp. fruit bats
+The primary natural reservoir for NiV and other henipaviruses is old-world
+frugivorous bats, especially those within the genus Pteropus (family Pteropodidae),
+known commonly as flying foxes or fruit bats. Their home range extends from
+the South Pacific islands and Australia through Southeast and South Asia to
+Madagascar (4,5,6,7,8,9,10) (Fig. 1 Map). They tend to live in close association with
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    2
+
+
+    people and forage on a large variety of fruits or sap harvested from cultivated
+    date palm trees, which can create opportunity for spillover into domestic animals
+    or people. Recently, anti-NiV immunoglobulin (Ig)G antibodies were identified in
+    Rousettus leschenaultii bats during an NiV investigation in Kerala, India, suggesting
+    that this species may also play a role in henipavirus circulation (11).
+    NiV outbreaks
+    NiV was first recognized during an outbreak among pig farmers in Malaysia
+    from 1998 to1999, when the virus had spread from pigs to humans (12). NiV was
+    subsequently detected in Bangladesh and India in 2001. Nearly annual outbreaks
+    have been reported in Bangladesh since, and infections have also been identified in
+    the Philippines and periodically in eastern and southern India, the most recent case
+    being in 2023 in Kerala (4,13,14,15,16,17).
+    Fig. 1. Global henipavirus and major host distribution. The map indicates countries where
+    Nipah virus or another henipavirus has been detected in bats and/or humans. The map also
+    shows the home ranges for Pteropus species, Rousettus aegyptiacus and Eidolon helvum,
+    which have broad distributions and have been associated with henipavirus infection.
+
+    Global henipavirus distribution
+
+
+
+
+
+
+
+
+
+
+    KEY
+    Pteropus distribution      RNA / Virus / Antibodies   Human         N Nipah Virus
+    Eidolon helvum distribution      detected             Bat (Pteropus)  Henipavirus
+    Rousettus aegyptiacus distribution                    Bat (Other)
+
+Courtesy: EcoHealth Alliance, USA, 2023
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+
+
+
+
+
+
+
+
+
+H
+
+---
+
+3
+
+
+Transmission and prevention
+NiV is transmitted by bodily fluids of an infected animal or person (Fig. 2). To date,
+all documented outbreaks began with transmission from bats or domestic animals to
+humans. During the first recognized outbreak in Malaysia and Singapore, all reported
+human cases were thought to result from exposure to aerosolized particles from pigs
+with severe respiratory disease or from direct contact with infectious tissues or other
+bodily fluids during the slaughtering process (18,19). In Bangladesh, excreta from
+bats is believed to have contaminated raw or fermented date palm sap, which then
+infected humans.
+Humans transmit infections to other humans through close contact with bodily fluids,
+such as saliva, urine, and feces, particularly in health-care settings (16,20,21). In one
+analysis, men over the age of 45 years with severe respiratory illness were more likely
+to transmit NiV to other humans than other cases (22).
+Human NiV infections can be prevented by changing how individuals and
+communities interact with bats, other susceptible animals, and food sources at risk
+for NiV contamination, as shown in Figure 2. Enhanced biosecurity measures on
+farms that raise pigs, horses, and cattle also reduce the risk of animal NiV outbreaks
+and spillover into humans.
+Fig. 2. Transmission pathways of NiV between natural hosts and susceptible species
+
+Transmission pathways for Nipah virus
+
+                                                                         The major reservoirs for Nipah virus
+                                                                         are species of large frugivorous bats in
+
+                              route of exposure is unknown, but
+                          palm sap and contaminate
+                          sap with excreta.
+
+                                                                                                                 Pigs have been infected with
+                                                                                                                 Nipah virus by eating fruit
+                                                                          Transmission from pigs to
+                                                       People have been   the aerosolization of virus
+Consumption of                                infected with Nipah virus   when infected pigs develop
+sap contaminated                                   after consuming meat   severe respiratory disease
+with bat excreta                                  from infected horses.
+and Nipah virus
+leads to infection.
+
+Courtesy: EcoHealth Alliance, USA, 2023
+
+
+
+                          WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+4
+
+
+Signs and symptoms
+Infected humans usually develop symptoms 4-14 days after exposure to an infected
+human, animal or food source. Initial symptoms may include fever, headache, sore
+throat, vomiting and myalgia. Pulmonary infection results in cough and difficulty
+in breathing, with infiltrates suggestive of atypical pneumonia on chest X-ray.
+Neurological infection may result in encephalitis, including dizziness, drowsiness,
+altered consciousness, seizures and, in some cases, coma. The CFR is estimated to
+be between 40% and 75%, and has been 100% in some outbreaks (2). The wide
+variability in fatality rate is likely related to the availability and quality of mechanical
+ventilation, haemodynamic support and other critical care services.
+Diagnosis
+Because the clinical presentation of NiV infection is non-specific, diagnosis depends
+on epidemiology or laboratory testing. NiV infection can be presumptively diagnosed
+ina patients with atypical pneumonia and/or encephalitis who also report exposure to
+on        confirmed NiV case, infected animal, or known source. Definitive diagnosis depends
+    laboratory testing, including:
+    1.   real-time reverse transcriptase polymerase chain reaction (rRT-PCR) or
+         reverse transcriptase polymerase chain reaction (RT-PCR) from blood, urine,
+         tissue samples and cerebrospinal fluid (CSF) or
+    2.   IgM antibody detection in serum via enzyme-linked immunosorbent assay
+         (ELISA) or
+    3.   virus isolation by cell culture (under biosafety level 4 laboratory conditions).
+As of 2022, these assays are available only in a small number of laboratories in the
+Region.
+Case management, vaccines and therapeutics
+Patients with NiV are primarily managed through supportive therapy for respiratory,
+neurological, haemodynamic and other complications. No therapeutics or vaccines
+are currently licensed for NiV. In 2019, WHO listed NiV as a priority pathogen for the
+development of vaccines and therapeutics, which has led to a substantial increase in
+research and development. Ribavirin, a nucleoside inhibitor, has been studied using
+in vitro and in vivo experiments, and was used to treat patients in one outbreak
+(23,24,25,26,27,28,29,30). Remdesivir has been studied as post-exposure prophylaxis
+in non-human primates (31). Research is ongoing into the effectiveness of fusion
+inhibitory peptides, monoclonal antibodies and next-generation antibodies derived
+from a peptide display library (32,33,34,35,36,37).
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+5
+
+
+Situation of NiV in WHO's South-East Asia Region
+While human cases of NiV disease have, to date, been reported in only two
+Member countries (Bangladesh, India), transmission to humans can occur wher-
+ever there are susceptible animals, presence of the virus and a pathway for
+transmission (e.g. date palm sap). Other countries of the SE Asia Region have the
+most common natural reservoir (Pteropus bats) and an abundance of domestic
+animals, including pigs, horses and livestock, which have been associated with
+human outbreaks or are known to be susceptible. The risk of spillover increases
+with high population density and interfaces for bat-human and bat-animal-hu-
+man contact, including commercial trade.
+Context for the development of the Regional Nipah
+virus prevention and control strategy
+In the aftermath of the 2018 outbreak in Kerala, India, WHO accorded the highest
+priority to NiV as a regional threat. Under the guidance of the Regional Director, the
+Regional Office organized an expert consultation on NiV in October 2019. Twenty-
+four experts from India, Bangladesh, Malaysia, Thailand, the United States of America,
+and the United Kingdom attended the meeting and identified a range of priorities
+and recommendations across 10 thematic areas.
+The experts proposed to translate the recommendations into a regional strategy
+to guide Member States and WHO in preventing and controlling NiV disease. The
+experts also agreed that the strategy should align with regional policy and strategy
+proclamations, such as the Delhi Declaration 2019 on Emergency preparedness in
+the South-East Asia Region, the Five-Year Regional Strategic Plan to Strengthen
+Public Health Preparedness and Response for 2019-2023, the Asia Pacific Strategy
+for Emerging Diseases and Public Health Emergencies (APSED III) and the National
+Action Plans for Health Security (NAPHS) approach that is consistent with the
+International Health Regulations (IHR) 2005 (38,39). Notably, the development of
+this Regional Strategy is an important action by WHO to implement its Regional
+Strategic Roadmap on health security and health system resilience for emergencies,
+2023-2027 developed in 2022 (40). That roadmap called on the Regional Office
+and Member States to strengthen country health security systems to reduce risk,
+anticipate, detect early, prevent and respond to all hazards, particularly infectious
+diseases. In developing a strategy for NiV prevention and control, the Regional Office
+is supporting Member States to develop a multisectoral, multidisciplinary, risk-based
+approach to an emerging hazard. Given that there are no licensed therapeutics or
+vaccines, outbreak prevention and control depend on early detection and response
+and ongoing efforts by WHO, Member States and nongovernmental organizations
+(NGOs) to strengthen One Health partnerships, health-care systems, laboratory
+capacity and epidemic preparedness.
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+6
+
+
+The COVID-19 pandemic has shown that the growing threat from emerging
+infectious diseases (EIDs), particularly zoonotic viruses, requires utmost and sustained
+attention, particularly during interepidemic periods, and coordination between the
+wildlife, human and livestock sectors for epidemic preparedness and response (41).
+The multisectoral One Health approach to addressing zoonotic diseases detailed
+by the Quadripartite in the One Health Joint Action Plan and supported by
+the One Health High Level Expert panel has been referred to and served as an
+overarching reference document for the strategy (42). The Regional NiV Strategy also
+advances the 2022 South-East Asia Regional Roadmap for diagnostic preparedness,
+integrated laboratory networking and genomic surveillance (2023-2027) by
+promoting agile and resilient laboratory policies and systems and research into new
+technologies, including genomics, using a One Health approach to surveillance,
+diagnosis, and control of NiV in humans, animals, and wildlife (43).
+The NiV prevention and control strategy is well timed, given the absence of a
+strategic approach to NiV across all countries at risk in the SE Asia Region. In the two
+countries with recurrent outbreaks, the approach has primarily focused on managing
+acute events rather than a comprehensive prevention and control strategy. In other
+Member States, NiV surveillance has been limited, making it difficult to assess and
+therefore mitigate risk comprehensively. The proposed strategy recommends key
+activities for the next eight years (2023-2030) which, while specifically aimed at
+addressing the NiV threat, will be successful only if they are accompanied by more
+fundamental strengthening of health and pandemic preparedness systems.
+One important technical and scientific consideration has been whether the scope
+of this strategy should encompass all henipaviruses or stay restricted to NiV. The
+argument in favour of a broader approach is that prior global initiatives that were
+focused on single agents, e.g. Ebola, severe acute respiratory syndrome (SARS),
+could have better enhanced pandemic preparedness by focusing on groups of
+related pathogens for the development of diagnostics, therapeutics and vaccines.
+The argument opposing such an approach is that NiV is the only henipavirus known
+to have caused recurrent severe illness and death in humans, and governments
+must prioritize resources for known hazards over potential hazards. This strategy,
+therefore, focuses on NiV, but references a broader approach to henipaviruses in
+specific areas, such as surveillance, diagnosis, vaccines and therapeutics.
+Outlining the vision and strategy
+Vision
+To prevent NiV illness and death within human populations in the South-East Asia
+Region by 2030
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+7
+
+
+Strategy
+¤  Improve understanding of the socioecological aspects.
+¤  Enhance policy, strategy and regulatory capacity.
+¤  Increase multisectoral, One Health system capacity and readiness for
+   detection, early warning and response to cases and outbreaks.
+¤  Enhance risk communication and awareness to reduce spillover and spread.
+¤  Promote research and development.
+¤  Promote behavioural changes to reduce risk.
+¤  Improve control of disease in domestic animals through enhanced
+   biosecurity.
+¤  Increase laboratory diagnostic capability in the human, animal and wildlife
+   health sectors.
+¤  Increase surveillance and information-sharing among human, animal and
+   wildlife health sectors.
+¤  Improve clinical diagnosis and case management.
+¤  Develop and improve access to medical countermeasures.
+¤  Ensure resilience.
+
+
+
+
+
+
+
+
+
+
+   WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    2
+    8
+
+
+    Overview of  the NiV
+    regional prevention and
+    control strategy
+
+
+
+
+Purpose of the strategy
+The purpose of the Strategy is to support Member States of the WHO SE Asia Region,
+especially senior decision-makers and programme managers involved in zoonotic
+disease control, in preventing NiV illness and death from 2023 to 2030. This high-
+level document can also be used to engage with development partners, national and
+international NGOs, and other stakeholders in public health, health-care delivery,
+and all-hazards preparedness and response. The Strategy is one of several regional
+initiatives to strengthen systems to prevent and control NiV, including a standard
+operating procedure (SOP) laboratory manual, NiV disease profile to support
+systematic risk assessment, prevention and control at the national level, and policy
+briefs to enable high-level engagement.
+The document describes the key components of the Strategy, priority activities
+for each component, milestones and timelines based on whether countries have
+reported human cases or not. A monitoring and evaluation (M&E) section describes
+indicators to assess progress for the Region in achieving the Strategy. Using a One
+Health approach, the document may also help programme managers develop
+strategies to prevent and control other zoonotic pathogens.
+
+
+
+
+
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    9
+
+
+    Guiding principles
+    The Strategy was developed with several principles in mind:
+    1.   NiV is an emerging zoonotic pathogen in the Region and is associated with
+         severe illness and death.
+    2.   Not all Member States are at equal risk of NiV outbreaks, due to variability in
+         health systems and the presence of the animal host, virus, susceptible animals
+         and pathways of transmission.
+    3.   While the focus of this Strategy is on NiV, some recommended actions,
+         particularly regarding diagnosis and surveillance, should encompass the genus of
+         henipaviruses to prepare for related high-threat infectious disease hazards.
+    4.   NiV prevention requires a One Health approach, involving the human, animal and
+         wildlife sectors, and must include actions to reduce spillover of NiV and related
+         henipaviruses into domestic animals and from domestic animals into humans.
+    5.   Preventing and controlling NiV disease requires strong and sustained political
+         and financial commitment at the international, regional and national levels.
+    6.   Investments in NiV prevention and control should leverage investments related
+         to COVID-19 and other EIDs, including surveillance, laboratory systems, clinical
+         care, infection prevention and control (IPC), medical countermeasures, risk
+         communication, coordination and recovery.
+    7.   Investments in reducing NiV spillover, spread, illness and death will strengthen
+         health systems to prepare for, prevent, detect, respond to and recover from other
+         infectious hazards.
+    The Strategy follows the overall Emergency Response Framework (ERF)1 of
+    preparedness, prevention, detection, response and recovery. Each component of
+    the Strategy includes key activities and outcomes for the next eight-year period by
+    Member States and WHO. The Strategy includes broad guidance on governance,
+    financing, and M&E across the entire Region. The relationship between the ERF,
+    Strategy and activities is captured in Fig. 3 and Annexure 3.
+
+
+
+
+
+1 The purpose of the ERF is to clarify WHO's roles and responsibilities in emergency response and to provide a
+   common approach for WHO's work in emergencies. The ERF provides WHO staff with essential guidance on how
+   the Organization manages the assessment, grading and response to public health events and emergencies with
+   health consequences, in support of Member States and affected communities. It adopts an all-hazards approach
+   and is therefore applicable in all public health events and emergencies.
+
+        WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+10
+
+
+
+Fig. 3. Relationship between WHO Emergency Response Framework and main
+components of South-East Asia Regional Nipah Virus Strategy.
+•    Preparedness
+•    Socio-ecological aspects
+•    Policy, strategy, regulatory
+     Multi-sectoral health
+•    system capacity
+•    Risk communication
+     Research and development
+
+
+Recovery    •  Prevention
+• Resiliency    • Behavioral changes
+         Biosecurity
+
+
+
+
+•  Response
+   Diagnosis and case       Detection
+•  management            •  Lab capacity
+   Medical        '
+   countermeasures       •  Surveillance
+
+
+
+
+
+
+
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    3
+   11
+
+
+Rolling out the South-East
+Asia regional prevention
+and control strategy
+
+
+
+
+
+    The resources and effort allocated to the activites in this Strategy will vary by
+    Member State. All Member States should have had a One Health risk assessment
+    (e.g. joint risk assessment [JRA]) to better understand their NiV risk profile. The risk
+    assessment may have been conducted as part of IHR core capacity implementation
+    or One Health and whole-of-government approaches to all hazards, such as the
+    NAPHS. This is consistent with the Regional Office's approach to encouraging
+    development of multisectoral and multidisciplinary networks to address emerging
+    zoonoses with pandemic potential, such as NiV. An eight-year time frame (2023-
+    2030) has been proposed for Member States in the Region to implement the
+    Strategy, which has been adapted to suit their unique country situations and address
+    their risks and vulnerabilities.
+    The risk of NiV across Member States is poorly understood due to the inconsistency
+    and, in some cases, lack of surveillance in humans and animals. While multiple
+    outbreaks have been detected in the two countries that conduct surveillance and
+    have laboratory diagnostic capacity for NiV (Bangladesh, India), it is possible that
+    infections have occurred but not been detected in other Member States. For the
+    Strategy, Member States will be categorized as below:
+Category    Criteria                             Member States
+    A       Human infections reported        India, Bangladesh
+    B       Natural reservoir present;       Bhutan, Indonesia, Maldives,
+            no human infections reported     Myanmar, Nepal, Sri Lanka,
+                                             Thailand, Timor-Leste
+    DPR Korea: natural reservoir not known to be present; no human infections reported. At present, Pteropus bats are
+    not known to occur in the Democratic People's Republic of Korea (DPR Korea). While it is possible that there are
+    other, related Pteropodid species (e.g. Rousettus leschenaulti) present that may be hosts to NiV, further studies of NiV
+    host distribution and viral ecology are needed to classify DPR Korea as at risk.
+
+
+            WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+12
+
+
+            Member States should set priorities and an appropriate budget for planned activities
+            based on their risk assessment and existing resources. For Category A, most of the
+            investment needs to take place by 2024 and has more of a bias towards activities
+            needed for outbreak response, whereas for Category B, there is a relatively more
+            extended time frame covering all elements of the framework over time. The risk
+            category assignment of Member States may change during the period of the
+            Strategy as new evidence related to NiV infection in humans or animals emerges.
+            The Strategy anticipates that multiple sectors and stakeholders, both public and
+            private, government and academic (e.g. via research or capacity-building activities)
+            will contribute to activities consistent with a One Health approach. Coordination
+            across ministries and agencies involved in the prevention and control of zoonoses
+            will be critical. WHO and its Quadripartite partners (FAO, WOAH, UNEP) must
+            advocate to, promote the Strategy and support Member States in coordinating
+            across ministries and agencies involved in the prevention and control of zoonoses.
+
+            Timeline for action
+            Components of the Strategy and key activities for Member States to prevent
+            and control NiV disease by 2030 are listed in Table 1 within the preparedness,
+            prevention, detection, response and recovery headings. Timelines within this table
+            are indicated separately for Category A and Category B Member States. Note that
+            most of the 2024 timelines are for Category A countries (Bangladesh and India),
+            which have systems in place and activities ongoing. For Category B, achievement
+            refers to the year when more than 50% of those Category B Member States would
+            have commenced work on implementing these activities. Many other activities are
+            ongoing and require continued investment and support.
+Table 1. Components of activities and timelines for the South-East Asia Regional Strategy
+                                                                         Timeline*
+                2024                                                        2025 2027     2030
+Preparedness
+Improve understanding of socioecological aspects
+Conduct studies to improve understanding of relevant bat species, NiV   A        B
+prevalence, and spillover and transmission pathways
+Conduct and disseminate systematic risk assessments                     A                    B
+Policy, strategy and regulatory capacity
+Leverage IHR to improve core capacities                                          A           B
+Develop, implement, and test national plans for NiV                              A           B
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+  13
+
+
+
+                                                                                Timeline*
+2024                                                                             2025 2027 2030
+  Coordinate between human, animal and wildlife health agencies to           A               B
+  strengthen capacity for NiV and other health emergencies
+  Strengthen regulatory capacities and systems for medical                            A      B
+  countermeasures
+  Increase multisectoral, One Health system capacity and readiness
+  for detection, early warning, and response to cases and outbreaks
+  Ensure functional mechanism for coordinating communication and             A        B
+  data-sharing for surveillance in human, animal and wildlife populations
+  Ensure One Health mechanisms at the subnational level for                  A        B
+  preparedness and response
+  Continue to invest and strengthen IHR core capacities at national and      A    B
+  subnational levels
+  Develop and continuously build a multidisciplinary health workforce        A    B
+  Establish systems for deployment of multidisciplinary outbreak             A        B
+  investigation teams
+  Enhance risk communication and awareness to reduce spillover
+  and spread
+  Strengthen risk messaging for NiV spillover, spread and outbreak           A        B
+  response
+  Educate about the value of bats and other wildlife species                 A        B
+  Evaluate approaches to making interventions more affordable and            A        B
+  acceptable in communities
+  Promote research and development
+  Map priority NiV knowledge gaps and identify common research               A        B
+  challenges
+  Support SE Asia Regional Research platform activities for NiV              A        B
+  Prevention
+  Promote behavioural changes to reduce risk
+  Strengthen links between social science and public health practitioners,   A        B
+  clinicians, veterinarians, wildlife practitioners and animal caretakers
+  Engage social scientists to understand community perceptions and           A        B
+  practices
+  Develop locally appropriate protocols for NiV spillover reduction          A        B
+  Improve control of disease in domestic animals through enhanced
+  biosecurity
+  Identify all farms that raise pigs, horses and/or livestock in areas at    A        B
+  highest risk to strengthen biosecurity
+
+      WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+  14
+
+
+
+                                                                                    Timeline*
+2024                                                                               2025 2027 2030
+  Strengthen messaging to farms of all sizes about the economic                A        B
+  benefits of biosecurity
+  Promote training of veterinarians, farmers and others in national            A        B
+  biosecurity protocols
+  Detection
+  Increase laboratory diagnostic capability in the human, animal
+  and wildlife sectors
+  Develop and implement national and regional laboratory surveillance          A    B
+  standards for prompt and accurate NiV diagnosis and safe and timely
+  specimen collection, storage, transport and handling
+  Develop plans for enhancing capacity of national and subnational             A    B
+  laboratories and improving access to specialized laboratories
+  Train the laboratory workforce in molecular and serological platforms        A    B
+  Work with WHO and WOAH to strengthen national referral                       A    B
+  laboratories and mobilize support for a regional reference laboratory
+  Increase surveillance and information-sharing among the human,
+  animal and wildlife sectors
+  Develop national surveillance and outbreak response protocols for            A        B
+  humans, bats and other animals
+  Develop workforce in veterinary and wildlife departments to conduct          A        B
+  bat surveillance
+  Incorporate additional epidemiological data collection into surveillance     A    B
+  to support risk assessment
+  Strengthen capacity for syndromic surveillance, event-based                  A    B
+  surveillance, rumour detection in humans, domestic animals and
+  wildlife
+  Strengthen knowledge and awareness in human, animal and wildlife             A    B
+  health professionals for prompt disease detection
+  Response
+  Improve clinical diagnosis and case management
+  Strengthen surge capacity of health facilities, isolation areas, IPC         A        B
+  practices and intensive care for managing NiV-infected patients
+  Improve access to IPC in hospitals and other facilities likely to care for   A    B
+  NiV-infected patients
+  Facilitate access and participation of clinicians to NiV knowledge           A    B
+  networks
+  Establish national guidelines on clinical management, IPC, transfer to       A        B
+  specialized centres and follow up
+
+
+  WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+15
+
+
+
+                                                                            Timeline*
+                                                                      2024     2025 2027  2030
+Establish guidance for collection of clinical data on specialized       A             B
+populations with linkage to national NiV surveillance systems
+Develop and improve access to medical countermeasures
+Support capacity for exploratory studies and clinical trials of vaccines
+and therapeutics in populations at risk for NiV transmission
+Review existing regulatory laws, specifically for high-threat pathogens
+requiring expedited processes for vaccines and therapeutics                 Regional focus
+Contextualize and adapt the protocol for the use of monoclonal
+antibodies
+Recovery
+Ensure resilience
+Strengthen the capacity of local communities affected by NiV infection  A                 B
+to avoid recurrent outbreaks
+Institutionalize mechanisms for conducting after action reviews and     A                 B
+incorporating lessons learned into NiV prevention and response plans
+* when more than 50% of Category B Member States would have commenced work to implement these
+activities.
+Member States should align and incorporate components and key activities detailed
+in the Regional Strategy into relevant existing national documents, including NAPHS,
+to ensure a harmonized approach to NiV preparedness, prevention, detection,
+response and recovery. The national strategic and operational plan will consider
+current NiV epidemiology, risk levels, and prevention and control capacities in
+respective Member States and will be supported by M&E plans to ensure alignment,
+implementation, and realization of national and regional goals and targets.
+The NiV national plans will require adaptation of global and regional standard
+guidance and tools for implementation of key actions. Annexure 2 provides an
+illustrative list of documents for Member States to refer to and adapt. WHO will
+continue to develop further guidance, where lacking, to facilitate implementation.
+WHO will provide technical support for overall implementation and M&E of NiV
+prevention and control in the Region. This will include support for development
+of national strategic/operational plans and technical guidance, as well as capacity-
+building, including through mobilization of regional and global expertise through
+networks and centres of excellence. One Health coordination to ensure alignment
+and implementation of corresponding activities will be done through the Asia-Pacific
+Regional Quadripartite offices and respective country offices.
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+4
+16
+
+
+Implementation actions
+and outcomes
+
+
+
+
+Preparedness
+Improve understanding of socioecological aspects
+Key issues
+The wide geographical distribution of Pteropus and other relevant bat species
+suggests that NiV and related henipaviruses are more widespread in the South-
+East Asia Region than in the two countries (Bangladesh, India) that have reported
+human cases. Targeted surveillance in human and animal populations is needed to
+better characterize NiV distribution and incidence. The distribution of NiV hosts,
+and therefore the virus, is also likely to change over the period of this Strategy.
+Forest fragmentation, climate change, human encroachment and increased
+livestock production impact the distribution and behaviour of bats and other
+wildlife reservoirs, which may increase the frequency of NiV and other henipavirus
+spillover (44,45,46,47,48,49). Infection control measures in domestic animal rearing
+("biosecurity") and in human health-care facilities ("IPC") remain inadequate across
+Member States, helping to amplify outbreaks after spillover occurs. The potential for
+NiV to emerge in new areas of the SE Asia Region is fast growing, as indicated by the
+first detection of NiV in Kerala in 2018 and subsequent cases detected in 2019, 2021
+and 2023.
+Although recent modelling studies have attempted to identify higher-risk areas
+within the Region (50), formal One Health risk assessments that involve all relevant
+sectors are needed to estimate the likelihood and impact of NiV spillover and spread
+in each Member State. Key risk questions include the following:
+1.   How frequently does human infection occur in Category A and B countries?
+2.   What is the likelihood and impact of NiV infection being detected in a new area
+     within a Category A country within the next 4 years?
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+17
+
+
+3.   What is the likelihood and impact of NiV infection being detected anywhere in a
+     Category B country within the next 4 years?
+4.   What is the distribution, if any, of NiV and related henipavirus host species and
+     prevalence of detectable henipavirus in the one Member State (DPR Korea) in
+     which neither the virus nor susceptible hosts have been documented?
+Key actions
+For Member States
+¤    Conduct studies to improve understanding of the abundance and distribution
+     of Pteropus bats and other relevant bat species associated with henipaviruses
+     (e.g. Rousettus species); determine NiV prevalence in bats or at a minimum,
+     whether shedding is occurring in excreta; identify likely spillover and transmission
+     pathways to livestock and humans, and socioanthropological and health system
+     drivers of outbreaks with a focus on local areas with a high incidence of acute
+     encephalitis syndrome (AES) or severe acute respiratory illness (SARI) in humans.
+¤    Conduct and disseminate systematic risk assessments2 to assess the likelihood
+     and impact of NiV spillover and transmission in different domestic animal species
+     and humans.
+For WHO
+¤    Conduct workshops to review henipavirus surveillance, detection and diagnosis,
+     focusing on field sampling strategies and laboratory techniques.
+¤    Facilitate collaboration for research and investigation through regional platforms
+     for high-threat pathogens (e.g. South-East Asia Regional Knowledge Network for
+     IHR national focal points (NFP)+, Regional Research Platform, etc.)
+¤    Provide technical support for One Health risk assessment through mobilization of
+     Quadripartite partners (e.g. FAO to assist with livestock biosecurity improvement
+     strategies).
+Key outcomes
+¤    One Health NiV risk assessments completed in each Member State (Category A
+     by 2024, Category B by 2027), including: understanding of NiV and henipivirus
+     host species and ecology; identification of high-risk points of contact between
+     bat reservoirs, livestock and people; presence of NiV in bats, abilty to detect NiV
+     infection in domestic animals and humans; and estimated incidence in human
+     populations (Category A by 2024 and Category B by 2030)
+2   The joint risk assessment (JRA) (with available standard tools) that has been jointly developed by the Tripartite
+    allows Member States to undertake a formal One Health risk assessment. The tool has been designed to assist
+    Member States to identify, assess, manage and reduce risks from zoonotic diseases such as NiV, which benefit
+    from coordination and collaboration between ministries and other agencies responsible for various aspects
+    of human health, animal health and the environment; JRA tool at https://www.who.int/initiatives/tripartite-
+    zoonosis-guide/joint-risk-assessment-operational-tool.
+
+         WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+18
+
+
+Enhance policy, strategy and regulatory capacity
+Key issues
+In the human health sector, IHR (2005) has provided the most important framework
+for strengthening preparedness and response capacities for infectious hazards in
+Member States. Similar efforts in the animal health sector have been guided by
+tools such as the World Organization for Animal Health (WOAH)'s Performance
+of Veterinary Services (PVS). For high-threat pathogens at the human-animal-
+environment interface, such as NiV, the Quadripartite has provided One Health
+tools to strengthen One Health preparedness and response capacity. Similarly,
+the Pandemic Influenza Preparedness (PIP) framework serves as a template for
+Member States to use against other high-threat pathogens of pandemic potential.
+The South-East Asia regional policy and strategy proclamations on health security,
+health resilience and diagnostic preparedness in the Region referred to earlier in
+this document have also played an important role by providing an enabling policy
+environment that is consistent with the IHR (2005).
+In the Region, these mainstream efforts have often been supported by other research
+and programmes, including the Field Epidemiology Training Programme (FETP)
+and associated veterinary, laboratory and wildlife workforce training programmes
+(e.g. FETP-V, FELTP); USAID PREDICT (2009-2019) for training field and laboratory
+scientists from the human and animal sectors in viral surveillance and research
+activities, including for henipaviruses; Global Health Security Agenda (GHSA), a
+Member State-led collaborative initiative, for laboratory and epidemiology capacity
+strengthening across a range of EIDs and pathogens of pandemic potential.
+The COVID-19 pandemic demonstrated how major gaps remain in the human, animal
+and wildlife animal sectors. It is critical now for Member States to leverage funding
+and initiatives from COVID-19 toward other acute public health threats, such as NiV,
+and to engage more than the health sector alone.
+Key actions
+For Member States
+¤  Leverage IHR (2005) and other frameworks for health security, health resilience
+   and diagnostic preparedness to improve core capacities for public health
+   preparedness for and response to NiV.
+¤  Develop, implement and test national prevention and control plans for NiV,
+   along with other emerging and re-emerging infections, and ensure alignment
+   with national IHR plans, all hazards NAPHS and other national emergency
+   preparedness and response plans.
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+19
+
+
+¤  Coordinate between human, animal and wildlife health agencies to improve
+   prevention, preparedness, detection and response to NiV and other acute health
+   emergencies.
+¤  Strengthen regulatory capacities and systems to ensure access to and availability
+   of current and future medical countermeasures for NiV.
+For WHO
+¤  Provide technical support to countries to develop and implement policies and
+   national NiV prevention and control plans linked to NAPHS upon request.
+Key outcomes
+¤  National plans for NiV preparedness and response developed and tested
+   (Category A by 2027, Category B by 2030)
+Increase multisectoral, One Health system capacity and
+readiness for detection, early warning and response to
+cases and outbreaks
+Key issues
+Improving One Health coordination and capacities is critical for Member States in
+response to the increasing threat of EIDs such as NiV. The processes needed to
+improve collaboration are detailed in the Tripartite guide to addressing zoonotic
+diseases in countries and encompass both leadership and technical coordination
+functions. One common theme in joint external evaluations (JEEs) from Member
+States is weak linkages across sectors in surveillance and information-sharing.
+While some Member States, such as Bangladesh and Thailand, are well advanced in
+this area, others are still developing strong One Health multiagency coordinating
+mechanisms. Many of the actions recommended in this Strategy cannot be
+performed without such mechanisms functioning well. For example, the risk of NiV
+in Member States at national and subnational levels can be assessed accurately only
+through surveillance and information-sharing across the human, animal and wildlife
+sectors.
+Key actions
+For Member States
+¤  Establish a functional mechanism for coordinating communication and data-
+   sharing among entities responsible for surveillance in human, domestic animal
+   and wildlife populations, for example, a One Health Secretariat, with defined roles
+   and responsibilities of stakeholders for improving knowledge, coordination and
+
+
+   WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+20
+
+
+   policies for surveillance, spillover reduction, mitigation and control of NiV at the
+   human-animal-environmental interface.
+¤  Establish One Health mechanisms at the subnational level to facilitate actions for
+   preparedness (e.g. simulations, planning, training a One Health workforce, etc.
+   [e.g. FETP, FETP-Vet]) and response to acute public health events.
+¤  Establish data management systems that are shared by and useful to all relevant
+   agencies involved in One Health activities, including NiV prevention and control.
+¤  Continue to invest in and strengthen IHR core capacities with the aim of
+   installing these capacities in health systems components (e.g. health policies,
+   services, multidisciplinary health and non-health workforce) at the national and
+   subnational levels.
+¤  Develop and continuously build capacity of a multidisciplinary health workforce
+   through a clear strategy, plans and innovative approaches so that the health
+   system is prepared for, capable of responding to and can recover from any acute
+   public health event, including NiV.
+¤  Establish systems that enable deployment of multidisciplinary outbreak
+   investigation teams (e.g. rapid response teams), including joint training, using a
+   One Health approach.
+For WHO
+¤  Advocate for, promote and facilitate "One Health" mechanisms within health
+   systems for NiV and strengthen "One Health" collaborations among stakeholders.
+¤  Support operationalization of "One Health" mechanisms at country level through
+   various activities for capacity-building (e.g. national IHR/PVS bridging workshop,
+   JRA, training and workshops).
+¤  Leverage the regional Quadripartite secretariat and the One Health High-Level
+   Expert Panel (OHHLEP) for guidance on scaling up One Health approaches in
+   countries, including sharing good practices and lessons learnt.
+Key outcomes
+¤  A functional coordination mechanism exists for NiV infection prevention and
+   control within the broader One Health mechanisms in all Member States
+   (Category A by 2024, Category B by 2030).
+¤  Response protocols, including multidisciplinary teams, are established to ensure
+   that human and animal health agencies are ready to respond to the detection of
+   NiV infection in humans or domestic animals in all Member States (Category A by
+   2024, Category B by 2030).
+
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+21
+
+
+Enhance risk communication and awareness to reduce
+spillover and spread
+Key issues
+Risk communication capacity has been identified as a critical gap in a recent JEE in
+Member States and lagging behind as an IHR core capacity. This is particularly the
+case with NiV as the spillover pathways and risk factors for exposure are not always
+known. Even in places such as Bangladesh, which have more complete understanding
+about risk factors and ongoing communication in endemic districts, the ongoing
+occurrence of outbreaks suggests that more work is needed.
+Member States will benefit from strategic, consistent and targeted risk
+communication through a One Health approach. In developing these approaches,
+Member States need to consider their risk profile, transmission pathways,
+transmission settings, and relevant communities and stakeholders.
+Key areas of messaging include the following:
+1.   identifying areas and practices where spillover of NiV or other henipaviruses is
+     most likely;
+2.   reducing spillover from bats to domestic animals and humans;
+3.   increasing the awareness of clinicians and veterinarians of NiV disease in
+     livestock and humans, and that NiV infection is a possibility in any area where the
+     fruit bat host is present;
+4.   improving community understanding around the ecological importance of bats,
+     specifically not vilifying bats or advocating their extermination when discussing
+     their role as reservoirs for viruses that are harmful to people.
+Key actions
+For Member States
+¤    With the support of communication professionals, strengthen culturally
+     appropriate risk messaging to prevent NiV spillover and spread, including during
+     outbreak response, accounting for scientific uncertainties.
+¤    Educate people about the value of bats and other wildlife species to prevent
+     vilification of and retribution against bats and other wildlife, and balance
+     ecological, health and economic impact messages to communicate to the public
+     about risk and incentivize the implementation of interventions.
+¤    Evaluate approaches to making interventions more affordable and acceptable to
+     communities.
+
+
+
+     WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+22
+
+
+For WHO
+¤  Promote capacity-building for risk communication, professional development for
+   in-service health-care providers, and community engagement for public health
+   emergencies, considering the sociocultural dimension of NiV infections.
+Key outcome
+¤  Culturally appropriate risk, conservation and awareness messaging developed to
+   reduce spillover, avoid vilification of wildlife and prevent spread of NiV (Category
+   A by 2024, Category B by 2027).
+Promote research and development
+Key issues
+Most of the early ecological and epidemiological NiV research has focused on
+identifying reservoir species, characterizing transmission dynamics within bat reservoirs,
+identifying transmission pathways from fruit bats to livestock (especially Malaysia) and
+humans (Bangladesh and India), and understanding person-to-person transmission.
+In Bangladesh, epidemiological and ecological research has been continuously used
+to supplement and complement government-led investigations since 2003. India has
+increased NiV-related research in the wake of the cases in Kerala from 2018 to 2021.
+Several Member States (Bangladesh, India, Indonesia, Myanmar, Nepal, Thailand) have
+implemented targeted viral surveillance in bats and people. With the exception of
+Bangladesh, India and Thailand, NiV research in the region has been minimal, despite
+the increasing global occurrence of EIDs and the need for understanding events that
+drive spillover from wildlife to humans and subsequent human-to-human spread.
+Research is also needed to advance the development of diagnostics, drugs and
+vaccines. The Coalition for Epidemic Preparedness Innovations (CEPI) has been
+developing vaccines for NiV, which are expected to be available before 2025.
+Research has identified remdesivir and monoclonal antibodies as potential
+candidates for NiV treatment. Rapid diagnostics are needed both for humans and
+animals, particularly livestock.
+For a low-incidence disease such as NiV, establishing a research consortium
+across the Region could greatly accelerate development of new knowledge and
+technologies through sharing of resources, experiences and infrastructure and
+enrolment of study subjects from multiple countries.
+Key actions
+For Member States
+¤  Profile the risk of NiV infections and develop research priorities (e.g. postmortem,
+   ecological and socioanthropological studies).
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+23
+
+
+¤  Identify common research challenges and work together for One Health
+   solutions to address these challenges.
+¤  Support RESEARCH (the SEA Regional Research platform) activities on NiV
+   among Member States.
+For WHO
+¤  Support the establishment of an NiV research and development (R&D)
+   consortium for the Region to address priority needs and advocate for funding
+   support by 2027.
+¤  Support expansion of socioeconomic, ecological and health systems research to
+   prevent and control NiV in the South-East Asia Region and conduct NiV-related
+   research before, during and after outbreaks.
+¤  Support research activities in Member States as well as transfer knowledge on
+   NiV vaccine, therapeutic drugs and diagnosis.
+Key outcomes
+¤  NiV research and development consortium for the SE Asia Region established to
+   address priority needs and funding available by 2027
+Prevention
+Promote behavioural changes to reduce risk
+Key issues
+Human activity is driving disease emergence globally, and it is critical to change
+human behaviour to decrease spillover and spread. Changing human behaviour
+requires first understanding the drivers of spillover in different communities, then
+testing approaches to modify this behaviour. This work requires all sectors to
+embrace a sociocultural approach to health crises, particularly the engagement of
+anthropologists, communication experts and other social scientists before, during
+and after outbreaks (51). While Bangladesh has improved linkages with social
+scientists, especially anthropologists, to better understand the behaviours that
+promote NiV spillover and spread, most other Member States are yet to engage
+with this expertise. Interventions designed to reduce spillover of viruses from bats to
+people and domestic animals should be developed, tested, evaluated and scaled up
+in locations where people and animals (especially bats) have high contact frequency.
+
+
+
+
+   WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+24
+
+
+Key actions
+For Member States
+¤  Strengthen links between social scientists and people working on human,
+   domestic animal and wildlife health to integrate social science approaches at
+   every stage of outbreak preparedness and response.
+¤  Engage social scientists to understand community perceptions and practices
+   and the feasibility and acceptability of interventions to reduce contact between
+   people, livestock and bats.
+¤  Develop locally appropriate protocols for reducing NiV spillover, considering
+   the social, political and community perceptions of disease and balancing human
+   rights with disease control activities.
+For WHO
+¤  Promote multidisciplinary research, programmes and capacity-building for
+   behaviour change communication and community engagement for NiV
+   prevention and control.
+Key outcomes
+¤  Social science input incorporated into NiV spillover reduction, spread, case
+   management and response protocols (Category A by 2024, Category B by 2027)
+Improve control of disease in domestic animals through
+enhanced biosecurity
+Key issues
+Controlling infectious diseases in domestic pigs, horses and cattle can help reduce
+the frequency of NiV and other zoonoses spilling over into humans. The World
+Organization for Animal Health (WOAH) recommends that farms have strict
+biosecurity, which it defines as "the set of managerial and physical measures
+designed to reduce the introduction, establishment and spread of animal diseases,
+infections or infestations to, from and within an animal population" (52). Biosecurity
+measures include: hygiene and sanitation of animal areas, equipment and supplies;
+tick and pest control; vaccination; restrictions on the movement of animals; isolation
+and culling of infected and quarantine of exposed animals; feed management; and
+strict procedures for handling manure and carcasses. In the context of NiV, which
+has emerged through domestic animals, enhanced biosecurity may also include
+ensuring exclusion of bats and other wildlife from inside or next to animal enclosures,
+ensuring appropriate distance between fruit trees and livestock enclosures to avoid
+dropped fruit from falling into enclosures; avoidance of using dropped or bitten fruit
+to feed livestock; protection of animal feed and food resources from wildlife to avoid
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+25
+
+
+contamination with excreta, and avoidance of livestock grazing or foraging under or
+around trees occupied by Pteropus fruit bats.
+Biosecurity does not simply prevent transmission of disease to humans. It also
+directly benefits farmers' financial situation by increasing productivity, reducing costs
+associated with disease treatment or loss of animals due to disease, and ensuring a
+market for their products. In Category A and B Member States, efforts to promote
+biosecurity, particularly in subnational areas at highest risk, may help to reduce the
+risk of NiV spillover and spread.
+Key actions
+For Member States
+¤  Map farms that raise pigs, horses, and/or livestock in areas at highest risk of NiV
+   spillover and work with local health and agriculture authorities to strengthen
+   biosecurity measures.
+¤  Strengthen messaging to farms of all sizes about human and animal health, and
+   the economic benefits of biosecurity.
+¤  Promote training of veterinarians, farmers and others in national biosecurity
+   protocols.
+For WHO
+¤  Collaborate with Quadripartite partners, particularly WOAH and FAO, to promote
+   existing biosecurity standards, protocols and tools at national and subnational
+   levels.
+Key outcomes
+¤  Stronger biosecurity measures on pig, horse and livestock farms (Category A by
+   2024, Category B by 2027)
+Detection
+Increase laboratory diagnostic capability in human,
+animal and wildlife health sectors
+Key issues
+Prompt and accurate diagnosis of NiV infection depends on laboratory testing. The
+two currently accepted approaches involve detection of nucleic acid and immune
+response. rRT-PCR testing can detect NiV in specimens from the oropharynx, throat,
+nasopharynx, CSF, urine and blood (53,54). Because NiV nucleic acid may not be
+detectable in acutely ill or deceased cases, detection of antibodies, specifically
+
+       WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+26
+
+
+    IgM and IgG using an enzyme-linked immunosorbent assay (ELISA), may be more
+    sensitive, as is current practice in Bangladesh (55,56). IgM antibodies have been
+    found to be present by day 2 of infection and are used to diagnose active NiV
+    infection.
+    Current research is focused on developing PCR assays that can detect any
+    henipavirus or any paramyxovirus. While such assays are available in research
+    settings, they are not real-time assays and require more time and a different
+    technical skill set for laboratories to run them (57,58). Similarly, researchers have used
+    aallmultiplexed, bead-based serological assay that can detect IgG antibodies against
+    known henipaviruses in bat, livestock and humans in Bangladesh and Thailand
+    (59,60). This technology is currently too expensive to be used in routine testing.
+    Several major challenges exist to scaling up laboratory diagnosis in the Region. First,
+    countries in Category B would need to expend substantial resources for supplies,
+    equipment and training for an infection that has not yet been demonstrated to
+    cause human illness in their country. This is particularly challenging, given that the
+    shelf-life of rRT-PCR reagents is 12-18 months, meaning that they may need to be
+    discarded routinely. Second, despite the rapid expansion of rRT-PCR laboratories
+    due to COVID-19, the ability of these laboratories to operate consistently and at
+    high throughput remain constrained by inadequate electricity, water and supply
+    chains. Third, NiV is classified as a biosafety level 4 agent, requiring the highest levels
+    of biosafety for handling and culturing infectious virus. PCR and serology can be
+    performed safely at biosafety level 2
+infectious.        as long as samples have been rendered non-
+An SE Asia Region laboratory network approach can help to address these
+challenges, by leveraging existing resources in the SE Asia Region. Bangladesh, India,
+Indonesia and Thailand have demonstrated the capacity to enable regional support
+for NiV testing. India, in particular, has a biosafety level 4 facility at the ICMR-
+National Institute of Virology in Pune, which currently serves as a national reference
+laboratory for NiV diagnosis. An SE Asia Region laboratory network could also assist
+with evaluating and supporting expansion of newer technologies for surveillance and
+diagnosis, including whole-genome sequencing capacity developed in response to
+COVID-19. A laboratory network will be successful, however, only with substantial
+political, financial and administrative support to establish specimen transfer
+agreements, handling and transport systems, and information technology for secure,
+confidential results reporting.
+Key actions
+For Member States
+¤  Develop and implement national and regional laboratory surveillance standards
+   for prompt and accurate NiV diagnosis and safe and timely specimen collection,
+   storage, transport and handling.
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+27
+
+
+¤  Develop plans for enhancing the capacity of national and subnational
+   laboratories and improve access to specialized laboratories within and outside
+   countries.
+¤  Train the laboratory workforce in molecular and serological platforms.
+¤  Work with WHO and WOAH to strengthen national reference laboratories and
+   mobilize support for a regional reference laboratory for NiV, leveraging specific
+   capacities of laboratories in Member States.
+¤  Invest in equipment and training of personnel to allow the use of new diagnostic
+   technologies such as metagenomic detection using portable sequencing devices.
+For WHO
+¤  Promote, support and facilitate laboratory networking and strengthening
+   laboratory capacities for NiV diagnosis as well as for deployment of the WHO's
+   Research and Development Blueprint in areas pertinent to laboratory diagnosis.
+¤  Support regional laboratory centres of excellence within the SE Asia Region.
+Key outcomes
+¤  At least one laboratory in each Member State can diagnose NiV using rRT-
+   PCR and IgM ELISA or arrangements are in place for samples to be tested
+   in a nominated regional laboratory for NiV diagnosis (Category A by 2024,
+   Category B by 2025).
+
+Increase surveillance and information-sharing among the
+human, animal and wildlife health sectors
+Key issues
+NiV surveillance in the Region has been limited to date due to lack of awareness,
+lower risk perception (especially in Category B Member States), resource and
+workforce constraints, and limitations in current technologies. Incorporating NiV
+surveillance into existing systems is likely to provide substantial benefit with fewer
+resources compared with developing NiV-specific systems.
+Human surveillance
+Early detection and diagnosis of NiV is challenging due to the non-specific
+symptoms of the disease and lack of widespread testing availability. To improve NiV
+surveillance, Member States should work to include NiV testing into existing hospital-
+based surveillance systems for respiratory (SARI) and neurological (AES) syndromes.
+Integrating NiV testing into laboratory algorithms for SARI and AES will improve
+the sensitivity, specificity and performance of current NiV surveillance (56). As the
+vast majority of patients will not have NiV, testing should be restricted to those who
+
+       WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+28
+
+
+test negative for more common pathogens or according to epidemiological risk,
+e.g. known outbreak in that area, high-risk exposure. Such protocols can be adapted
+from existing guidance used during outbreaks. When human NiV cases are identified,
+other agencies, including wildlife and animal health departments, need to be advised
+and engaged as part of the outbreak investigation. Bangladesh, India and Thailand
+regularly use an integrated One Health approach to NiV surveillance and outbreak
+investigation. Similar mechanisms for information-sharing and engagement with
+wildlife and livestock professionals, however, is limited among most Member States.
+In addition to surveillance in clinical settings, there is also a need to explicitly
+strengthen the capacity for event-based surveillance in general, especially
+One Health surveillance across sectors for rumour investigation, analysis and
+management.
+Bat surveillance
+While the role of Pteropus species as natural reservoirs for NiV has been well
+described, there is still limited understanding of the full genetic diversity of bat-borne
+henipaviruses and the range of other species that may host them. This knowledge is
+critical to assess the risk of NiV outbreaks. It has been hypothesized that some NiV
+strains already in bats may be more transmissible in humans and, therefore, may
+cause larger epidemics following spillover (61). Likewise, understanding whether
+there are other Nipah-like henipaviruses that are less pathogenic (e.g. cedar virus)
+will help elucidate whether asymptomatic infection with related viruses could protect
+some populations against NiV disease. Thus, studies of henipavirus diversity in bats,
+coupled with experimental studies that characterize the relationship between viral
+genetic and clinical disease, are crucial to assessing public health risk from this group
+of viruses.
+To better understand the full diversity and distribution of henipavirus reservoirs,
+it would be necessary to undertake intensive spatial and temporal sampling of
+potential bat hosts. This is unlikely to be a priority in most Member States, except
+by following human NiV disease outbreaks in new areas. Quadripartite agencies,
+academic researchers and others involved in wildlife surveillance may be useful
+partners for expanding knowledge of henipavirus ecology.
+In Category B Member States, bat surveillance should be designed based on One
+Health risk assessments. If sampling from live bats is neither feasible nor affordable,
+environmental urine collection from beneath bat colonies is relatively simple and
+inexpensive to implement. Repeated environmental urine collection from single
+populations over time and testing of pooled samples using RT-PCR or whole-
+genome sequencing can improve understanding of shedding and provide data for
+vaccine and therapeutic development.
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+29
+
+
+Conducting NiV surveillance in bats may carry an increased risk of exposure to NiV;
+however, these risks can be mitigated through the use of appropriate personal
+protective equipment (PPE) and biosafety practices during sample collection and
+transport. Strategies for biosafety and biosecurity during wildlife sampling have been
+previously described (62).
+Domestic animal surveillance
+Domestic animals, including pigs, cows and horses, have played an important role
+in zoonotic transmission of NiV, and investigations have found evidence of likely
+prior NiV infection. There remains substantial uncertainty, however, about the likely
+transmission pathways involving domestic animals when taking into account fruit
+bat populations and their interactions with domestic animals. Similarly, domestic
+animal populations where surveillance is likely to provide actionable public health
+information have not been identified. This Strategy, therefore, recommends that
+livestock health agencies implement syndromic surveillance in pigs, horses and cows
+as part of comprehensive One Health infectious disease surveillance, but does not
+recommend routine NiV surveillance testing of domestic animals.
+Key actions
+For Member States
+¤  Develop national surveillance and outbreak response protocols for humans and
+   bats that are adaptable and flexible to the subnational context.
+¤  Support workforce development in veterinary and wildlife departments to
+   conduct bat and, if indicated by data, domestic animal NiV surveillance.
+¤  Incorporate additional epidemiological data collection into surveillance
+   periodically to support risk assessment.
+¤  Strengthen capacity for syndromic surveillance, event-based surveillance and
+   rumour detection in humans, domestic animals and wildlife.
+¤  Strengthen knowledge and awareness in human, animal and wildlife health
+   professionals for prompt disease detection.
+For WHO
+¤  Provide technical support where appropriate and needed to improve surveillance
+   for NiV disease.
+¤  Develop regional surveillance standards, protocols and guidelines that countries
+   can adapt to their national and subnational contexts.
+
+
+
+
+   WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+30
+
+
+Key outcomes
+¤  Hospital-based SARI and AES surveillance systems enhanced to include NiV
+   testing in all Member States (Category A 2024, Category B 2027)
+¤  Increased capacity for NiV surveillance in domestic animals and wildlife
+¤  Increased capacity for event-based surveillance in humans, domestic animals and
+   wildlife in all Member States by (Category A 2024, Category B 2025)
+¤  Member States may decide whether to conduct ongoing bat or domestic animal
+   surveillance based on One Health NiV risk assessments (Category A 2027,
+   Category B 2030).
+Response
+Improve clinical diagnosis and case management
+Key issues
+Some Member States have developed clinical diagnosis and case management
+guidelines, including Bangladesh and India (Kerala), for hospitals and homes.
+Guidelines are needed for all Member States, along with a process that reviews and
+updates them continuously based on the latest evidence.
+Hospitals are high-risk settings in which NiV infections can be amplified into
+outbreaks, as demonstrated during the outbreak in Kerala. While substantial efforts
+are being made throughout the Region to improve IPC in response to COVID-19,
+protocols should be adapted for issues specific to NiV, including for fomites and
+corpse management for different cultural and religious groups.
+Key actions
+For Member States
+¤  Strengthen surge capacity of health facilities, isolation areas, IPC practices
+   (including enabling multimodal interventions) and intensive care for managing
+   NiV-infected patients routinely and during outbreaks.
+¤  Improve access to IPC supplies (e.g. PPE) in hospitals and other facilities likely to
+   admit NiV-infected patients.
+¤  Facilitate access to and participation of clinicians to regional and international
+   NiV knowledge networks.
+¤  Establish national guidelines on clinical management, IPC, transfer to specialized
+   centres and follow up.
+¤  Establish guidance for collection of clinical data on specialized populations (e.g.
+   pregnant women) with linkage to national NiV surveillance systems.
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+31
+
+
+For WHO
+¤  Support country experts to collaborate through regional and international
+   knowledge networks.
+Key outcomes
+¤  Guidelines and protocols for NiV clinical diagnosis, case management and IPC up
+   to date and readily available (Category A 2024 and Category B 2027)
+Develop and improve access to medical countermeasures
+(therapeutics and vaccines)
+Key issues
+At present, patients with NiV infection are managed with supportive care, including
+mechanical ventilation. WHO has designated NiV and other henipaviruses as priority
+pathogens for the development of vaccines and therapeutics. Although the likelihood
+of large-scale NiV epidemics is considered low based on current knowledge of its
+epidemiology, vaccines are considered an important measure for protecting frontline
+health-care workers and community contacts of NiV cases to effectively limit human-
+to-human transmission and control outbreaks.
+Category A Member States should engage in vaccine and therapeutic R&D activities,
+including clinical trials where possible. All Member States should prepare for the
+availability of vaccines by developing vaccination strategies for health-care workers
+and for emergency use in an outbreak setting.
+Key actions
+For Member States
+¤  Build capacity for exploratory studies and clinical trials of vaccines and drugs in
+   areas at risk for NiV transmission.
+¤  Review existing regulatory laws, specifically for high-threat pathogens requiring
+   expedited processes for vaccines and therapeutics.
+¤  Contextualize and adapt protocols for the use of monoclonal antibodies.
+For WHO
+¤  Promote, support and facilitate capacities for public-private partnerships on
+   medical countermeasures aligned with the WHO Research and Development
+   Blueprint.
+Key outcome
+¤  Processes established that support the development and deployment of medical
+   countermeasures for NiV by 2027 in the SE Asia Region
+
+       WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    32
+
+
+Recovery
+Ensure resilience
+Key issues
+Resilience requires a whole-of-government and whole-of-society approach.
+Recovery is a complex component of the ERF involving a large number and variety
+ofa stakeholders that affect the long-term impact on the health system. In this regard,
+bestructured approach to rebuilding the health system after outbreaks needs to
+   developed based on lessons learned during outbreak response and in line with
+Member States' recovery policies and strategies. Advantage must also be taken of
+opportunities identified and recommendations made during any evaluation or after-
+action review to strengthen capacities to reduce the risks of future NiV spillover and
+spread.
+Resilience of the community is equally important to systems' resilience. The
+recovery phase needs to increase the resilience of the community to better address
+the evolving NiV risk. Community outreach campaigns should be conducted to
+increase understanding of how exposure can occur, how the outbreak happened,
+what measures can help reduce the risk of exposure to NiV and reduce stigma
+and misinformation. In addition to public health risk reduction messages, outreach
+campaigns should include positive ecological messages about the importance of bats
+for insect pest control, pollination and seed dispersal. Including positive messaging
+about bats can help mitigate fear responses that could result in exterminating bats
+or destruction of their roosts. Recovery phase communication strategies that address
+both specific risk factors for NiV exposure and risk factors for exposure to zoonotic
+pathogens, in general, may serve to more broadly reduce the risk of outbreaks.
+Community capacities and activities, including strong primary health care that
+ensures universal health coverage (UHC) and the roles of local health workers, civil
+society and the private sector are all important in ensuring recovery (63).
+Researchers should continue to study the prognosis of NiV infection survivors, as
+is being done by CEPI (https://cepi.net/news_cepi/nipah-survivors-study-to-
+advance-new-vaccines-against-highly-fatal-threat/), given reports of persistent or
+recurrent NiV infection and the possibility of long-term health complications.
+
+
+
+
+
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+33
+
+
+Key actions
+For Member States
+¤  Strengthen the capacity of local communities affected by NiV infection to avoid
+   recurrent outbreaks through community education campaigns.
+¤  Institutionalize mechanisms for conducting after-action reviews and
+   incorporating lessons learned into NiV prevention and response plans.
+For WHO
+¤  Support Member States in strengthening recovery capacities in affected
+   communities and link with best practices from across the Region.
+Key outcomes
+¤  Recovery measures designed that build community resilience to address future
+   NiV outbreaks (Category A 2024 and Category B 2030)
+
+
+
+
+
+
+
+
+
+
+   WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+5
+34
+
+
+Governance and
+f
+inancing mechanisms
+
+
+
+
+Governance
+At the level of Member States
+The Strategy requires cooperation and coordination at the regional, national and
+subnational levels. At the national and subnational levels, each Member State
+is encouraged to leverage the One Health platforms and guides that have been
+developed by the Quadripartite to engage all relevant sectors and disciplines in
+assessing and managing risk. In consultation with stakeholders, Member States will
+then decide how to allocate resources for priority activities in the Strategy and how
+to track progress over the period to 2030.
+The Strategy will require organizational support to ensure that there is clarity in decision-
+making at the regional and national levels. Any legislative changes or legal requirements
+related to the Strategy will be the responsibility of individual Member States.
+At the level of WHO
+WHO will advocate to and coordinate across Member States at the regional level.
+In addition, WHO will be involved at national levels via the respective WHO country
+offices. On the ground, delivery at subnational levels may also be supported by
+WHO. WHO will also facilitate stakeholder consultations that include partners,
+donors, manufacturers, public-private partnerships, international research agencies
+and institutions such as CEPI.
+WHO will promote knowledge- and experience-sharing among Member States to ensure
+that they have the most current information about prevention and control of NiV.
+WHO will work with the One Health High-Level Expert Panel and the One Health Initiative
+as well as the Quadripartite to advocate for multisectoral, multidisciplinary One Health
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+35
+
+
+approaches to NiV prevention and control in the Region, as part of the overall high-
+threat pathogen prevention and control strategy. In Member States that do not have
+formal national One Health platforms, WHO and Quadripartite agencies will advocate for
+and support their establishment at the national and subnational levels.
+WHO also has a responsibility to support countries in efforts to meet their IHR (2005)
+obligations more generally and in the preparation of NAPHS. WHO will contribute in
+resource mobilization and financing, where feasible, to enhance laboratory capacity
+and related activities to accomplish the Plan.
+
+Financing the components of the Strategy
+and for contingencies
+Adequate financial allocations are required at every level to complete the activities
+in the Strategy. Preparedness, prevention, detection and response activities involve
+recurring costs, and the COVID-19 pandemic has again highlighted the insufficiency
+of current investments. The High-Level Independent Panel (64) that examined how
+finance can be organized systematically and sustainably to reduce the world's
+vulnerability to future pandemics recommended that Member States increase
+domestic investment in IHR (2005) core capacities to prevent and contain future
+pandemics. The Panel also recommended that low- and middle-income Member
+States will need to add about 1% of the gross domestic product (GDP) to public
+spending on health over the next five years and ensure that funding supports core
+capacities to prevent and contain future disease pandemics. It is worth noting
+that new financial mechanisms are being created to provide resources donated by
+high-income countries to low- and middle-income countries for the purpose of
+implementing pandemic prevention strategies (e.g. the World Bank's Pandemic Fund;
+www.projects.worldbank.org)
+Accordingly, multiyear cost projections need to be made, identifying and mapping
+existing and potential financing sources. In this regard, Member States' commitment
+and national budgetary systems become critical in the Region, as do contributions
+from stakeholders in the public and private sectors. These investments would support
+virtually all NiV-related activities in this Strategy.
+The financial requirements need clear identification focusing on all five key
+components of the Strategy, from prevention to recovery. Financial mechanisms
+should also include contingency funding for response and recovery with national
+budgetary systems being sufficiently flexible to quickly provide financing during and
+after an NiV outbreak.
+Strong and continued advocacy is needed at every level to engage decision-makers
+from Member States and partners to ensure that existing sources of financing are
+maintained and new sources are explored for sustainable and predictable financing
+for the implementation of actions in the Region.
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    6
+    36
+
+
+Monitoring and evaluation
+
+
+
+
+
+Monitoring and evaluation are integral to the implementation of the regional NiV
+prevention and control strategy. The M&E system will allow both WHO and Member
+States to monitor progress against the priority activities that they have identified.
+Performance indicators with indicative time frames are described in Annexure 1. Of
+note, these only refer to the overall Regional Strategy and focus specifically on the
+key outcomes from this Strategy that are measurable, quantifiable and important. As
+part of implementing this Strategy, Member States will develop their own national
+M&E plans that include indicators specific to their context.
+Evaluation must include an assessment of the elements that contribute to the
+completion of priority activities for Member States and for progress across the SE
+Asia Region. External and self-evaluation tools need to be developed for this purpose
+by each Member State, with technical support from WHO and other agencies, as
+needed. Some of the indicators require specific approaches (e.g. surveys) to estimate
+progress.
+Member States will be encouraged to share the annual reviews of progress with
+WHO at the regional level so that appropriate support can be sought and advocacy
+provided to help Member States move closer towards a scenario where there is
+better preparedness for prevention and control of NiV in the Region.
+WHO will also conduct a mid-term evaluation in 2027 to assess the progress and
+make recommendations for mid-course corrections, if any.
+
+
+
+
+
+
+
+
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    7
+    37
+
+
+    The way forward
+
+
+
+
+
+This Strategy is necessarily ambitious, seeking to build upon the experience and
+capacity from the Ebola, COVID-19, and Mpox epidemics. The Strategy will be
+challenging to implement, because it encompasses a large number of complex
+activities in multiple sectors across a large, heavily populated, diverse and
+underresourced region. Successful implementation, however, is a high priority given
+the threat of NiV, related henipaviruses, and other high-threat pathogens that
+emerge from bats, domestic animals and wildlife.
+The SE Asia Region NiV prevention and control strategy sets out the context and
+need for a well-integrated approach to combat NiV infection in the Region. By
+2030, the Regional Strategy envisions recommended steps for both Category A and
+Category B Member States implemented through adequate resources allocated to
+zoonotic disease prevention and control. Implementing the components listed in this
+Strategy will result in Member States being better prepared to prevent NiV illness
+and deaths and will, in general, improve the Region's level of preparedness and
+capacity to prevent and respond to zoonotic disease outbreaks in the Region.
+To implement this Strategy, WHO will support Member States through its
+country offices in adapting existing global and regional guidance and toolkits
+regarding surveillance, One Health, laboratory systems, outbreak response, risk
+communications, biosecurity and IPC. Where such documents may not already exist,
+e.g. bat surveillance, clinical case management, WHO will work with regional and
+global experts to meet these gaps.
+
+
+
+
+
+
+
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+38
+
+
+References
+
+1.    Luby SP, Hossain MJ, Gurley ES, Ahmed BN, Banu S, Khan SU et al. Recurrent zoonotic
+      transmission of Nipah virus into humans, Bangladesh, 2001-2007. Emerg Infect Dis.
+      2009;15(8):1229-35.
+2.    Ang BSP, Lim TCC, Wang L. Nipah virus infection. J Clin Microbiol. 2018;56(6):e01875-17.
+3.    World Health Organization. WHO research and development blueprint: prioritizing diseases
+      for research and development in emergency contexts. Geneva: WHO; 2020 (https://www.who.
+      int/activities/prioritizing-diseases-for-research-and-development-in-emergency-contexts,
+      accessed 9 September 2023).
+4.    Epstein JH, Anthony SJ, Islam A, Kilpatrick AM, Ali Khan S, Balkey MD et al. Nipah virus dynamics in
+      bats and implications for spillover to humans. Proc Natl Acad Sci U S A. 2020;117(46):29190-201.
+5.    Halpin K, Hyatt AD, Fogarty R, Middleton D, Bingham J, Epstein JH et al. Pteropid bats are
+      confirmed as the reservoir hosts of henipaviruses: a comprehensive experimental study of virus
+      transmission. Am J Trop Med Hyg. 2011;85(5):946-51.
+6.    Marsh GA, de Jong C, Barr JA, Tachedjian M, Smith C, Middleton D et al. Cedar virus: a novel
+      henipavirus isolated from Australian bats. PLoS Pathog. 2012;8(8):e1002836.
+7.    Madera S, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S et al. Discovery and
+      genomicJ  characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar.
+          Virol. 2022;96(18):e0092122.
+8.    Wacharapluesadee S, Ngamprasertwong T, Kaewpom T, Kattong P, Rodpan A, Wanghongsa S et
+      al. Genetic characterization of Nipah virus from Thai fruit bats (Pteropus lylei). Asian Biomedicine.
+      2013;7(6):813-19.
+9.    Nowak RM. Walker's Bats of the world. Baltimore, Maryland: The Johns Hopkins University Press;
+      1994.
+10.   Rahman SA, Hassan L, Epstein JH, Mamat ZC, Yatim AM, Hassan SS et al. Risk factors for Nipah
+      virus infection among pteropid bats, peninsular Malaysia. Emerg Infect Dis. 2013;19(1):51-60.
+11.   Gokhale MD, Sreelekshmy M, Sudeep AB, Shete A, Jain R, Yadav PD et al. Detection of possible
+      Nipah virus infection in Rousettus leschenaultii and Pipistrellus pipistrellus bats in Maharashtra,
+      India. J Infect Public Health. 2021;14(8):1010-12.
+12.   Chua KB, Bellini WJ, Rota PA, Harcourt BH, Tamin A, Lam SK et al. Nipah virus: a recently emergent
+      deadly paramyxovirus. Science. 2000;288(5470):1432-5.
+13.   Nipah virus. Geneva: WHO; 2018 (https://www.who.int/news-room/fact-sheets/detail/nipah-
+      virus, accessed 9 September 2023).
+14.   Chadha MS, Comer JA, Lowe L, Rota PA, Rollin PE, Bellini WJ et al. Nipah virus-associated
+      encephalitis outbreak, Siliguri, India. Emerg Infect Dis. 2006;12(2):6.
+15.   Arankalle VA, Bandyopadhyay BT, Ramdasi AY, Jadi R, Patil DR, Rahman M et al. Genomic
+      characterization of Nipah virus, West Bengal, India. Emerg Infect Dis. 2011;17(5):3.
+16.   Arunkumar G, Chandni R, Mourya DT, Singh SK, Sadanandan R, Sudan P et al. Outbreak
+      investigation of Nipah virus disease in Kerala, India, 2018. J Infect Dis. 2019;219(12):1867-78.
+17.   Sudeep AB, Yadav PD, Gokhale MD, Balasubramanian R, Gupta N, Shete A et al. Detection of
+      Nipah virus in Pteropus medius in 2019 outbreak from Ernakulam district, Kerala, India. BMC Infect
+      Dis. 2021;21(1):162.
+18.   Paton NI, Leo YS, Zaki SR, Auchus AP, Lee KE, Ling AE et al. Outbreak of Nipah-virus infection
+      among abattoir workers in Singapore. Lancet. 1999;354(9186):1253-6.
+19.   Chua KB, Goh KJ, Wong KT, Kamarulzaman A, Tan PS, Ksiazek TG et al. Fatal encephalitis due to
+      Nipah virus among pig-farmers in Malaysia. Lancet. 1999;354(9186):1257-9.
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+39
+
+
+
+20.   Ching PKG, de los Reyes VC, Sucaldito MN, Tayag E, Columna-Vingno AB, Malbas FF et al.
+      Outbreak of Henipavirus infection, Philippines, 2014. Emerg Infect Dis. 2015;21(2):328-31.
+21.   Harit AK, Ichhpujani RL, Gupta S, Gill KS, Lal S, Ganguly NK et al. Nipah/Hendra virus outbreak in
+      Siliguri, West Bengal, India in 2001. Indian J Med Res. 2006;123(4):553-60.
+22.   Nikolay B, Salje H, Hossain MJ, Khan AKMD, Sazzad HMS, Rahman M et al. Transmission of Nipah
+      virus - 14 years of investigations in Bangladesh. N Engl J Med. 2019;380(19):1804-14.
+23.   Chong HT, Kamarulzaman A, Tan CT, Goh KJ, Thayaparan T, Kunjapan SR et al. Treatment of acute
+      Nipah encephalitis with ribavirin. Ann Neurol. 2001;49(6):810-13.
+24.   Snell NJC. Ribavirin therapy for Nipah virus infection. J Virol. 2004;78(18):10211.
+25.   Aljofan M, Porotto M, Moscona A, Mungall BA. Development and validation of a
+      chemiluminescent immunodetection assay amenable to high throughput screening of antiviral
+      drugs for Nipah and Hendra virus. J Virol Methods. 2008;149(1):12-19.
+26.   Aljofan M, Saubern S, Meyer AG, Marsh G, Meers J, Mungall BA. Characteristics of Nipah virus and
+      Hendra virus replication in different cell lines and their suitability for antiviral screening. Virus Res.
+      2009;142(1-2):92-9.
+27.   Wright PJ, Crameri G, Eaton BT. RNA synthesis during infection by Hendra virus: an examination
+      by quantitative real-time PCR of RNA accumulation, the effect of ribavirin and the attenuation of
+      transcription. Arch Virol. 2005;150(3):521-32.
+28.   Freiberg AN, Worthy MN, Lee B, Holbrook MR. Combined chloroquine and ribavirin treatment
+      does not prevent death in a hamster model of Nipah and Hendra virus infection. J Gen Virol.
+      2010;91(Pt 3):765-72.
+29.   Georges-Courbot MC, Contamin H, Faure C, Loth P, Baize S, Leyssen P et al. Poly(I)-poly(C12U)
+      but not ribavirin prevents death in a hamster model of Nipah virus infection. Antimicrob Agents
+      Chemother. 2006;50(5):1768-72.
+30.   Rockx B, Bossart KN, Feldmann F, Geisbert JB, Hickey AC, Brining D et al. A novel model of lethal
+      Hendra virus infection in African green monkeys and the effectiveness of ribavirin treatment. J
+      Virol. 2010;84(19):9831-9.
+31.   de Wit E, Williamson BN, Feldmann F, Goldin K, Lo MK, Okumura A et al. Late remdesivir treatment
+      initiation partially protects African green monkeys from lethal Nipah virus infection. Antiviral Res.
+      2023;216:105658. doi:10.1016/j.antiviral.2023.105658
+32.   Porotto M, Fornabaio M, Greengard O, Murrell MT, Kellogg GE, Moscona A. Paramyxovirus
+      receptor-binding molecules: engagement of one site on the hemagglutinin-neuraminidase
+      protein modulates activity at the second site. J Virol. 2006;80(3):1204-13.
+33.   Porotto M, Rockx B, Yokoyama CC, Talekar A, Devito I, Palermo LM et al. Inhibition of Nipah virus
+      infection in vivo: targeting an early stage of paramyxovirus fusion activation during viral entry.
+      PLoS Pathog. 2010;6(10):e1001168.
+34.   Bossart KN, Crameri G, Dimitrov AS, Mungall BA, Feng YR, Patch JR et al. Receptor binding, fusion
+      inhibition, and induction of cross-reactive neutralizing antibodies by a soluble G glycoprotein of
+      Hendra virus. J Virol. 2005;79(11):6690-702.
+35.   Porotto M, Carta P, Deng Y, Kellogg GE, Whitt M, Lu M et al. Molecular determinants of antiviral
+      potency of paramyxovirus entry inhibitors. J Virol. 2007;81(19):10567-74.
+36.   Zhu Z, Dimitrov AS, Bossart KN, Crameri G, Bishop KA, Choudhry V et al. Potent neutralization of
+      Hendra and Nipah viruses by human monoclonal antibodies. J Virol. 2006;80(2):891-9.
+37.   Zhu Z, Bossart KN, Bishop KA, Crameri G, Dimitrov AS, McEachern JA, et al. Exceptionally potent
+      cross-reactive neutralization of Nipah and Hendra viruses by a human monoclonal antibody. J
+      Infect Dis. 2008;197(6):846-53.
+38.   Delhi Declaration: Emergency preparedness in the South-East Asia Region. New Delhi: WHO
+      Regional Office for South-East Asia; 2019 (https://apps.who.int/iris/handle/10665/327921,
+      accessed 9 Septemebr 2023).
+
+
+
+
+      WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+40
+
+
+
+39.   NAPHS for all: a country implementation guide for national action plan for health security
+      (NAPHS). Geneva: WHO; 2019 (https://extranet.who.int/sph/sites/default/files/document-
+      library/document/WHO-WHE-CPI-19.5-eng_0.pdf, accessed 9 September 2023).
+40.   Regional strategic roadmap on health security and health system resilience for emergencies 2023-
+      2027. New Delhi: World Health Organization Regional Office for South-East Asia; 2022 (https://
+      www.who.int/publications/i/item/9789290209959, accessed 9 September 2023).
+41.   COVID-19: make it the last pandemic. (https://theindependentpanel.org/wp-content/
+      uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf, accessed 9 September
+      2023).
+42.   Global Plan of Action on One Health. Towards a more comprehensive One Health, approach
+      to global health threats at the human-animal-environment interface. FAO, UNEP WHO, and
+      WOAH; Rome, 2022. (https://www.unep.org/resources/publication/one-health-joint-plan-
+      action-2022-2026, accessed 6 October 2023)
+43.   South East Asia regional roadmap for diagnostic preparedness, integrated laboratory networking
+      and genomic surveillance (2023-2027). New Delhi: World Health Organization Regional Office for
+      South-East Asia; 2022 (https://www.who.int/publications/i/item/9789290209942, accessed 9
+      September 2023).
+44.   Hahn MB, Epstein JH, Gurley ES, Islam MS, Luby SP, Daszak P et al. Roosting behaviour and habitat
+      selection of Pteropus giganteus reveals potential links to Nipah virus epidemiology. J Appl Ecol.
+      2014;51(2):376-87.
+45.   Zhongming Z, Lu L, Xiaona Y, Wangqiang Z, Wei L. Workshop report; IPBES workshop on
+      Biodiversity and pandemics. Bonn, Germany: Intergovernmental Science-Policy Platform on
+      Biodiversity and Ecosystem Services; 2020 (https://www.ipbes.net/sites/default/files/2020-12/
+      IPBES%20Workshop%20on%20Biodiversity%20and%20Pandemics%20Report_0.pdf,9                   accessed
+          September 2023).
+46.   Yewande A, Bernstein A, Epstein JH, Espinal M, Kakkar M, Kochevar D et al. Report of the scientific
+      task force on preventing pandemics. Cambridge, Massachussets: Harvard Chan C-CHANGE and
+      Harvard Global Health Institute; 2021 (https://www.hsph.harvard.edu/wp-content/uploads/
+      sites/2343/2021/08/PreventingPandemicsAug2021.pdf, accessed 9 September 2023).
+47.   Carlson CJ, Albery GF, Merow C, Trisos CH, Zipfel CM, Eskew EA et al. Climate change increases
+      cross-species viral transmission risk. Nature. 2022;607(7919):555-62.
+48.   Hahn MB, Gurley ES, Epstein JH, Islam MS, Patz JA, Daszak P et al. The role of landscape
+      composition and configuration on Pteropus giganteus roosting ecology and Nipah virus spillover
+      risk in Bangladesh. Am J Trop Med Hyg. 2014;90(2):247-55.
+49.   Jones KE, Patel NG, Levy MA, Storeygard A, Balk D, Gittleman JL et al. Global trends in emerging
+      infectious diseases. Nature. 2008;451(7181):990-3.
+50.   Deka MA, Morshed N. Mapping disease transmission risk of Nipah virus in South and Southeast
+      Asia. Trop Med Infect Dis. 2018;3(2):57.
+51.   Stellmach D, Beshar I, Bedford J, du Cros P, Stringer B. Anthropology in public health emergencies:
+      what is anthropology good for? BMJ Glob Health. 2018;3(2):e000534.
+52.   Terrestrial Animal Health Code. In: World Organization for Animal Health [website]. 2021 (https://
+      www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-
+      access/, accessed 9 September 2023).
+53.   Guillaume V, Lefeuvre A, Faure C, Marianneau P, Buckland R, Lam SK et al. Specific detection of
+      Nipah virus using real-time RT-PCR (TaqMan). J Virol Methods. 2004;120(2):229-37.
+54.   Daniels P, Ksiazek T, Eaton BT. Laboratory diagnosis of Nipah and Hendra virus infections.
+      Microbes Infect. 2001;3(4):289-95.
+55.   Luby SP, Rahman M, Hossain MJ, Ahmed BN, Gurley ES, Banu S et al. Recurrent Nipah virus
+      outbreaks in Bangladesh, 2001-2007. Am J Trop Med Hyg. 2007;77:273.
+56.   Naser AM, Hossain MJ, Sazzad HMS, Homaira N, Gurley ES, Podder G et al. Integrated cluster- and
+      case-based surveillance for detecting stage III zoonotic pathogens: an example of Nipah virus
+      surveillance in Bangladesh. Epidemiol Infect. 2015;143(9):1922-30.
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+41
+
+
+
+57.   Tong S, Chern SWW, Li Y, Pallansch MA, Anderson LJ. Sensitive and broadly reactive reverse
+      transcription-PCR assays to detect novel paramyxoviruses. J Clin Microbiol. 2008;46(8):2652-8.
+58.   Anthony SJ, Epstein JH, Murray KA, Navarrete-Macias I, Zambrana-Torrelio CM, Solovyov A, Ojeda-
+      Flores R, Arrigo, NC, Islam A, Ali Khan S., Hosseini P. A strategy to estimate unknown viral diversity
+      in mammals. MBio. 2013;4(5):10-1128.
+59.   Chowdhury S, Khan SU, Crameri G, Epstein JH, Broder CC, Islam A et al. Serological evidence of
+      Henipavirus exposure in cattle, goats and pigs in Bangladesh. PLoS Negl Trop Dis. 2014;8(11):8.
+60.   Bossart KN, McEachern JA, Hickey AC, Choudhry V, Dimitrov DS, Eaton BT et al. Neutralization
+      assays for differential henipavirus serology using Bio-Plex protein array systems. J Virol Methods.
+      2007;142(1-2):29-40.
+61.   Epstein JH, Anthony SJ, Islam A, Kilpatrick AM, Ali Khan S, Balkey MD et al. Nipah virus dynamics in
+      bats and implications for spillover to humans. Proc Natl Acad Sci U S A. 2020;117(46):29190-201.
+62.   PREDICT One Health Consortium 2016. PREDICT Operating Procedures: Biosafety and Personal
+      Protective Equipment (PPE) Use. (https://ohi.sf.ucdavis.edu/sites/g/files/dgvnsk5251/files/files/
+      page/predict-sop-biosafety-ppe-2016.pdf, accessed 14 September 2023).
+63.   Health emergency and disaster risk management framework. Geneva: World Health Organization;
+      2019 (https://apps.who.int/iris/handle/10665/326106, accessed 9 September 2023).
+64.   Report of the G20 High Level Independent Panel on Financing the Global Commons for Pandemic
+      Preparedness and Response. A global deal for our pandemic age. 2021 (https://pandemic-
+      financing.org/wp-content/uploads/2021/07/G20-HLIP-Report.pdf, accessed 14 September
+      2023). G20, Rome, Italy.
+
+
+
+
+
+
+
+
+
+
+      WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+42
+
+
+                M&E indicators               Annex         1
+                                             and     indicative     time frames
+                                         for     the     Region
+            The indicators in this table are developed for monitoring progress across the
+            South-East Asia Region. The targets were based on our best possible judgement at
+            this time of capacities and risks, using available data in the Region on IHR (2005)
+            implementation, opinions from regional experts, and feedback from Member States.
+            These indicators will be revised as needed during the mid-period evaluation of
+            the Strategy. As part of national planning for implementing the Regional Strategy,
+            Member States will be asked to develop indicators relevant to their context.
+
+                                                                        Target
+Indicator                Definition      Source of data   Baseline  (number of MS)
+                                                                  2024   2027  2030
+Number of           An NiV One           NiV risk assess-  Cat A 0  2      6     9
+Member States       Health risk          ment              Cat B 0
+(MS) that have      assessment           MS reports
+conducted NiV       involves all
+One Health risk     relevant sectors
+assessment          and provides an
+                    understanding
+                    of the likelihood
+                    and impact of
+                    NiV spillover
+                    and spread (e.g.
+                    knowledge of
+                    presence/loca-
+                    tion of host and
+                    virus; key routes
+                    of spillover;
+                    identification of
+                    high-risk human
+                    and livestock
+                    populations)
+Number of MS        One Health plat-     IHR M&E Frame-    Cat A 1  9    9      10
+with functional     form established     work              Cat B 2
+One Health plat-    with human,          MS reports
+forms* capable      animal (domestic
+of addressing       and wildlife) and
+NiV infection       environmental
+                    sectors, which
+                    meets at least
+                    six-monthly
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+43
+
+
+
+                                                                                   Target
+      Indicator            Definition      Source of data   Baseline           (number of MS)
+                                                                         2024       2027       2030
+Number of Cat-        Protocol that        MS progress       Cat A 2       9          9         10
+egory A and B         details specific     report            Cat B 2
+MS with estab-        steps, responsi-
+lished protocols      bilities, activities
+to ensure that all    and coordina-
+relevant agen-        tion processes
+cies are ready        across agencies
+to respond to         at national levels
+detection of NiV      if NiV infection is
+infection in hu-      detected
+mans or domes-
+tic animals
+Number of MS          Risk communi-        MS progress       Cat A 2    Cat A 2    Cat A 2    Cat A 2
+with NiV-specific     cation plan and      report            Cat B 0    Cat B 2    Cat B 5    Cat B 7
+risk communica-       communication        Annual report
+tion plans and        material that is
+materials devel-      culturally ap-
+oped                  propriate taking
+                      note of specific
+                      MS needs and
+                      priorities
+Contingency plan      NiV contingency      NiV outbreak      Cat A 0    Cat A 0    Cat A 2    Cat A 2
+for NiV pre-          plan exists and      exercise reports  Cat B 0    Cat B 0    Cat B 3    Cat B 7
+paredness and         simulation ex-       from MS
+response devel-       ercise has been
+oped and tested       conducted to
+                      test the plan
+Functional            A platform with      Regional annual   0                   Consortium
+Regional R&D          participation of     report                                established
+Consortium for        priority MS exists
+NiV                   and is functional
+Multisectoral         Protocols specify    MS progress       Cat A 1    Cat A 2    Cat A 2
+protocols exist       how a multisec-      report            Cat B 0    Cat B 0    Cat B 7
+to prevent and        toral team (e.g.
+respond to NiV        public health
+outbreaks             personnel, ep-
+                      idemiologists,
+                      veterinarians,
+                      social scientists,
+                      clinicians and
+                      laboratory per-
+                      sonnel) will work
+                      together
+
+
+
+
+
+                      WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+44
+
+
+
+                                                                                     Target
+Indicator                    Definition       Source of data  Baseline           (number of MS)
+                                                                           2024       2027       2030
+Proportion of all     NiV outbreaks        Outbreak inves-      Cat A      Cat A      Cat A
+NiV outbreaks         that were de-        tigation/ Rapid       50%        75%       100%
+that were rapidly     tected within 7      Risk Assessment
+detected and in-      days of detection    (RRA) reports
+vestigated            of lab-confirmed
+                      index case,
+                      including contact
+                      tracing and iden-
+                      tification of pos-
+                      sible secondary
+                      cases, divided by
+                      all NiV outbreaks
+Number of MS          Public sector        MS annual report    Cat A 2    Cat A 2
+with rRT-PCR and      laboratory with                          Cat B 2    Cat B 7
+IgM ELISA testing     rRT-PCR and IgM
+capacity for NiV      ELISA testing
+                      capacity for NiV
+Number of MS          Sequencing           MS annual report    Cat A 0    Cat A 2
+investing in new      technology exists                        Cat B 0    Cat B 7
+screening tools,      within labora-
+including whole       tory and staff are
+genome se-            trained to detect
+quencing (WGS),       NiV using new
+for detecting NiV     technology
+Number of MS          Clinical manage-     MS annual report    Cat A 2    Cat A 2    Cat A 2
+with national         ment, including                          Cat B 0    Cat B 0    Cat B 7
+guidelines and        IPC, protocols
+protocols for NiV     issued by gov-
+clinical diagnosis,   ernment and
+case manage-          national medical
+ment and IPC          associations
+Number of MS          AAR is a tool        MS annual report    Cat A 0    Cat A 2    Cat A 2     Cat A 2
+that have con-        to review ac-                            Cat B 0    Cat B 0    Cat B 3     Cat B 7
+ducted after-         tions taken in
+action reviews        response to a
+(AAR) following       public health
+outbreaks             event and serves
+                      as a routine
+                      management
+                      tool for continu-
+                      ous learning and
+                      improvement
+
+
+
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+45
+
+
+
+                                                                             Target
+Indicator             Definition      Source of data  Baseline           (number of MS)
+                                                                   2024       2027       2030
+Number of MS          Recovery mea-  MS annual report  Cat A 0    Cat A 2    Cat A 2    Cat A 2
+with detailed re-     sures include                    Cat B 0    Cat B 0    Cat B 3    Cat B 7
+covery measures       health and com-
+to build com-         munity capaci-
+munity resilience     ties to reduce
+following an          the risk of future
+NVD outbreak          NiV spillover and
+                      spread
+*Could be identified within the existing One Health platforms/mechanisms etc.
+
+
+
+
+
+
+
+
+
+
+                      WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    46
+
+
+               Annex 2
+  Illustrative list of frameworks,
+guidance and tools that Member States
+       could further reference
+    One Health risk assessment
+    1. The Joint Risk Assessment - Operational tool
+    https://www.who.int/initiatives/tripartite-zoonosis-guide/joint-risk-assessment-
+    operational-tool
+    Allows Member States to undertake a formal One Health risk assessment; tool
+    designed to assist Member States to identify, assess, manage and reduce risks from
+    zoonotic diseases such as NiV that benefit from coordination and collaboration
+    between ministries and other agencies responsible for various aspects of human
+    health, animal health and the environment.
+
+    Policy, strategy and regulatory capacity
+    2. National Action Plan for Health Security (NAPHS)
+    https://www.who.int/emergencies/operations/international-health-regulations-
+    monitoring-evaluation-framework/national-action-plan-for-health-security
+    A country-owned, multiyear, planning process that can accelerate the
+    implementation of IHR core capacities, and is based on a One Health for all-hazards,
+    whole-of-government approach. It captures national priorities for health security,
+    brings sectors together, identifies partners and allocates resources for capacity
+    development in health security.
+    3.                       NAPHS for ALL - a country implementation guide for NAPHS
+    https://www.who.int/publications/i/item/naphs-for-all---a-country-
+    implementation-guide-for-naphs
+    Provides guidance at each step of the NAPHS framework, and the necessary tools
+    and templates for developing and implementing a national action plan, which
+    countries, partners and agencies can use in the local context
+
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+47
+
+
+4.  NAPHS for all: a 3-step strategic framework for national action
+    plan for health security
+https://www.who.int/publications/i/item/naphs-for-all-a-3-step-strategic-
+framework-for-national-action-plan-for-health-security
+Three-step approach to help countries plan and implement priority actions to attain
+health security
+5.  WHO benchmarks for International Health Regulations (IHR)
+    capacities
+https://www.who.int/publications/i/item/9789241515429
+A tool with a list of benchmarks and corresponding actions that can be applied
+to increase the performance of countries in emergency preparedness through the
+development and implementation of a National Action Plan for Health Security
+(NAPHS)
+6.  Regional strategic roadmap on health security and health system
+    resilience for emergencies 2023-2027
+https://www.who.int/publications/i/item/9789290209959
+Guidance to the Member States of the WHO South-East Asia Region in their efforts
+to strengthen national health security and health system resilience for emergencies
+and contribute to the consolidation of the collective, supportive, and augmenting
+capacities needed at the regional level
+7.  South-East Asia regional roadmap for diagnostic preparedness,
+    integrated laboratory networking and genomic surveillance
+    (2023-2027)
+https://www.who.int/publications/i/item/9789290209942
+Outlines a range of policy options that Member States can use to develop
+sustainable strategies to improve their national laboratories and prepare laboratory
+systems to improve surveillance and respond more effectively to emerging and re-
+emerging diseases, and other potential public health emergencies
+8. Emergency   response framework, 2nd edition
+https://www.who.int/publications/i/item/9789241512299
+The ERF provides WHO staff with essential guidance on how the Organization
+manages the assessment, grading and response to public health events and
+emergencies with health consequences, in support of Member States and affected
+communities.
+
+        WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+48
+
+
+9.  WHO guidance on preparing for a national response to health
+    emergencies and disasters
+https://www.who.int/publications/i/item/9789240037182
+The guidance was developed to support countries in developing and designing the
+national health emergency response operations plan for multiple hazards. It draws on
+the Health Emergency and Disaster risk Management Framework, refers to country
+emergency risk profiles and builds on all existing capacity development plans,
+including the National Action Plan for Health Security.
+
+One Health capacity-building
+10.  Taking a multisectoral, one health approach: a tripartite guide to
+     addressing zoonotic diseases in countries
+(https://www.who.int/publications/i/item/9789241514934)
+The TZG provides principles, best practices and options to assist countries
+in achieving sustainable and functional collaboration at the human-animal-
+environment interface.
+11.  Multisectoral coordination mechanisms operational tool: an
+     operational tool of the tripartite zoonoses guide
+(https://www.who.int/publications/i/item/9789240053236)
+MCM-OT provides a standard step-wise approach for countries to establish or
+strengthen a mechanism for multisectoral, One Health coordination to manage
+zoonotic diseases, with references to principles and best practices described in the
+Tripartite zoonosis guide.
+12.  IHR-PVS bridging
+https://www.woah.org/en/document/summary-fact-sheet-on-ihr-pvs-nbws/
+https://www.woah.org/en/document/ihr-pvs-nbw-participant-handbook/
+The workshops bring together national stakeholders and decision-makers from
+the animal health and the human health services from national, regional and local
+levels, as well as representatives of other relevant sectors (environment, wildlife,
+media, police, etc.). The aim is to analyse and improve                        collaboration between the
+two sectors so that they can better tackle major health security risks at the animal-
+human interface, including zoonotic diseases, as well as threats related to food
+safety, food security or antimicrobial resistance, among others.
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+49
+
+
+13.  Surveillance and information sharing operational tool: an
+     operational tool of the tripartite zoonoses guide
+https://www.who.int/publications/i/item/9789240053250
+The SIS OT supports national authorities in their efforts to establish or strengthen a
+One Health multisectoral coordinated surveillance and information-sharing system
+for zoonotic diseases.
+
+Risk communication and awareness
+14.  Risk communication strategy for public health emergencies in
+     the WHO South-East Asia Region: 2019-2023
+https://apps.who.int/iris/handle/10665/326853
+Provides guidance for national risk communication action plans to strengthen
+national capacities. The goal is "Five in Five": to achieve adequate capacity for risk
+communication in the five key areas, in five years, as part of the steps taken to
+scale up national emergency preparedness. The five areas are risk communication
+systems; partner coordination; public communication; community engagement and
+perception; and risky behaviour and misinformation.
+
+Research and development
+15.  Nipah research and development (R&D) roadmap
+https://www.who.int/publications/m/item/nipah-research-and-development-(r-
+d)-roadmap
+Provides a 5-year framework for identifying the vision, underpinning strategic goals
+and prioritizing areas and activities (from basic research to advanced development,
+licensure, manufacture, acceptance and deployment, and assessment) for
+accelerating the collaborative development of medical countermeasures (MCMs) -
+diagnostics, therapeutics and vaccines - against NiV infection.
+16.  The regional research platform on infectious diseases of public
+     health importance in the WHO South-East Asia Region
+https://main.icmr.nic.in/content/2nd-meeting-regional-research-platform-
+infectious-diseases-public-health-importance-who
+Leverages the existing capacities of SE Asia Region countries to work on infectious
+diseases, which are of priority to this Region
+
+         WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    50
+
+
+Laboratory diagnostic capability
+17. Regional manual for the laboratory diagnosis of Nipah virus
+WHO has developed this manual with an aim to strengthen laboratory diagnosis
+and virological surveillance of NiV by providing standard operating procedures
+for sample collection, transportation, processing, testing, virus isolation and
+characterization, which can be utilized universally.
+
+Surveillance and information-sharing
+18. Surveillance and information sharing operational tool: an
+     operational tool of the tripartite zoonoses guide
+https://www.who.int/publications/i/item/9789240053250
+19. Strengthening public health surveillance and risk assessment for
+     health security threats in the WHO South-East Asia Region
+https://www.who.int/publications/i/item/SEA-WHE-16
+Identifies common priority regional actions related to surveillance, risk assessment
+and field epidemiology with key directions for efforts and investment to advance
+health security and implementation of the International Health Regulations (2005).
+20. National guideline for management, prevention and control of
+     Nipah virus infection including encephalitis. IEDCR Bangladesh
+     and technical support from WHO Country fice for Bangladesh
+https://www.moh.gov.bt/wp-content/uploads/afd-files/2014/11/WHO-guideline-
+for-Management-Prevention-and-Control-of-Nipah-Virus-Infection.pdf
+National guideline for surveillance, diagnosis, case management, prevention and
+control of Nipah virus encephalitis for prompt detection of human cases and
+prevention of further human-human transmission
+21. Nipah virus guidelines. National Centre for Disease
+     Control, DGHS, MoHFW, Government of India
+https://ncdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=113&lid=228
+
+
+
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+51
+
+
+Clinical diagnosis and case management
+22.  National guideline for management, prevention and control of
+     Nipah virus infection including encephalitis. IEDCR Bangladesh
+     and technical support from WHO Country fice for Bangladesh
+https://www.moh.gov.bt/wp-content/uploads/afd-files/2014/11/WHO-guideline-
+for-Management-Prevention-and-Control-of-Nipah-Virus-Infection.pdf
+23.  Nipah virus guidelines. National Centre for Disease Control,
+     DGHS, MoHFW, Government of India and Nipah Virus Infection:
+     Guidelines for Surveillance, Diagnosis,Treatment, Prevention and
+     Control, Department of Health and Family Welfare, Government
+     of Kerala
+https://ncdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=113&lid=228
+https://dhs.kerala.gov.in/wp-content/uploads/2021/09/Nipah-
+Guidelines-9-04-21-2-1.pdf
+24.  Core components for infection prevention and control
+     programmes
+https://www.who.int/teams/integrated-health-services/infection-prevention-
+control/core-components
+Part of WHO strategies to prevent current and future threats from infectious diseases
+such as Ebola, strengthen health service resilience, help combat antimicrobial
+resistance (AMR) and improve the overall quality of health-care delivery. They are
+also intended to support countries in developing their own national protocols for
+infection prevention and control (IPC) and AMR action plans and to support health-
+care facilities as they develop or strengthen their own approaches to IPC.
+25.  Disease Outbreak News; Nipah Virus Infection in India
+https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON490
+
+Recovery and resilience
+26.  Guidance for after action review (AAR)
+https://www.who.int/publications/i/item/WHO-WHE-CPI-2019.4
+Methodology for planning and implementing a successful AAR to review actions
+taken in response to a public health event, but also as a routine management tool for
+continuous learning and improvement
+
+         WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    52
+
+
+                    WHO                       Annex     3
+        and Emergency Response Framework
+        Regional Strategy for Nipah Virus
+
+ERF Cat-                 Strategy Com-        Activity                                                         Key Outcome
+  egory                    ponent
+                    Improve un-           Conduct studies to improve under-                                    One Health NiV risk as-
+                    derstanding of        standing of relevant bat species, NiV                                sessments completed
+        socio-ecological prevalence, spillover and transmission in each MS (Cat A by
+                    aspects               pathways (Cat A by 2024, Cat B by                                    2024, Cat B by 2027)
+        2027)
+        Conduct and disseminate systematic
+        risk assessments (Cat A by 2024, Cat B
+        by 2030)
+        Enhance policy, Leverage IHR to improve core capaci- National plans for NiV
+                    strategy, regula-     ties (Cat A by 2027, Cat B by 2030)                                  preparedness and re-
+                    tory capacity                                                                              sponse developed and
+                                          Develop, implement, and test national                                tested (Cat A by 2027,
+                                          plans for NiV                             (Cat A by 2027, Cat B by   Cat B by 2030)
+                                          2030)
+                                          Coordinate between human, ani-
+                                          mal, and wildlife health agencies to
+                                          strengthen capacity for NiV and other
+                                          health emergencies (Cat A by 2024,
+                                          Cat B by 2027)
+                                          Strengthen regulatory capacities and
+    Preparedness                          systems for medical countermeasures
+                                          (Cat A by 2027, Cat B by 2030)
+                    Increase multi-       Ensure functional mechanism for                                      Functional coordi-
+                    sectoral health       coordinating communication and data                                  nation mechanism
+                    system capacity       sharing for surveillance in human,                                   exists for NiV infection
+                    and readiness         animal, and wildlife populations (Cat                                prevention and control
+                    for detection,        A by 2024, Cat B by 2030)                                            within the broader One
+                    early warning,                                                                             Health mechanisms in
+                    and response                                                                               all MS (Cat A by 2024,
+                    to cases and                                                                               Cat B by 2030)
+                    outbreaks             Ensure One Health mechanisms at the                                  Response protocols, in-
+                                          sub-national level for preparedness                                  cluding multi-disciplin-
+                                          and response  (Cat A by 2024, Cat B                                  ary teams, established
+                                          by 2030)                                                             to ensure that human
+                                          Continue to invest and strengthen                                    and animal health
+                                          IHR core capacities at national and                                  agencies are ready to
+                                          sub-national level (Cat A by 2024, Cat                               respond to detection
+                                          B by 2025)                                                           of NiV infection in
+                                                                                                               animals in all MS (Cat A
+                                          Develop and continuously build multi-                                humans or domestic
+                                          disciplinary health workforce (Cat A by                              by 2024, Cat B by 2030)
+                                          2024, Cat B by 2025)
+
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    53
+
+
+
+ERF Cat-    Strategy Com-                 Activity                                 Key Outcome
+  egory        ponent                 Establish systems for deployment of
+                                      multidisciplinary outbreak investiga-
+                                      tion teams (Cat A by 2024, Cat B by
+                                      2030)
+                  Enhance risk        Strengthen risk messaging for NiV            Culturally appropriate
+                  communication       spillover, spread, and outbreak re-          risk, conservation, and
+                  and awareness       sponse (Cat A by 2024, Cat B by 2027)        awareness messaging
+                  to reduce spill-                                                 developed to reduce
+                  over and spread                                                  spillover, avoid vilifica-
+                                                                                   tion of wildlife, and
+                                                                                   prevent spread of NiV
+                                                                                   (Cat A by 2024, Cat B
+                                                                                   by 2027)
+                                      Educate about the value of bats and
+                                      other wildlife species (Cat A by 2024,
+                                      Cat B by 2027)
+                                      Evaluate approaches to making inter-
+                                      ventions more affordable and accept-
+                                      able in communities (Cat A by 2024,
+                                      Cat B by 2027)
+                  Promote re-         Map priority NiV knowledge gaps and          NiV research and de-
+                  search and          identify common research challenges          velopment consortium
+                  development         (Cat A by 2024, Cat B by 2027)               for SEAR established to
+                                                                                   address priority needs
+                                                                                   and funding available
+                                      Support SEA Regional Research plat-          by 2027
+                                      form activities for NiV (Cat A by 2024,
+                                      Cat B by 2027)
+                  Promote behav-      Strengthen links between social sci-         Social science input
+                  ioural changes      ence and public health practitioners,        incorporated into NiV
+                  to reduce risk      clinicians, veterinarians, wildlife prac-    spillover reduction,
+                                      titioners, and animal caretakers (Cat A      spread, case manage-
+                                      by 2024, Cat B by 2027)                      ment, and response
+                                      Engage social scientists to understand       protocols (Cat A by
+                                      community perceptions and practices          2024, Cat B by 2027)
+                                      (Cat A by 2024, Cat B by 2027)
+                                      Develop locally appropriate protocols
+    Prevention                        for NiV spillover reduction (Cat A by
+                                      2024, Cat B by 2027)
+                  Improve con-        Identify all farms that raise pigs, horse,   Stronger biosecu-
+                  trol of disease     and/or livestock in areas at highest         rity measures on pig,
+                  in domestic         risk to strengthen biosecurity (Cat A        horse, and livestock
+                  animals through     by 2024, Cat B by 2027)                      farms (Cat A by 2024,
+                  enhanced bios-                                                   Cat B by 2027)
+                  ecurity             Strengthen messaging to farms of all sizes
+                                      about economic benefits of biosecurity
+                                      (Cat A by 2024, Cat B by 2027)
+
+                      WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    54
+
+
+
+ERF Cat-               Strategy Com-        Activity                                                        Key Outcome
+  egory  ponent                         Promote training of veterinarians,
+                                        farmers, and others in national bios-
+                                        ecurity protocols (Cat A by 2024, Cat
+                                        B by 2027)
+                 Increase labora-       Develop and implement national                                      At least one labora-
+                 tory diagnostic        and regional laboratory surveillance                                tory in each MS can
+                 capability in          standards for prompt, accurate NiV                                  diagnose NiV using
+                 human, animal,         diagnosis and safe, timely specimen                                 rRT-PCR and IgM ELISA
+                 and wildlife sec-      collection, storage, transport, and                                 or arrangements are in
+                 tors                   handling (Cat A by 2024, Cat B by                                   place for samples to be
+                                        2025)                                                               tested in a SEAR nomi-
+                                        Develop plans for enhancing capacity                                nated Regional Labora-
+                                        of national and sub-national laborato-                              tory for NiV diagnosis
+                                        ries and improving access to special-                               (Cat A by 2024, Cat B
+                                        ized laboratories (Cat A by 2024, Cat                               by 2025)
+                                        B by 2025)
+                                        Train laboratory workforce in molecu-
+                                        lar and serologic platforms (Cat A by
+                                        2024, Cat B by 2025)
+                                        Work with WHO and WOAH to
+                                        strengthen national referral laborato-
+    Detection                           ries and mobilize support of a region-
+                                        al reference laboratory (Cat A by 2024,
+                                        Cat B by 2025)
+                 Increase surveil-      Develop national surveillance and                                   Hospital-based SARI
+                 lance and infor-       outbreak response protocols for                                     and AES surveillance
+                 mation sharing         humans and bats (Cat A by 2024, Cat                                 systems enhanced to
+                 among human,           B by 2027)                                                          include NiV testing in
+                 animal, and                                                                                all MS by 2024
+                 wildlife sectors       Develop workforce in veterinary and                                 Increased capacity for
+                                        wildlife departments to conduct bat                                 NiV surveillance in
+                                        surveillance (Cat A by 2024, Cat B by                               domestic animals and
+                                        2027)                                                               wildlife
+                                        Incorporate additional epidemiologic                                Increased capacity for
+                                        data collection into surveillance to                                event-based surveil-
+                                        support risk assessment (Cat A by                                   lance in humans,
+                                        2024, Cat B by 2025)                                                domestic animals, and
+                                                                                                            wildlife in all MS by
+                                                                                                            2024
+                                        Strengthen capacity for syndromic                                   MS decide whether to
+                                        surveillance, event-based surveillance,                             conduct ongoing bat
+                                        rumour detection in humans, do-                                     or domestic animal
+                                        mestic animals, and wildlife (Cat A by                              surveillance based on
+                                        2024, Cat B by 2025)                                                One Health NiV risk
+                                                                                                            assessments (Cat A by
+                                                                                                            2027, Cat by B 2030)
+                                        Strengthen knowledge and awareness
+                                        in human, animal and wildlife health
+                                        professionals for prompt disease de-
+                                        tection (Cat A by 2024, Cat B by 2025)
+    WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    55
+
+
+
+ERF Cat-    Strategy Com-               Activity                                  Key Outcome
+  egory        ponent
+                Improve clinical    Strengthen surge capacity of health           Guidelines and pro-
+                diagnosis and       facilities, isolation areas, IPC practices,   tocols for NiV clini-
+                case manage-        and intensive care for managing NiV-          cal diagnosis, case
+                ment                infected patients (Cat A by 2024, Cat         management and IPC
+                                    B by 2027)                                    up-to-date and read-
+                                    Improve access to IPC in hospitals and        ily available (Cat A
+                                    other facilities likely to care for NiV-      by 2024 and Cat B by
+                                    infected patients (Cat A by 2024, Cat         2027)
+                                    B by 2025)
+                                    Facilitate access and participation of
+                                    clinicians to NiV knowledge networks
+                                    (Cat A by 2024, Cat B by 2025)
+                                    Establish national guidelines on clini-
+                                    cal management, IPC, transfer to spe-
+                                    cialized centres, and follow-up (Cat A
+    Response                        by 2024, Cat B by 2027)
+                                    Establish guidance for collection of
+                                    clinical data on specialized popula-
+                                    tions with linkage to national NiV
+                                    surveillance systems (Cat A by 2024,
+                                    Cat B by 2027)
+                Develop and         Support capacity for exploratory stud-        Processes estab-
+                improve access      ies and clinical trials of vaccines and       lished that support
+        to medical coun- therapeutics in populations at risk for the development and
+                termeasures         NiV transmission                              deployment of medical
+                                    Review existing regulatory laws,              countermeasures for
+                                    specifically for high-threat pathogens        NiV by 2027 in SEAR
+                                    requiring expedited processes for vac-
+                                    cines and therapeutics
+                                    Contextualize and adapt the protocol
+                                    for the use of monoclonal antibodies
+                Ensure resiliency   Strengthen capacity of local com-             Recovery measures
+                                    munities affected by NiV infection to         designed that build
+                                    avoid recurrent outbreaks (Cat A by           community resilience
+                                    2024, Cat B by 2030)                          to address future NiV
+                                                                                  outbreaks (Cat A by
+    Recovery                                                                      2024 and Cat B by
+                                                                                  2030)
+                                    Institutionalize mechanisms for
+                                    conducting After Action Reviews and
+                                    incorporating lessons learned into NiV
+                                    prevention and response plans (Cat A
+                                    by 2024, Cat B by 2030)
+
+
+
+
+
+                WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+56
+
+
+
+
+
+
+
+
+
+
+WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030
+
+---
+
+    This            document provides guidance for Member States of the WHO South-East
+    Asia Region to prevent severe illness and death from Nipah virus. Since 2001,
+    Nipah virus has caused outbreaks of severe illness and death in Bangladesh and
+    India. Countries of the Region are at risk wherever there are susceptible animals,
+    the presence of the virus, and a pathway for transmission.
+    This document considers and   incorporates the best evidence from       scientific
+    research and practical field experiences from previous outbreak investigations,
+    and describes key components of the Regional Strategy, priority activities for
+    each component, milestones, and timelines based on whether countries have
+    reported human cases or not. A section on monitoring and evaluation describes
+    indicators to assess progress for       the Region towards achieving the Strategy.
+    Using a 'One Health' approach, the document will be helpful          for programme
+    managers   to develop strategies  for the  prevention and control of         other
+    high-threat pathogens
+
+
+
+
+
+
+
+
+
+
+                     World Health
+                     Organization
+ReGIoONAL FIcEFor South-East Asia    9 789290 210849

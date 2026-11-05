@@ -1,0 +1,181 @@
+**Technical Brief: Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event**
+
+# X` Interim Document WHO Regional Office for South-East Asia February 2024
+
+----
+
+### Summary
+
+- Nipah virus (NiV) infection is an emerging serious zoonotic disease transmitted to humans through infected animals (such as fruit bats of the Pteropodidae family or pigs) or food contaminated with excretion and secretions from bats infected with NiV. It can also be transmitted from human-to-human through close contact.
+- NiV infection outbreaks have been reported in Malaysia, Singapore, Bangladesh and India.
+- The incubation period is typically from 4 to 14 days, but an incubation period as long as 45 days has been reported, making it difficult to identify transmission chains during outbreaks.
+- NiV in humans causes a range of clinical presentations, from asymptomatic infection (subclinical) to acute respiratory infection and fatal encephalitis.
+- The case-fatality rate is estimated at 40% to 75%. This rate can vary by the outbreak depending on local capabilities for epidemiological surveillance and clinical management.
+- There is no treatment or vaccine available for either people or animals. The primary treatment for humans is supportive care. Early diagnosis and treatment can increase the chances of survival among infected individuals, to prevent transmission to other people, and to manage outbreak response efforts.
+- Key public health interventions include primary prevention, isolation of cases, contact tracing, infection prevention and control, and risk communication and community engagement.
+- Joint risk assessment should be conducted using the 'One Health' approach, which should be used to guide readiness planning and national response plans.
+
+# I. Background
+
+Nipah virus (NiV) is a member of the family Paramyxoviridae, genus Henipavirus. NiV was first identified in 1999 in Malaysia and Singapore. NiV outbreaks have since only been reported in Bangladesh1,2 and India3 although the Pteropus bat which is a reservoir for the virus is found in a number of countries in the Asia-Pacific region and Africa. Since 2001 there have been six outbreaks of NiV infection in India, four of which were reported in the state of Kerala and two in the state of West Bengal. Of these, the four most recent outbreaks (since 2018) were all reported in Kerala, of which three were reported in the district of Kozhikode. The outbreaks in Kerala were reported between the months of May and September. The most severe outbreak was reported in May 2018 in Kozhikode which resulted in 23 cases including 21 deaths.
+
+---
+
+# II. Risk Assessment for South-East Asia Region
+
+Likelihood of NiV outbreak in WHO SE Asia Region is low, although it is possible. So far, four countries have reported the outbreaks, i.e. Bangladesh, India, Malaysia and Singapore. In those outbreaks, primary infection occurred likely through direct contact with NiV infected pigs or their contaminated tissues, consumption of contaminated fruits or fruit products (such as raw date palm juice). Subsequent person-to-person transmission was documented in Bangladesh and India, while relatively in small scale affecting primarily the family members and caregivers of those infected with NiV, or in health-care settings.
+
+However, the presence of Pteropus bats (fruit bats) has been reported from multiple countries in the Region, and thus exposure could happen in previously non-affected areas. Certain human behaviours may enhance the likelihood of exposure to NiV; for example, setting up a piggery in forest areas. Given the duration of incubation period, possible geographical spread due to the movement of an infected person cannot be ruled out in the future. Once NiV outbreak occurs, its consequences could be moderate to major in the affected area, depending on the scale of the transmission, and the local capacities to manage the outbreaks. NiV infection is associated with severe disease and a high case fatality rate. It is likely to trigger public concern and intensive response.
+
+## III. Basic facts on Nipah virus Transmission
+
+Nipah virus infection is a zoonotic illness that is transmitted to people from animals (bats or pigs) and can also be transmitted through foods contaminated with bat urine or saliva that contains NiV or directly from person to person. During the first recognized outbreak in Malaysia, which also affected Singapore, most human infections resulted from direct contact with pigs infected with NiV or their contaminated tissues. Transmission is thought to have occurred via unprotected exposure to secretions from the pigs, or unprotected contact with the tissue of a sick or infected animal. The risk of getting infected by the Nipah virus is higher from December to May in South Asia. In the outbreaks in Bangladesh and India, consumption of fruits or fruit products (such as raw date palm juice) contaminated with urine or saliva from infected fruit bats was the most likely source of infection. Subsequent person-to-person transmission is documented in Bangladesh and India and primarily occurred among the family members and caregivers of those infected with NiV, as well as within healthcare facilities. The risk of infection was higher among persons who had longer contact with case patients and who were exposed to body fluids. NiV has been isolated from human respiratory secretions in previous outbreaks. However, sustained human-to-human transmission has not yet been observed4. In the NiV outbreak in Kerala in 2018, genome sequence analysis of 4 human cases and 3 Pteropus *medius bats revealed 97% similarity to the NiV-B lineage that circulates in Northeast India and* Bangladesh, and 99.7%-100% similar to a virus from Pteropus spp. bats, suggesting bats were the likely source of the outbreak in 20185.
+
+---
+
+## Natural hosts
+
+Fruit bats of the family Pteropodidae - particularly species belonging to the Pteropus genus - are the natural hosts for Nipah virus. There is no apparent disease in fruit bats. Infected bats shed NiV in their saliva, urine and excreta. Pregnant bats shed high concentrations of NiV during the winter season which coincides with harvesting and consumption of raw date palm sap in endemic areas. Pteropus bats are endemic to South Asia and northern Australia. (Refer Mazzola and Kelly-Cirino6 for the geographical distribution of henipavirus -Nipah and Hendra outbreaks and fruit bats of the Pteropodidae family.)
+
+## Infection in domestic animals
+
+Outbreaks of the Nipah virus in pigs and other domestic animals such as horses, goats, sheep, cats and dogs were first reported during the initial Malaysian outbreak in 1999. The virus is highly contagious in pigs. Pigs are infectious during the incubation period, which lasts from 4 to 14 days. Transmission between farms may be due to fomites - or carrying the virus on clothing, equipment, boots, vehicles, etc. For more information of Nipah in animals, see the <u>World Organization for Animal Health (OIE)</u> webpage on Nipah7.
+
+## Incubation period
+
+The incubation period (interval from infection to onset of symptoms) is typically from 4 to 14 days but an incubation period as long as 45 days has been reported. Of the 12 patients included in the case series in Kerala, the estimated median incubation period was 10 days with a range of eight to 15 days8.
+
+## Signs and symptoms
+
+Nipah virus infection in humans causes a range of clinical presentations, from asymptomatic infection (subclinical) to acute respiratory infection and fatal encephalitis. The case fatality rate is estimated at 40% to 75% and can vary by outbreak depending on local capabilities for epidemiological surveillance and clinical management. During the 2018 outbreak in Kerala, India, of the 12 patients included in a case series, 10 (83%) had encephalitis and of the 11 who had a chest x-ray, nine had infiltrates8. Infected people initially develop symptoms that include fever, headaches, myalgia, vomiting and sore throat. This can be followed by dizziness, drowsiness, altered consciousness and neurological signs that indicate acute encephalitis. Some people can also experience atypical pneumonia and severe respiratory problems, including acute respiratory distress. Encephalitis and seizures occur in severe cases, progressing to coma within 24 to 48 hours.
+
+# IV. Key public health measures7,9,10
+
+## Primary prevention
+
+In the absence of a vaccine or licensed treatment available for NiV, the only way to reduce or prevent people from acquiring the virus is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to NiV. Reducing risk of bat-to-human transmission
+
+- Decrease bat access to date palm sap and other fresh food products. Keeping bats away from sap collection sites with protective coverings (such as bamboo sap skirts) may be helpful.
+
+---
+
+- Avoid consuming raw date palm sap, or other fruits and the raw juice of fruits that could be contaminated or partly eaten by bats.
+- Boil freshly collected date palm juice before consumption.
+- Wash and peel fruits thoroughly. Discard any with evidence of bat bites.
+- Areas where bats are known to roost should be avoided. Reducing the risk of animal-to-human transmission
+- Wear gloves and protective clothing when dealing with ill animals or their tissues and during slaughtering processes.
+- Minimize contact with infected pigs.
+- Samples taken from animals with suspected NiV infection should be handled by trained staff working in suitably equipped laboratories.
+- In endemic areas, when establishing new pig farms, considerations should be given to presence of fruit bats in the area and in general, pig feed and pig shed should be protected against bats when feasible. Reducing the risk of human-to-human transmission
+- Avoid direct, unprotected contact with individuals infected with the NiV.
+- Prioritize regular hand washing, especially after tending to or visiting sick individuals.
+- Avoid contact with the blood or bloody fluids of any person known to be infected with NiV.
+- Avoid direct close contact with the (deceased) suspect/confirmed case at a funeral or during burial preparation rituals.
+- Health-care workers caring for patients with suspected or confirmed infection, or their handling specimens, should implement standard infection prevention and control precautions at all times and by trained staff working in suitably equipped laboratories
+
+## Diagnosis
+
+Initial signs and symptoms of NiV infection are non-specific, and the diagnosis is often not suspected at the time of presentation. Additionally, NiV may not be commonly included in the list of pathogens for which patients with acute encephalitis syndrome (AES) or severe acute respiratory infections (SARI) are tested.
+
+However, efforts should be made to enable early diagnosis to increase the chances of survival among infected individuals, to prevent transmission to other people, and to manage outbreak response efforts. NiV should be suspected in people with symptoms consistent with NiV infection who have been in areas where NiV has been detected - particularly if they report potential exposure.
+
+Preferred samples for testing include oropharyngeal swab in VTM, nasopharyngeal swab in VTM, urine in sterile urine container, serum [blood in SSGT], whole blood [in EDTA tube], cerebral spinal fluid [in the case of encephalitis] in sterile tube. Samples should be collected as early as possible using appropriate PPE and adequate biosafety conditions should be applied for the collection, transportation and storage of samples from suspected cases.
+
+---
+
+Laboratory diagnosis of a patient with a clinical history of NiV can be made during the acute and convalescent phases of the disease by using a combination of tests. Where feasible, testing should be performed using commercial developed or in-house real-time polymerase chain reaction (RT-PCR) and enzyme-linked immunosorbent assay (ELISA). Where ELISA testing is not available, suspected cases with a negative RT-PCR test result should be referred to a regional reference laboratory for additional testing to confirm the absence of NiV infection. Genomic sequencing can be used to aid diagnostic testing. Laboratories undertaking testing for NiV should adhere strictly to the appropriate biosafety practices and be performed by appropriately trained staff. NiV is a biosafety level (BSL) 4 agent, however, BSL 2 facilities with appropriate personal protective equipment (PPE) can be used once the sample has been considered inactivated. Virus isolation should only be conducted under BSL4 conditions, and a risk assessment needs to be conducted followed by required safety measures and procedures. Careful consideration should be given to the differential diagnosis for NiV infection which includes other viral encephalitis such as Japanese encephalitis, measles, scrub typhus, West Nile virus, leptospirosis virus, herpes simplex encephalitis, bacterial meningitis and cerebral malaria.
+
+### Contact tracing and management
+
+One of the key public health measures in controlling the NiV transmission has been contact-tracing. Case investigation of infected individuals should identify those exposed to the cases. Based on assessed risks, identified contacts should be contacted, quarantined and monitored throughout the incubation period. Those individuals who develop symptom should be immediately isolated, tested and provided appropriate care.
+
+## Treatment
+
+There are currently no drugs or vaccines specific for Nipah virus infection although WHO has identified Nipah as a priority disease for the WHO Research and Development Blueprint. Intensive supportive care is recommended to treat severe respiratory and neurological complications.
+
+## Infection prevention and control in health-care settings
+
+Health-care workers caring for patients with suspected or confirmed infection, or handling specimens from them, should implement standard infection control precautions at all times. As human-to-human transmission has been reported, particularly in health-care settings, contact and droplet precautions should be used in addition to standard precautions. Airborne precautions may be required in certain circumstances. Samples taken from people and animals with suspected Nipah virus infection should be handled by trained staff working in suitably equipped laboratories.
+
+## 'One Health': Controlling infection in animals
+
+Instances of the Nipah virus in pigs were first reported during the initial Malaysian outbreak in 1999. The virus is highly contagious in pigs. Pigs are infectious during the incubation period, which lasts from 4 to 14 days. An infected pig can exhibit no symptoms, but some develop acute feverish illness, laboured breathing, and neurological symptoms such as trembling, twitching and muscle spasms. Generally,
+
+---
+
+mortality is low except in young piglets. These symptoms are not dramatically different from other respiratory and neurological illnesses of pigs. Nipah virus should be suspected if pigs also have an unusual barking cough or if human cases of encephalitis are present. If an outbreak is suspected, the animal premises should be quarantined immediately. Culling of infected animals - with close supervision of the burial or incineration of the carcasses - may be necessary to reduce the risk of transmission to people. Restricting or banning the movement of animals from infected farms to other areas can reduce the spread of the disease. As Nipah virus outbreaks have involved pigs and/or fruit bats, establishing an integrated animal health/wildlife surveillance system, using a One Health approach, to detect Nipah cases is essential in providing early warning for veterinary and human public health authorities. Nipah virus is a disease listed as an "emerging disease" category in the World Organisation for Animal Health's (WOAH) Terrestrial Animal Health Code7 and must be reported to WOAH.
+
+## V. Priority actions for Member States11 Planning and coordination
+
+- Conduct risk assessment on Nipah virus event in the respective country context. Joint risk assessment approach is strongly encouraged, engaging all relevant sectors and stakeholders to analyze the risk pathways (see Tripartite Operational Tool for Joint Risk Assessment12). Joint risk assessment can inform risk reduction and readiness planning.
+- Develop or review national preparedness/response plan for high-threat pathogens of zoonotic origin, which can guide emergency response for the Nipah virus event.
+- Ensure national leadership and arrangement are in place that can coordinate multisectoral response for Nipah virus event, that incorporates the "One Health" approach. Incident management structure and public health emergency operation centres should be ready for activation. Ensure the availability of a multidisciplinary health workforce for outbreak field investigations and response.
+- Conduct simulation exercises engaging multisectoral stakeholders to test the response plan for Nipah virus event.
+
+## Surveillance
+
+- Strengthen knowledge and raise awareness among clinicians and health-care workers on Nipah virus infection, including signs, symptoms and risk factors. Advise clinicians to report to public health authority immediately, when Nipah virus infection is suspected based on clinical presentation, travel and exposure history (as event-based surveillance).
+- Case investigation forms and protocol, including case definition1, should be in place that can be used when suspected cases or a cluster of Nipah virus infection is reported. National rapid response teams should be trained to conduct case investigation for the events involving high-threat pathogen, including Nipah virus infection.
+- Review and amend as needed, the national guidelines or SOPs for contact tracing and quarantine for those exposed to high-threat infectious pathogens, including Nipah.
+
+1 The case definitions for Nipah virus infection developed by the Government of India can be accessed at the <u>NCDC</u>
+
+website and those developed by the Government of Bangladesh can be accessed at <u>IEDCR website</u>.
+
+---
+
+- When circulation or outbreak of Nipah virus infection is suspected, trends in syndromic surveillance for acute encephalitis syndrome (AES) and severe acute respiratory infection (SARI) may be monitored, and selected samples may be tested in potentially affected areas (otherwise, routine testing is not warranted).
+
+## Laboratory
+
+- Develop, periodically review and update the national protocol for sample collection, transport, and testing for Nipah virus.
+- SOPs for testing should be in place ensuring appropriate biosafety precautions, sample referral pathways for confirmatory and differential testing, and training must be made available for safe sample collection, handling and transportation.
+- If the testing is to be conducted through the regional laboratory network, prior agreement with the referral testing laboratory and sample shipment procedures should be established. The SE Asia Region's laboratory network can help in facilitating such arrangements.
+
+## Clinical management, including infection prevention and control at health-care settings
+
+- It is recommended to develop National guidelines or SOPs for clinical management of suspected and confirmed Nipah infection cases, infection prevention and control for Nipah virus infection, transfer to specialized centres and follow-up. Clinicians and health-care workers of designated health-care facilities should be sensitized in the guidelines or SOP.
+- Continue to strengthen routine practices of infection prevention and control at health-care facilities based on existing national guidelines.
+
+## Risk Communication and Community Engagement
+
+- Develop risk communication plan and communication materials that are culturally appropriate for
+
+```
+o raising awareness among the public on potential risks of Nipah virus infection and practices to
+```
+
+reduce the risks, especially in the areas with risk of potential exposure to Nipah virus (such as the areas where Nipah virus was detected among bat population).
+
+```
+o raising awareness among clinicians and veterinarians of NiV disease in humans and livestock,
+```
+
+and that NiV infection is a possibility in any area where the fruit bat host is present.
+
+## 'One Health'
+
+- Raise awareness among village animal health workers, community animal health volunteers, pig farm workers on the risk of pigs being infected with NiV infection, and measures to reduce the risks (such as routine and thorough cleaning and disinfection of pig farms with appropriate detergents), especially in the areas with a risk of potential exposure to Nipah virus.
+- Where resource permits, consider enhancing surveillance of NiV infection among relevant animal species using the "One Health" approach. Antibody surveillance of high-risk farms can be considered.
+- The risk of NiV in Member States at national and subnational levels can only be assessed accurately through surveillance and information-sharing across human, animal and wildlife sectors. Joint risk reduction plans and joint investigation protocols should be developed, based on "One Health". approach.
+
+---
+
+### References
+
+1. Disease Outbreak News; Nipah virus infection - Bangladesh. Accessed 17 October 2023. https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON442
+2. Nikolay B, Salje H, Hossain MJ, et al. Transmission of Nipah Virus - 14 years of investigations in Bangladesh. New England Journal of Medicine. 2019;380(19):1804-1814. doi:10.1056/NEJMoa1805376
+3. Disease Outbreak News; Nipah virus infection - India. Accessed 17 October 2023. https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON490
+4. Nipah virus: epidemiology, pathology, immunobiology and advances in diagnosis, vaccine designing and control strategies - a comprehensive review - PMC. Accessed 17 October 2023. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6830995/
+5. Yadav PD, Shete AM, Kumar GA, et al. Nipah virus sequences from humans and bats during Nipah outbreak, Kerala, India, 2018. Emerg Infect Dis. 2019;25(5):1003-1006. doi:10.3201/eid2505.181076
+6. Diagnostics for Nipah virus: a zoonotic pathogen endemic to Southeast Asia | BMJ Global Health. Accessed October 17, 2023. https://gh.bmj.com/content/4/Suppl\_2/e001118
+7. World Health Organisation for Animal Health. Nipah virus. WOAH (World Organisation for Animal Health). Accessed 14 October 2023. https://www.woah.org/en/disease/nipah-virus/
+8. Chandni R, Renjith TP, Fazal A, et al. Clinical Manifestations of Nipah Virus-Infected Patients Who Presented to the Emergency Department During an Outbreak in Kerala State in India, May 2018. *Clinical Infectious Diseases. 2020;71(1):152-157. doi:10.1093/cid/ciz789*
+9. Centers for Disease Control and Prevention. Nipah virus (NiV) | CDC. Published October 19, 2022. Accessed October 17, 2023. https://www.cdc.gov/vhf/nipah/index.html
+10. World Health Organization. Nipah virus. Accessed October 14, 2023. https://www.who.int/newsroom/fact-sheets/detail/nipah-virus
+11. World Health Organization Regional Office for South-East Asia. WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection, 2023-2030. Forthcoming 2023.
+12. Joint risk assessment operational tool (JRA OT): an operational tool of the tripartite zoonoses guide: taking a multisectoral, one health approach: a tripartite guide to addressing zoonotic diseases in countries. Accessed August 18, 2023. https://www.who.int/publications-detailredirect/9789240015142
+
+# World Health Organization
+
+## REGIONAL OFFICE FOR South-East Asia 9 " 7 8 9 2 9 0" 2 1 1 2 7 3

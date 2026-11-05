@@ -1,0 +1,922 @@
+World Health
+Organization
+
+
+
+
+
+
+
+NIPAH RESEARCH
+AND DEVELOPMENT
+(R&D) ROADMAP
+
+OCTOBER 2019 - ADVANCED DRAFT
+
+
+
+
+General disclaimers
+The designations employed and the presentation of the material in this publication do not imply the expression of any
+opinion whatsoever on the part of the World Health Organization concerning the legal status of any country, territory,
+city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on
+maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or
+recommended by the World Health Organization in preference to others of a similar nature that are not mentioned.
+Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this
+publication. However, the published material is being distributed without warranty of any kind, either expressed or
+implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the World
+Health Organization be liable for damages arising from its use.
+
+                   R&DBlueprint
+                   Powering research
+                   to prevent epidemics
+
+---
+
+                                                         NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+                                                     Contents
+
+Abbreviationa & Acronyms                             Introduction                               2
+AGM      African green monkey                        Cross-cutting issues 00                    4
+BSL-4    biosafety level 4                           Primary challenges                         4
+CNS      central nervous system                      Key needs                                  6
+ELISA    enzyme-linked immunosorbent assay
+FDA      Food and Drug Administration (USA)          Knowledge gaps                             8
+HeV      Hendra virus                                Strategic goals and aligned milestones     9
+IFNAR-KO interferon-alpha/beta receptor knockout     Priority areas/activities                  10
+mAb     monoclonal antibody
+MCM      medical countermeasure                      Diagnostics                                12
+MTA      material transfer agreement                 Primary challenges                         12
+NiV      Nipah virus                                 Key needs                                  13
+NRA     national regulatory authority
+PCR      polymerase chain reaction                   Knowledge gaps                             14
+PD      pharmacodynamic                              Strategic goals and aligned milestones     14
+PEP      post-exposure prophylaxis                   Priority areas/activities                  15
+PK     pharmacokinetic
+POC      point-of-care                               Therapeutics                               16
+PPE      personal protective equipment               Primary challenges                         16
+R&D     research and development
+RCT      randomized control trial                    Key needs                                  16
+rRT      real-time reverse transcriptase             Knowledge gaps                             17
+TPP      target product profile                      Strategic goals and aligned milestones     18
+WHO      World Health Organization                   Priority areas/activities                  19
+                                                     Vaccines                                   20
+                                                     Primary challenges                         20
+                                                     Key needs                                  20
+                                                     Knowledge gaps                             21
+                                                     Strategic goals and aligned milestones     22
+                                                     Priority areas/activities                  22
+                                                     Background information                     24
+
+
+                                                     Roadmap purpose: to provide a 5-year framework for identifying
+                                                     the vision, underpinning strategic goals and prioritizing areas and
+                                                     activities (from basic research towards advanced development,
+                                                     licensure, manufacture, acceptance and deployment, and
+                                                     assessment) for accelerating the collaborative development of
+                                                     medical countermeasures (MCMs) - diagnostics, therapeutics
+                                                     and vaccines - against Nipah virus infection.
+
+
+
+
+
+
+
+                                                                                                1
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                                                                                          NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Introduction
+
+Nipah virus (NiV) is a paramyxovirus that was first identified as a zoonotic                                                                                                 cross-cutting issues (for areas that apply to more
+pathogen after an outbreak involving respiratory illness in pigs and severe                                                                                                  than one MCM category), diagnostics, therapeutics
+                                                                                                                                                                             and vaccines. (Note: these topics are not presented
+encephalitic disease in humans occurred in Malaysia and Singapore in 1998 and                                                                                                in order of public-health priority). The strategic
+1999. As part of that outbreak, 265 human cases were identified in Malaysia, and                                                                                             goals and milestones identified in the roadmap
+11 abattoir workers in Singapore became ill following contact with imported pigs,                                                                                            are focused on key achievements for the next five
+                                                                                                                                                                             years; the roadmap milestones will be tracked over
+with an overall case- fatality rate of 40%. No new outbreaks have been reported                                                                                              time, with periodic assessment of progress and
+in these countries since May 1999. NiV infection was subsequently recognized,                                                                                                updating as needed.
+however, in Bangladesh in 2001, and nearly annual outbreaks have occurred in                                                                                                 Other aspects of public-health preparedness
+that country since.                                                                                                                                                          and response, in addition to R&D for diagnostics,
+                                                                                                                                                                             therapeutics and vaccines, are critical to successful
+                                                                                                                                                                             NiV infection prevention and control. Examples
+NiV infection has also being recognized                    infected horses). HeV was initially recognized                                                                    include: minimizing zoonotic NiV transmission;
+periodically in eastern India and, in 2018, was            in 1994 following an outbreak of fatal cases of                                                                   improving use of personal protective equipment
+identified for the first time in southern India. Case-     severe respiratory disease in horses and humans                                                                   (PPE); ensuring adequate hand hygiene and
+fatality rates during outbreaks in Bangladesh              in the Brisbane suburb of Hendra in Queensland,                                                                   environmental hygiene; promoting effective
+and India have ranged from 75% to 100%. Other              Australia. To date, confirmed HeV disease has                                                                     community engagement; implementing adequate
+regions may be at risk for NiV infection, as               been confined to Australia. An outbreak of an        The R&D roadmap for NiV infection is a key                   infection prevention and control practices;
+serologic evidence for NiV has been found in the           unidentified henipavirus (possibly NiV, or a        component of the World Health Organization                    developing adequate infrastructure (such as
+known natural reservoir (Pteropus species and              closely related virus) occurred among horses and        (WHO) R&D Blueprint initiative for accelerating           cold-chain maintenance) to deploy MCMs, and
+several other bat species) in a number of other            humans in the Philippines in 2014. This outbreak        research and product development of MCMs to               promoting workforce development and training
+countries, including Cambodia, Thailand, Indonesia,        likely involved spillover of NiV into horses        enable effective and timely emergency response                in endemic and at-risk regions. Many of these
+Madagascar, Ghana and the Philippines. In the              and subsequent disease in humans following        to infectious disease epidemics. NiV infection                  issues are beyond the scope of the R&D roadmap,
+1998 to 1999 Malaysia outbreak, NiV spillover              consumption of contaminated horsemeat; disease        is identified in the Blueprint's list of "priority          but need to be addressed as part of a broader
+occurred from bats to pigs, which led to pig-to-           also occurred in health-care workers who cared        diseases" (defined as diseases that are likely to           public-health control strategy. Further research of
+pig, pig-to-human and suspected, although limited,         for NiV-infected patients. Detailed genomic        cause severe outbreaks in the near future and for              NiV in animal species, including development of
+human-to-human NiV transmission. Additionally,             information for this virus is limited.        which few or no MCMs exist). The Blueprint calls                    appropriate MCMs targeted to animal populations,
+several other domestic animal species on the farms                                                                          for the development of R&D roadmaps for the      is also needed, since disease in animals may
+involved in the outbreak (including horses, cats           NiV infection in humans results in neurologic                priority diseases to align and stimulate R&D of      amplify occurrence of NiV (or related henipavirus
+and dogs), were found to be infected with NiV. In          and respiratory syndromes, with fever, headache,        new or improved countermeasures, such as rapid            species) in humans, and virus transmission can
+the outbreaks in Bangladesh, intermediary hosts            altered mental state or unconsciousness, dizziness,       diagnostic assays, novel therapeutics and effective     occur at the human-animal interface.
+between bat and human have not played a major              cough and vomiting as the primary presenting        vaccines. The scope of R&D addressed in this
+role, with the primary modes of NiV transmission           clinical features. NiV infection may result in late-      roadmap ranges from basic research to late-stage
+being human consumption of bat-contaminated                onset encephalitis and relapsing encephalitis, and        development of MCMs to prevent and control NiV
+raw date-palm sap, and subsequent person-to-               survivors may experience long-term neurological        outbreaks and endemic disease in humans. The
+person transmission.                                       sequelae. Genomic sequencing has demonstrated        roadmap is organized into four main sections:
+                                                           that there are multiple strains of NiV; for example,
+The zoonotic potential of NiV is significant,              the strain responsible for the outbreak in Malaysia
+particularly because of its ability to amplify in          is different from those identified in Bangladesh
+livestock, which can serve as a source of exposure         and India. Some differences have been noted in the         VISION
+to humans. NiV is part of the Henipavirus genus;           clinical features of infection, with different strains     Ready availability and accessibility of robust MCMs to detect, prevent and control human outbreaks
+this genus also includes another zoonotic pathogen         in humans and experimentally infected non-human            of NiV infection (and other closely related henipaviruses) for use in areas of known or potential NiV
+- Hendra virus (HeV) - that predominantly causes           primates.                                                  spillover. These MCMs include: (1) rapid and accurate, point-of-care (POC) diagnostics; (2) safe and
+infection in horses and can also lead to human                                                                        effective treatment and post-exposure prophylaxis (PEP); (3) safe and effective vaccines to prevent
+disease (usually following contact with                                                                               disease, disability and death.
+
+
+
+
+
+
+
+
+2                                                                                                                                                                            3
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                                                                         NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Cross-cutting     issues
+Primary challenges, key needs and knowledge gaps
+
+Primary challenges
+• Securing funding for Nipah research represents a     • Demonstrating whether or not a product provides     • To date, NiV spillovers to human communities          by enhancing case detection through improved
+substantial challenge, since economic incentives      meaningful benefit without undue risk, which is a       have been identified most commonly in rural            surveillance and by combining clinical trial data
+to invest in Nipah research are not readily           key aspect of any regulatory approval pathway,          communities in Bangladesh and India; the health-       over time, including across outbreaks. While
+apparent because the disease primarily occurs         can be prohibitively expensive for product              care facilities that serve these communities have      it is critical to focus on approaches that make
+in under-resourced areas of South Asia and            developers in the absence of a predictable              limited laboratory and clinical infrastructure for     ethical and scientifically valid clinical trials
+reported disease incidence has, so far, been          demand. In addition, licensure of vaccines              diagnosis and treatment.                               feasible whenever possible, alternative regulatory
+low with small and sporadic outbreaks. The            and therapeutics using alternative regulatory          • The natural reservoir for NiV is fruit bats of        pathways may need to be considered for
+development of a sustainable value proposition        pathways can be very costly, given the regulatory       the Pteropus genus; these bats have a wide             licensure of NiV vaccines or therapeutics, if classic
+for industry and international philanthropic          requirements for such approval.                         geographic range that stretches across much of         clinical trial designs (for example, randomized
+public-private partnerships is needed to secure        • High-level biocontainment requirements               the Western Pacific region, South-East and South       controlled trials [RCTs]) are not feasible.
+funding to complete development, licensure,           may pose an impediment to research on NiV               Asia and Madagascar. Evidence also suggests that
+manufacture and deployment of NiV MCMs. The           pathogenesis and development of MCMs, as                other fruit bats of the Pteropodidae family may
+value proposition should be informed by a robust      certain materials must be generated under the           harbour NiV; such bats can be found across Africa
+assessment of the risk of future outbreaks and        highest biosafety level (biosafety level 4 [BSL-4])     and parts of the Middle East.
+the economic, societal and health impacts that        conditions, which can increase the cost of MCM
+such outbreaks could generate.                        development.                                           • This broad host range increases the likelihood of
+                                                                                                              additional spillover events from bats to humans,
+                                                                                                              or livestock, in new areas where the disease has
+                                                                                                              not yet been detected, which may make accurate
+                                                                                                              and timely diagnosis, disease recognition and
+                                                                                                              treatment more difficult owing to the lack of
+                                                                                                              clinical experience with the condition, lack of
+                                                                                                              available laboratory testing and the occurrence
+                                                                                                              of other diseases that have similar clinical
+                                                                                                              presentations.
+                                                                                                             • While ferrets, Syrian hamsters and interferon-
+                                                                                                              alpha/beta receptor knockout (IFNAR-KO)
+                                                                                                              mice are well-established animal models for NiV
+                                                                                                              research, the African green monkey (AGM) is
+                                                                                                              regarded as the most relevant animal model for
+                                                                                                              evaluation of candidate therapeutics and vaccines
+                                                                                                              intended for use in humans. Additionally, studies
+                                                                                                              involving the AGM model may be required for
+                                                                                                              licensure of MCMs via alternative regulatory
+                                                                                                              pathways. Costs, space requirements (particularly
+                                                                                                              in BSL-4 containment facilities) and ethical
+                                                                                                              concerns constrain the use of AGMs.
+                                                                                                             • Phase 1 and 2 clinical trials can be conducted
+                                                                                                              in non-endemic regions or in endemic regions;
+                                                                                                              however, phase 3 clinical efficacy trials will need
+                                                                                                              to be conducted in endemic areas. Because
+                                                                                                              NiV infection occurs in relatively small, focal
+                                                                                                              outbreaks, the low disease incidence poses a
+                                                                                                              major challenge for conducting such trials, in
+                                                                                                              terms of achieving a sufficient sample size to
+                                                                                                              estimate MCM efficacy with adequate statistical
+                                                                                                              power. It may be possible to address this issue
+
+
+
+
+4                                                                                                                                                                    5
+
+---
+
+    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+
+    Key needs
+
+
+    • Funding sources (such as public-private partnerships, government agencies and philanthropic     • Outreach and education to clinicians and community health workers to improve NiV
+    organizations), and industry incentives and competitions for non-dilutive funding to             awareness, training and outbreak preparedness (for example, disease diagnosis, clinical
+    encourage innovation and secure private-sector commitments to develop and manufacture            management and infection prevention and control), and to ensure availability of diagnostic
+    NiV MCMs.                                                                                        tools in endemic areas to increase the likelihood of accurate and timely diagnosis and
+                                                                                                     treatment of NiV infection.
+
+    • Enhanced clinical, laboratory and public-health infrastructure in endemic and at-risk areas
+    to promote early diagnosis, treatment, surveillance and implementation of vaccination             • Enhanced capacity for data sharing and analysis (particularly of NiV sequence data) to
+    programmes for NiV prevention and control.                                                       support collaborative clinical research, including methods for collecting, standardizing and
+                                                                                                     sharing clinical data.
+
+    • Advocacy to policy-makers in affected countries, and to global stakeholders to ensure they
+    understand the potential health, societal and economic benefits of devoting resources to          • Collaboration between public-health authorities in endemic and at-risk areas and
+    improving NiV surveillance, detection, prevention and control measures.                          international development partners, to support NiV surveillance and strengthen disease
+                                                                                                     prevention and preparedness activities. Human health, animal health and wildlife officials
+                                                                                                     should be engaged as part of a long-term collaborative effort.
+    • Obtaining additional prospective serosurveillance data of henipavirus exposure from
+    susceptible animal species and proximate human populations in areas of predicted risk,
+    should be explored as a strategy to assess the potential of human spillover and to build          • Clarification regarding the potential for and possible strategies to promote technology
+    preparedness for detection of human cases and for limiting exposure.                             transfer for NiV MCM development and manufacturing to endemic and at-risk areas.
+
+
+• Standardized and well-characterized assays (to be further defined based on end use),
+    reagents, antibodies, nucleic acids and NiV challenge strains for R&D of MCMs for NiV
+    infection. Assays that can be used at lower biosafety levels are an important priority. The
+    WHO international standards should be used (when available) as calibrators and reported in
+    units/ml to harmonize assay results.
+
+
+    • Clear criteria for downselection and prioritization of candidate MCMs to move forward into
+    clinical trials versus those that need additional preclinical research. Such criteria should align
+    with desired characteristics outlined in the target product profiles (TPPs), and should address
+    aspects of sustainable MCM production, stockpiling and access.
+
+
+• Early and recurrent communications between product developers and the appropriate
+    national regulatory authorities (NRAs), or other regulatory agencies, to obtain clarity
+    and guidance on clinical trial requirements, regulatory pathways and requirements, and
+    other considerations for NiV MCMs during the pre-licensure and post-licensure periods.
+    Regulatory pathways and NRA capabilities will vary between countries; therefore, early
+    engagement, potentially with support from the WHO, is essential to identify country-
+    specific considerations.
+
+
+
+
+
+
+
+
+
+
+    6                                                                                                 7
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                               NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Knowledge gaps                                            Strategic goals and aligned milestones
+• Continued R&D, improved manufacturing              • Additional information is needed on the           Strategic
+processes, deployment and assessment of               virology, immunology and pathogenesis of NiV         Goal        To identify sources of private- and public-sector funding and develop appropriate
+MCMs, as well as other preventive measures,           in humans and animals to inform development                      incentives and competitions to promote R&D of NiV MCMs.
+depend on accurate and current information            of NiV MCMs. This includes evaluating the              1         Milestones
+on the ecology and epidemiology of NiV                pathophysiologic differences between different
+infection using a One Health approach.                NiV strains, determining the mechanisms that                     1. By 2019, develop a public value proposition to effectively advocate for the
+Improved surveillance (or dedicated                   allow NiV to escape immunologic clearance                       development and sustainability of NiV MCMs that: (1) articulates the potential
+prospective research with a surveillance focus)       and cause delayed onset or recurrent                            global threat of NiV infection; (2) outlines the social and economic benefits of
+is needed to determine the true incidence of          encephalitis, identifying factors influencing                   generating accessible and affordable NiV MCMs; (3) details the positive impact on
+disease in endemic areas and to monitor the           the development of permanent neurologic                         the health systems in affected areas.
+occurrence of spillover incidents from bats to        sequelae and further characterizing cell-
+humans, or livestock, in new geographic areas.        mediated and humoral immune responses to                         2. By 2019, create a funding plan for moving NiV diagnostics, therapeutics and
+Additionally, continued research is needed to         NiV infection. In addition, identifying aspects                 vaccines towards clinical evaluation, licensure/approval, acceptance and
+better define and assess the occurrence of NiV        of the immune response that are absent or                       sustainable access.
+and other henipaviruses, including drivers of         counter-effective during human NiV infection
+infection, in the natural reservoir of Pteropus       may lead to the development of novel targeted
+bats and, potentially, other bat species.             intervention strategies.                           Strategic     To improve understanding of NiV epidemiology and ecology to estimate the
+• Additional research is needed to optimize          • Ongoing phylogenetic and evolutionary               Goal        relative risk and potential for global spread of NiV outbreaks.
+relevant animal challenge models (such as,            analyses of NiV strains are needed to monitor
+                                                      viral heterogeneity and antigenic changes              2         Milestones
+ferret, Syrian hamster, IFNAR-KO mouse and            that may affect the epidemiologic and clinical
+AGM models) for promoting development and             features of disease over time and thereby                        1. By 2021, develop a plan for enhancing NiV surveillance, including securing
+evaluation of MCMs, particularly if investigators     influence MCM development.                                      funding, identifying surveillance catchment areas, engaging key partners in
+are required to use an alternative pathway                                                                            those areas, generating a standardized protocol and conducting training for
+(such as the United States Food and Drug             • Further research is needed to better                           implementation.
+Administration's [FDA's] Animal Rule) to              understand viruses in the henipavirus
+obtain regulatory approval. For example,              genus, including their reservoir hosts and                       2. By 2022, initiate enhanced NiV surveillance to better characterize NiV
+efforts are needed to: (1) determine the              pathogenicity.                                                  epidemiology (including the potential for spillover events), enhance case
+appropriate animal model(s) for screening            • Additional studies, applying whole-genome                      detection and better define the disease burden in different geographic areas.
+assay development; (2) standardize the                sequencing of NiV, are needed to generate a
+challenge strain and dose, and determine the          comprehensive phylogenetic mapping of the
+most appropriate lethal NiV dose for MCM              global genetic variability among henipaviruses.    Strategic
+development; (3) determine when after-                                                                     Goal        To support basic science research to improve understanding of NiV virology,
+challenge MCMs should be administered in             • Sociological and anthropological research is                    pathogenesis and the immune response to infection in humans and animal models.
+animal models to best mimic realistic timing          needed to understand how to best engage                3         Milestones
+of MCM use in humans; (4) bridge NiV MCM              populations at high risk of exposure (such as
+data from animal models to humans, such as            persons who consume date palm sap, health-                       1. By 2020, generate standardized and well-characterized assays, reagents,
+identifying thresholds of vaccine protection to       care workers, and workers at the human-animal                   antibodies, nucleic acids and NiV challenge strains to facilitate R&D of NiV MCMs.
+determine appropriate human MCM doses; (5)            interface) and vulnerable populations (such as
+identify the best models for studying chronic         children, immunocompromised individuals and                      2. By 2021, optimize animal models that recapitulate disease in humans for use in
+(relapsing) infection.                                pregnant women) for participation in clinical                   preclinical studies of NiV MCMs and that may be necessary for licensure of MCM
+                                                      trials and to ensure acceptance of new NiV                      products (particularly vaccines) via non-traditional regulatory pathways.
+                                                      MCMs, especially if therapeutics and vaccines
+                                                      do not consistently prevent disease.
+
+
+
+
+
+
+
+
+
+
+8                                                                                                                      9
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+
+Priority areas/activities
+Research                                                                                   Key capacities
+• Expand research to further understand the ecology and epidemiology of NiV and            • Create international partnerships to fund, support and promote enhanced laboratory
+other pathogenic henipaviruses in human and animal populations (wild and domestic)            capacity, public-health surveillance capacity and infrastructure in endemic and at-
+over time, and across geographic areas, using a One Health approach.                          risk areas, to promote early diagnosis, treatment and implementation of vaccination
+• Continue to perform phylogenetic and evolutionary analyses of NiV strains to monitor        programmes for NiV prevention and control.
+antigenic changes and characterize genetic diversity over time.                            • Improve active and passive surveillance capacity to: (1) better define the incidence
+                                                                                              of disease in NiV-endemic and at-risk areas; (2) promote targeted research in non-
+• Continue to conduct basic science research on the virology, pathogenesis and                endemic areas to identify evidence of spillover of NiV, or other related henipaviruses,
+immunology of NiV infections to inform development of MCMs.                                   from the natural reservoir to human or animal populations.
+• Determine key differences in pathogenesis for different NiV strains that may have        • Develop a shared data platform to facilitate sharing of NiV sequence and strain data.
+implications for the development of safe and effective NiV vaccines or therapies.          •  Collaborate with local government authorities (including human health, animal
+• Refine and optimize relevant animal models to support the development and                   health and wildlife representatives) to support NiV surveillance and disease
+evaluation of NiV MCMs, particularly as needed for licensure, if alternative regulatory       prevention activities in endemic and at-risk areas.
+pathways are considered.
+• Generate research tools to promote R&D of MCMs for NiV infection (such as,               • Promote community-based outreach programmes that transfer skills and knowledge
+standardized and validated assays, reagents, antibodies, nucleic acids and NiV                for the prevention and early recognition of NiV disease in areas of known or potential
+challenge strains), particularly those that can be used at lower biosafety levels.            NiV spillover risk.
+• Conduct research studies to enable a more comprehensive mapping of genetic               • Strengthen infrastructure and capacity for post-marketing pharmacovigilance of
+variability of henipaviruses to improve understanding of their global distribution.           licensed NiV therapeutics and vaccines.
+• Conduct social science research to determine strategies for engaging communities for
+participation in clinical trials and to support acceptance of MCMs for NiV infection as
+they become available.                                                                     Policy and commercialization
+                                                                                           • Establish a sustainable value proposition and secure funding to complete
+                                                                                              development, licensure, manufacture, deployment and use of affordable MCMs for
+Product development                                                                           NiV infection.
+• Define criteria for downselection and prioritization of candidate MCMs that should       • Support plans for adequate manufacturing and subsequent distribution of NiV
+be moved forward.                                                                             diagnostics, therapeutics and vaccines to endemic and at-risk areas.
+• Promote early communication between developers and appropriate national                  • Ensure access to regulatory guidance, oversight, review and authorization from
+regulatory authorities (NRAs) for clarity and guidance on the regulatory aspects of           appropriate NRAs for NiV MCMs. This should be done when clinical trials and
+MCM development for NiV infection.                                                            approaches for regulatory approval are being determined.
+                                                                                           • Support the development of affordable pricing mechanisms to promote accessibility
+                                                                                              of NiV MCMs in low- and middle-income at-risk countries. (Note: according to
+                                                                                              WHO, an "affordable and fair" price is one that can reasonably be paid by patients
+                                                                                              and health budgets and that simultaneously sustains research and development,
+                                                                                              production and distribution within a country).
+                                                                                           • Clarify the potential for, and possible strategies to, promote technology transfer for
+                                                                                              development and manufacturing of MCMs for NiV infection.
+
+
+
+
+
+
+
+
+
+
+10                                                                                            11
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                       NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Diagnostics                                                Key needs
+Primary challenges, key needs and knowledge gaps
+                                                                                                               • Clarification regarding the use cases for different diagnostic assays, since the
+Primary challenges                                                                                            corresponding performance, validation and regulatory approval requirements may differ
+                                                                                                              depending on how the tests will be used. For example, it may be desirable to have a POC
+• Initial signs and symptoms of NiV infection         • Owing to the biosafety precautions necessary          screening test that is highly sensitive and a confirmatory test that is highly specific.
+are nonspecific, and the diagnosis is often not        when working with NiV, diagnostic testing of
+suspected at the time of presentation. This can        clinical specimens for NiV in under-resourced
+hinder accurate diagnosis and creates challenges       areas poses safety and logistical challenges with       • A TPP for NiV diagnostics that identifies the key use cases and optimal and desirable
+in outbreak detection and implementation of            regard to collection, handling, transport, and         characteristics to guide the development of promising diagnostic assays.
+effective and timely infection control measures        laboratory analysis.
+and outbreak response activities. Additionally,       • The time required to perform diagnostic testing        • A virtual repository (with specimens being held and maintained in the countries of origin)
+latent disease can occur months to years               using conventional laboratory methods, is              of clinical samples, to assess and validate diagnostic tests. As part of this process, a clear
+after initial infection, which can complicate          problematic given the rapid disease progression        approach is needed to: (1) determine what clinical samples should be collected, based on
+epidemiologic investigation.                           of NiV infection.                                      what would be most useful (for example, plasma, whole blood, urine, cerebrospinal fluid);
+• Laboratory infrastructure and diagnostic                                                                    (2) outline the purposes of sample collection; (3) determine what organizations will be
+                                                      • Currently, no approved tests for diagnosis of NiV     responsible for the activities related to creating and maintaining the repositories; (4) establish
+capabilities, in endemic and at-risk areas, are        infection are commercially available.                  standardized protocols for sample collection and maintenance; (5) establish an appropriate
+often limited and investigation into the cause        • Pteropus species (and perhaps other bat               governance structure; (6) identify who would have access to the samples; (7) prioritize use
+of infection is not always pursued; these issues       species) appear to carry other henipaviruses in        of samples and sample distribution; (8) ensure that material transfer agreements (MTAs) are
+can lead to delays in diagnosis, and outbreak          addition to NiV and HeV, some of which may             in place. (Samples obtained from laboratory animals also can be used to assess diagnostic
+investigation and response.                            prove to be pathogenic in humans and livestock.        assays during the time frame when the virtual repository is being created).
+• Clinical sample quality, quantity, type, timing of   Antibodies to different henipaviruses are highly
+collection and the time necessary to transfer the      cross-reactive, making it difficult using serologic     • Rapid POC or near-patient diagnostic tests for NiV, which involve minimal requirements
+sample from the patient to the laboratory can          assays to differentiate which henipaviruses are        for laboratory infrastructure, can detect disease early in the clinical course, are robust for
+affect the accuracy of laboratory results.             in circulation. Capacity to identify additional        use under a variety of conditions (such as, varying humidity, temperature) and have a high
+• Various types of test methods and platforms are      pathogenic henipaviruses is an important               sensitivity and specificity for different NiV strains, as needed, depending on the use cases
+required to test patients at different phases of       challenge for ensuring diagnostic preparedness to      for each test. Rapid diagnostic capability is needed for early case detection to promote
+NiV infection, and this can complicate diagnostic      respond to future outbreaks.                           outbreak detection, ensure early implementation of infection control measures and,
+needs and capabilities.                                                                                       ultimately, to improve patient outcomes, once therapeutic options are available.
+
+                                                                                                               • International reference standards to calibrate diagnostic assays.
+
+                                                                                                               • Validation of promising diagnostics in endemic and at-risk geographic regions.
+
+                                                                                                               • Diagnostic criteria and standardized testing for including patients in clinical trials
+                                                                                                              of therapeutics.
+
+                                                                                                               • Improved diagnostic preparedness in at-risk areas to detect NiV, HeV and other emergent
+                                                                                                              henipaviruses as they arise.
+
+                                                                                                               • Optimal deployment strategies for diagnostics in different geographic areas based on the risk
+                                                                                                              and epidemiology of NiV infection.
+
+                                                                                                               • In-country laboratories able to conduct proficiency testing to monitor reproducibility and
+                                                                                                              performance of NiV diagnostic assays in the field.
+
+                                                                                                               • A sufficient number of laboratories committed to using the diagnostics on a regular basis
+                                                                                                              to support the business case for Nipah diagnostics, particularly given the costs of
+                                                                                                              regulatory approval.
+
+
+12                                                                                                             13
+
+---
+
+    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+
+          Knowledge gaps        Priority areas/activities
+          • Further research is needed on the kinetics of NiV detection in cerebrospinal fluid, blood, saliva, other     Research
+          body fluids (for example, urine and respiratory secretions) and tissue samples, to enhance the ability         • Create a virtual repository of clinical reference samples for use in researching
+          to diagnose infection at different stages of disease.                                                         new diagnostic agents.
+          • More information is needed regarding the performance characteristics (including sensitivity,                 • Explore new diagnostic approaches that may allow earlier detection of infection.
+          specificity, limits of detection, cross-reactivity and quantitative versus qualitative data) for NiV
+          assays, particularly for newer tests (such as pseudotype neutralization assays and antigen-capture             • Further evaluate the kinetics of NiV detection in cerebrospinal fluid, blood, saliva,
+          enzyme-linked immunosorbent assays [ELISAs]) and tests that are designed to detect more than one              other body fluids and tissue samples to enhance the ability to diagnose NiV
+          henipavirus. Further testing of diagnostics should be conducted in animal models before field trials in       infection at different stages of disease.
+          humans are pursued.                                                                                            • Determine performance characteristics for promising new assays for diagnosis
+                                                                                                                        of NiV infection and develop appropriate standards for their use in different
+    Strategic goals and aligned milestones                                                                              contexts.
+                                                                                                                         • Conduct field evaluation studies to assess and validate new diagnostic tests for
+Strategic     To support development of diagnostic assays through creation of a virtual                                 NiV infection.
+  Goal        reference repository of clinical samples from NiV-infected patients.                                       Product development
+    1         Milestones                                                                                                 • Generate a TPP for NiV diagnostics that defines the use cases and addresses
+              1. By 2019, develop and standardize plans and protocols (including the governance                         the optimal and preferred performance characteristics for different use cases.
+             structure) for creating a virtual reference repository of well-characterized clinical                       • Develop and evaluate POC or near-patient rapid diagnostic tests for NiV
+             samples to be maintained in the two primary NiV-affected countries: Bangladesh                             infection that are affordable, highly sensitive and specific (as needed, depending
+             and India.                                                                                                 on their intended use), can capture antigenically diverse strains of the virus
+                                                                                                                        and can be performed accurately and safely in remote areas under a variety of
+              2. By 2021, identify funding and initiate creation of the virtual reference repositoryin                  circumstances.
+             Bangladesh and India, with samples to be collected during future outbreaks and
+             possibly as part of future clinical trials.
+                                                                                                                         Key capacities
+Strategic     To develop and assess affordable, highly sensitive and specific (as needed                                 • Generate international reference standards to calibrate diagnostic assays.
+  Goal        depending on intended use) POC or near-patient NiV diagnostic tests that are                               • Develop national laboratory strategies for NiV diagnosis and detection in the
+              sufficiently robust for the conditions in which they will be used and that have                           primary NiV-affected countries.
+    2         minimal requirements for biosafety precautions and staff training.                                         • Support in-country laboratories in monitoring performance of NiV diagnostics in
+              Milestones                                                                                                the field.
+              1. By 2019, generate a TPP for NiV diagnostics that identifies the primary use cases                       • Enhance diagnostic preparedness in areas of known or potential henipavirus
+             and optimal and desirable characteristics to guide the development of promising                            spillover risk to promote early detection of NiV, HeV and other emergent
+             NiV diagnostic assays.                                                                                     henipaviruses, as needed.
+              2. By 2019, engage appropriate regulatory agencies and NRAs to inform
+             commercialization pathways for NiV diagnostic assays.                                                       Policy and commercialization
+              3. By 2021, complete preclinical evaluation for at least two of the most promising NiV                     • Develop guidance on optimal strategies for the deployment and use of new NiV
+             POC or near-patient diagnostic assays that align with the TPP.                                             diagnostic tests across different geographic areas, as such tests become available.
+              4. By 2022, complete field studies for at least two of the most promising NiV POC or
+             near-patient diagnostic assays that align with the TPP.
+
+Strategic     To enhance laboratory diagnostic preparedness in areas of known or potential
+  Goal        spillover risk to promote early detection of NiV.
+    3         Milestones
+              1. By 2021, develop national laboratory strategies for NiV detection, in the primary
+             affected countries, that include plans for enhancing laboratory preparedness to
+             diagnose NiV infection during future outbreaks.
+
+    14 15
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                                                                               NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Therapeutics                                                                                                        Knowledge gaps
+Primary challenges, key needs and knowledge gaps                                                                    • The human monoclonal antibody (mAb)                  • Further research is needed to broaden the
+Primary challenges                                                                                                   m102.4 has demonstrated protection against            number of novel antiviral candidates for
+                                                                                                                     lethal NiV challenge in animal models and has         treatment of NiV infection and to strengthen
+                                                                                                                     been provided as part of compassionate use            the therapeutic pipeline.
+• Patients typically present late in the clinical course     • Studies in animals often evaluate the                 programmes for a small number of individuals
+of disease, which decreases the likelihood of               usefulness of therapeutics when delivered                                                                      • Additional data are needed to establish the
+successful treatment.                                       prior to disease onset or early during the               exposed to either HeV or NiV. Recently, a             pharmacokinetic/pharmacodynamic (PK/
+                                                            disease course. Patients with NiV infection              phase 1 clinical trial for m102.4 was completed       PD) relationship of promising therapeutic
+• Sociocultural issues may hinder trust in the formal       are often detected later in the clinical course,         in Australia with 40 human participants.              candidates.
+health-care and public-health systems, which could          which creates challenges for predicting how              Additional animal studies, using different NiV
+reduce acceptance of NiV therapeutics.                                                                               strains and clinical trials in endemic areas, are     • Additional data are needed to determine
+                                                            well a therapeutic agent will work in the field.         needed to further assess the safety, tolerability     the role of PEP and to inform development
+• The absence of improved diagnostic assays for              • NiV can infect the central nervous system             and efficacy of m102.4 (and possibly other            of guidance on the types of exposures that
+timely diagnosis and surveillance of infection              (CNS), which creates challenges for generating                                                                 warrant such intervention and the most
+creates an important challenge in providing                                                                          mAbs) for PEP and potentially early treatment         appropriate agents to administer. This
+early treatment of patients and post-exposure               therapeutic agents that cross the blood-brain            of clinical disease.
+                                                            barrier to inhibit viral replication and prevent                                                               determination should include feasibility for PEP
+prophylaxis (PEP) for exposed persons.                      severe neurologic disease.                              • Additional research is needed regarding the          distribution in both endemic and at-risk areas,
+• In NiV-endemic areas, hundreds of patients                                                                         likelihood of escape mutants with mAb use.            including Bangladesh, which has annually
+annually are admitted to hospitals with a diagnosis          • Health-care systems in endemic countries often do     While evidence of escape mutants has not              hundreds of potentially exposed persons that
+of encephalitis but do not have NiV infection.              not have adequate infection-control programmes           been found to date with mAb 102.4, it may be          could be candidates for PEP.
+Treating all patients with encephalitis, and their          in place to prevent person-to-person transmission.       necessary to consider mAb cocktails.
+                                                            They often also lack the ability to rapidly identify                                                           • Additional information is needed regarding
+contacts, for NiV infection, would be costly and            contacts most likely to benefit from PEP therapy.       • Preclinical and clinical data are needed on          whether or not strain differences will affect the
+labour intensive, with relatively little benefit; hence,                                                             the safety, tolerability and efficacy of the          response to therapeutic candidates and results
+accurate and rapid diagnosis is critical.    • A limiting constraint to assessing the effectiveness                  most promising novel treatments (such                 from clinical trials.
+                                                            of promising therapies is the number of patients         as fusion inhibitory peptides, antifusion
+                                                            with NiV infection that can be enrolled in clinical      peptides, favipiravir [an RNA-dependent RNA           • Patients may benefit from optimal supportive
+                                                            trials, given the small number of cases that are         polymerase inhibitor] and GS-5734 [a broad-           care independent of treatment with specific
+                                                            detected annually.                                       spectrum agent being used to treat Ebola              NiV therapeutic agents. Key research areas
+                                                                                                                     virus disease survivors]) used alone, or in           include obtaining data on the safety and
+                                                                                                                     combination with other therapies. Additionally,       efficacy of components of supportive care
+Key needs                                                                                                            the therapeutic windows of each therapy               for NiV, such as optimal fluid and respiration
+                                                                                                                     should be determined for different NiV strains,       management strategies, diagnosis and
+                                                                                                                     as highlighted by a recent study in AGMs that         treatment of organ dysfunction and the use
+• Protocols for conducting safety and efficacy clinical trials of promising therapeutic                              showed that the therapeutic window for m102.4         of empiric antibiotics and/or antimalarials to
+candidates, to be implemented in NiV-affected areas, particularly during future outbreaks.                           against a strain from Bangladesh/India was            inform best-practice guidelines and evidence-
+                                                                                                                     shorter than for a strain from Malaysia.              based policy decisions.
+
+• Safe, easily administered, well-tolerated and effective therapeutic agents that treat acute NiV
+infection, to improve survival and decrease associated morbidity and long-term disability.
+
+
+• Safe and effective PEP, to prevent infection following exposure to NiV, and guidance on
+PEP use. PEP could be used to prevent illness in health-care workers, family caregivers and
+individuals exposed to infected livestock.
+• Improved patient care in endemic areas (such as the ability to provide ventilator support for                      P
+seriously ill patients).
+
+
+• A transparent and collaborative process is needed to determine which agents are most
+appropriate for study in future clinical trials, given the limited number of cases that could
+potentially be enrolled in trials each year.
+
+
+
+16                                                                                                                                                                         17
+
+---
+
+    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+
+    Strategic goals and aligned milestones        Priority areas/activities
+Strategic                                                                                              Research
+  Goal       To enhance preparedness to conduct clinical trials of therapeutic agents during           • Continue to research the safety, tolerability and efficacy of available
+             future NiV outbreaks.                                                                    investigational therapies (such as m102.4 and favipiravir) for treating and
+                                                                                                      preventing NiV infection, including conducting studies in animal models and
+    1        Milestones                                                                               clinical trials as appropriate and feasible.
+             1. By 2019, complete a protocol for conducting safety and efficacy clinical trials of     • Continue to expand the pipeline of new therapeutic options for treating and
+             promising therapeutic candidates, to be implemented in NiV-affected areas, and           preventing NiV infection that should undergo further evaluation.
+             develop plans for operationalizing the protocol.                                          • Research optimal treatment and supportive care strategies for NiV infection and
+             2. By 2019, complete a protocol for conducting PEP trials of promising therapeutic       determine best-practice guidelines.
+             candidates, to be implemented in NiV-affected areas, and develop plans for
+             operationalizing the protocol.
+             3. By 2019, identify an approach for downselecting promising therapeutic                  Product development
+             candidates for further study in clinical trials, given limited annual case numbers        • Develop, evaluate and license safe and effective therapeutic agents for the
+             for enrolment.                                                                           treatment of NiV infection, that are active against different NiV strains and
+             4. By 2020, complete a broader, regional protocol for conducting clinical trials of      other henipaviruses and that can cross the blood-brain barrier to treat or prevent
+             promising therapeutic candidates, to be implemented in NiV-affected areas, and           CNS disease.
+             develop plans for operationalizing the protocol.                                          • Identify therapeutic approaches for PEP that are broadly active against different
+             5. By 2020, generate a reliable source of m102.4 (or other promising agent[s] or         NiV strains and other pathogenic henipaviruses that may emerge.
+             agent combinations) to be assessed in clinical trials.
+Strategic                                                                                              Key capacities
+  Goal       To develop and evaluate therapeutic agents for the treatment of NiV infection             • Ensure that clinical trial protocols are in place and are ready to be operationalized,
+             and for PEP to prevent NiV infection.                                                    including obtaining appropriate approvals and conducting necessary training.
+                                                                                                       • Promote enhancements to the health-care delivery systems in affected areas to
+    2        Milestones                                                                               improve clinical management and supportive care of patients with NiV infection.
+             1. By 2019, create and implement a prioritization process for evaluating promising        • Ensure that mechanisms are in place to finance, generate and maintain stockpiles
+             NiV therapeutic candidates.                                                              of NiV therapeutics for further clinical testing and outbreak control.
+             2. By 2021, complete preclinical evaluation of the preliminary safety, tolerability
+             and efficacy of at least two promising therapeutic candidates, or combination
+             therapies, for the treatment of NiV infection.                                            Policy and commercialization
+             3. By 2023, complete clinical evaluation of the preliminary safety, tolerability          • Generate a reliable source of m102.4 to be used in clinical trials.
+             and (possible) efficacy of at least two promising therapeutic candidates, or              • Develop guidance, for the use of therapeutics for disease treatment and PEP,
+             combination therapies, for the treatment of NiV infection.                               as new therapies become available.
+
+
+
+
+
+
+
+
+
+
+    18                                                                                                 19
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                                                                 NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Vaccines                                                                                           Knowledge gaps
+Primary challenges, key needs and knowledge gaps                                                   • Additional research is needed regarding the        • Further epidemiologic research is needed to
+Primary challenges                                                                                  innate, cell-mediated and humoral immune             better define at-risk populations and identify
+                                                                                                    responses that constitute protective immunity        additional areas of potential NiV spillover.
+• Currently, there is no candidate vaccine that is in                                               against NiV. Since neutralizing antibodies          • Additional sociological research is needed
+late-stage development, and few companies are                                                       are likely the primary mediator of protection        to explore perceptions and concerns of
+willing to invest in the generation of new                                                          against NiV infection, research in this area         at-risk populations regarding NiV vaccine
+NiV vaccines.                                                                                       should focus primarily on the humoral immune         implementation.
+                                                                                                    response for driving vaccine development.
+• Sociocultural issues may hinder trust in the                                                     • Further research is needed to clarify vaccine      • If, at some point, evidence supports the need
+formal human and veterinary clinical and                                                            attributes (such as time from administration to      for a broader, population-based vaccination
+public- health systems, which could diminish the                                                    immune protection, duration of immunity and          strategy (beyond reactive use for outbreak
+acceptance of NiV vaccine use.                                                                      the need for booster doses) and to determine         control in affected communities), additional
+• The absence of improved diagnostic assays                                                         safety profiles of candidate vaccines.               research may be warranted on the development
+for the timely diagnosis of infection creates                                                                                                            of multivalent vaccines that protect against
+an important challenge in implementing a rapid                                                     • Further research is needed to determine the         more than one infection (such as a combined
+reactive vaccination strategy for NiV outbreak                                                      cross-protection efficacy for NiV of the HeV-        vaccine against NiV and HeV, or NiV and
+control.                                                                                            sG subunit vaccine (that is, the recombinant         measles virus) for use in NiV endemic areas.
+                                                                                                    subunit vaccine Equivac® HeV from Zoetis).          • Mathematical modelling and forecasting may
+                                                                                                   • Additional research is needed in animal models      be useful in: (1) assessing whether or not
+                                                                                                    to determine if vaccine candidates are cross-        disease incidence is high enough in endemic
+                                                                                                    protective between different NiV strains,            areas for conducting clinical trials of candidate
+Key needs                                                                                           including recently identified strains, as only a     vaccines; (2) simulating various epidemiologic
+                                                                                                    few studies demonstrating cross-protection           scenarios for development of vaccination
+                                                                                                    have been performed to date.                         strategies; (3) estimating the potential impact
+• Nipah vaccines that: (1) are readily accessible with adequate supply chains; (2) can protect     • The identification of specific correlates, or       of NiV vaccines (once vaccines become
+against different NiV strains; (3) provide rapid onset of an immune response to adequately          surrogates of protection, and standardized           available); (4) estimating disease risk based on
+prevent and control outbreaks.                                                                      assays for measuring immune correlates, are          risk behaviours and practices in communities
+                                                                                                    needed to facilitate research on promising NiV       or specific population groups; (5) estimating
+                                                                                                    vaccine candidates and to expedite possible          the vaccine quantity that may be necessary to
+• Guidance on the use of NiV vaccines to include vaccination strategies for special populations     licensing through nontraditional regulatory          maintain vaccine stockpiles.
+(such as children, immunocompromised individuals and pregnant women), different                     pathways, such as the US FDA's Animal Rule
+epidemiologic scenarios and different vaccine attributes.                                           and accelerated approval mechanisms. These
+                                                                                                    specific correlates may vary by vaccine
+                                                                                                    platform and antigen and hence multiple assays
+• Public communication outreach strategies that address possible vaccine uptake hesitancy           may need to be standardized.
+in target populations, and guidance for community sensitization to vaccine acceptance and          • Pre-licensure evaluation of vaccine safety is
+promotion within the community.                                                                     needed to better understand the risk of adverse
+                                                                                                    incidents associated with vaccine use. While
+                                                                                                    phase 1 and phase 2 trials can be performed
+• Once vaccines are available, enhanced surveillance capacity to assess the impact of               in non-affected countries, safety trials will also
+vaccination programmes and to refine vaccination strategies over time.                              be needed involving target populations in
+                                                                                                    endemic regions.
+
+
+
+
+
+
+
+
+
+
+20                                                                                                                                                       21
+
+---
+
+    NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                 NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+    Strategic goals and aligned milestones                                                                • Further study cross-protection of various vaccine candidates against different NiV
+                                                                                                             strains, and between NiV strains and HeV strains.
+                                                                                                          • Perform clinical trials to assess safety and immunogenicity in phase 1 and 2 trials,
+Strategic     To engage NRAs (particularly in endemic and at-risk areas) and the WHO, to                     and undertake animal studies for immune bridging to facilitate regulatory licensing.
+  Goal        gain guidance on requirements for clinical trials, regulatory pathways and other            • Conduct mathematical modelling to estimate the potential impact of NiV vaccines
+    1         considerations that will affect licensure of a vaccine against NiV.                            and inform strategies for vaccine use.
+              Milestones                                                                                  •  Explore possible strategies for conducting clinical vaccine efficacy trials, in
+                                                                                                             affected areas, that are ethical, interpretable and feasible, or identify alternative
+              1. By 2019, convene an expert working group to assess the feasibility of conducting            approaches for assessing efficacy of new NiV vaccines and therapeutics in
+             clinical efficacy trials of NiV vaccines and to determine the most appropriate                  coordination with the appropriate NRAs.
+             regulatory pathways for licensure.                                                           • Establish a plan for conducting phase 3 clinical trials in endemic regions, in
+              2. By 2020, convene a regional consultation to clarify in-country issues around                coordination with local government agencies, if clinical trials are considered to be a
+             conducting clinical trials (if deemed feasible) and the need for licensure, and                 feasible option for efficacy assessment.
+             future use of NiV vaccines. This consultation should include representatives                 • Evaluate the feasibility of generating multivalent vaccines (that is, that protect
+             from in-country regulators, other regulatory agencies (such as the FDA or the                   against more than one disease) and determine whether or not such vaccines would
+             European Medicines Agency), national and international public- health agencies                  be useful in future NiV control efforts.
+             and organizations and local and international researchers.
+
+Strategic                                                                                                 Product development
+  Goal        To develop and evaluate NiV vaccines for prevention of NiV disease in humans                •  Develop and clinically evaluate safe and effective monovalent NiV vaccines
+              Milestones                                                                                     for humans.
+    2         1. By 2021, complete preclinical evaluation of the preliminary safety, tolerability and     Key capacities
+             efficacy of at least two promising NiV vaccine candidates.
+              2. By 2023, complete phase 1 and phase 2 clinical trials for at least one of the most       • Improve surveillance capabilities to assess the impact of vaccine use and
+             promising NiV candidate vaccines.                                                               vaccination strategies (once vaccines become available).
+              3. By 2023, complete the following if phase 3 trials are considered feasible: (1)           • Prepare clinical trial sites and NRAs in affected countries for future clinical trials
+             develop a framework for conducting phase 3 clinical trials of NiV vaccine                       with NiV vaccines, if clinical trials are considered feasible.
+             candidates; (2) develop a regional protocol for conducting phase 3 trials and                • Identify and address issues with licensure and use of NiV vaccines in affected areas
+             plans for operationalizing the protocol; (3) create a collaborative and transparent             through a coordinated process involving key stakeholders, including in-country
+             strategy for determining which candidate vaccines will go forward into phase                    NRAs and public-health authorities.
+             3 trials.                                                                                    • Support plans for adequate manufacturing and stockpiling of NiV vaccines for
+                                                                                                             further clinical evaluation and use when outbreaks occur.
+
+    Priority areas/activities                                                                             Policy and commercialization
+             Research                                                                                     • Provide guidance on vaccination strategies for various target populations and
+             • Improve understanding of the humoral immune response to infection, to inform                  epidemiologic scenarios that align with vaccine attributes, once vaccines are
+              development and evaluation of NiV vaccines.                                                    available.
+             • Identify and standardize correlates and/or surrogates of protection that are               • Develop guidance for community sensitization to vaccine acceptance and
+              necessary for ongoing research into candidate vaccines and may also be important               promotion within the community.
+              for vaccine licensure.                                                                      • Consider developing a strategy for vaccine surge capacity to rapidly ramp up the
+             • Generate international reference standards to calibrate serologic assays for vaccine          vaccine supply, if NiV is used as a bioterrorism agent or if an NiV strain emerges with
+              potency analyses.                                                                              increased capacity for person-to-person transmission and potential for faster spread.
+             • Complete preclinical evaluation of promising candidate NiV vaccines for safety,
+              immunogenicity and efficacy in animal models (such as through serum transfer
+              studies), correlates of protection and durability.
+
+
+
+
+    22                                                                                                       23
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                               NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Background     information                                                                                             Chiang CF, Lo MK, Rota PA, Spiropoulou PF, Rollin PE. Use of monoclonal antibodies against Hendra and Nipah
+                                                                                                                       viruses in an antigen capture ELISA. Virol J 2010;7:115
+Primary challenges, key needs and World Health Organization                                                            https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-7-115
+R&D Roadmap documents and guidance                                                                                     Ching PKG, de los Reyes VC, Sucaldito MN, Tayag E, Columna-Vingno AB, Malbas FF Jr et al   Outbreak of
+                                                                                                                       henipavirus infection, Philippines, 2014 Emerg Infect Dis 2015;21(2):328-31
+                                                                                                                       https://wwwnc.cdc.gov/eid/article/21/2/14-1433_article
+Morbidity and mortality due to Nipah or Nipah-like virus encephalitis in WHO South-East Asia region, 2001-             Chong HT, Kamarulzaman A, Tan CT, Goh KG, Thayaparan T, Kunjapan SR et al    Treatment of acute Nipah
+2018 Geneva: World Health Organization; 2018 http://www.searo.who.int/entity/emerging_diseases/links/                  encephalitis with ribavirin Ann Neurol   2001;49(6):810-13
+morbidity-and-mortality-nipah-sear-2001-2018.pdf?ua=1                                                                  https://onlinelibrary.wiley.com/doi/10.1002/ana.1062
+Nipah baseline situational analysis Geneva: World Health Organization; 2017.                                           Chua KB. Epidemiology, surveillance and control of Nipah virus infections in Malaysia Malays J Pathol
+WHO target product profile for Nipah virus vaccine Geneva: World Health Organization; 2017.                            2010;32(2):69-73 [Full text] http://www.mjpath.org.my/2010.2/Nipah_virus_infections.pdf
+https://academic.oup.com/jid/article/219/12/1867/5144922                                                               Chua KB, Gubler DJ   Perspectives of public health laboratories in emerging infectious diseases Emerg Microb
+                                                                                                                       Infect     2013;2(6):e37. https://www.nature.com/articles/emi201334
+Other publications                                                                                                     Chua KB, Bellini WJ, Rota PA, Harcourt BH, Tamin A, Lam SK et al   Nipah virus: a recently emergent deadly
+                                                                                                                       paramyxovirus Science 2000;288:1432-35     https://www.ncbi.nlm.nih.gov/pubmed/10827955
+Arunkumar G, Chandni R, D T Mourya DT, Singh SK, Sadanandan R, Sudan P et al    Outbreak investigation                 Chua KB, Goh KJ, Wong KT, Kamarulzaman A, Tan PS, Ksiazek TG et al    Fatal encephalitis due to Nipah virus
+of Nipah virus disease in Kerala, India, 2018 J Infect Dis 2018 (published ahead of print 26 October 2018)             among pig-farmers in Malaysia Lancet     1999;354(9186):1257-59
+https://academic.oup.com/jid/article/219/12/1867/5144922                                                               https://www.ncbi.nlm.nih.gov/pubmed/10520635
+Angeletti S, Presti AL, Cella E, Ciccozzi M. Molecular epidemiology and phylogeny of Nipah virus infection:            Clayton BA. Nipah virus: transmission of a zoonotic paramyxovirus   Curr Opin Virol 2017;22:97-104
+a mini review. Asian Pac J Trop Med 2016;9(7):630-34                                                                   https://www.sciencedirect.com/science/article/pii/S1879625716302097
+https://www.sciencedirect.com/science/article/pii/S1995764516301006?via%3Dihub                                         Daniels P, Ksiazek T, Eaton BT. Laboratory diagnosis of Nipah and Hendra virus infections  Microbes Infect
+                                                                                                                       2001;3(4):289-95 https://www.sciencedirect.com/science/article/abs/pii/S128645790101382X
+ANZCTR (Australian New Zealand Clinical Trials Registry)    Trial ACTRN 12615000395538 (last updated 29 Nov            Dawes BE, Kalveram B, Ikegami T, Juelich T, Smith JK, Zhang L et al Favipiravir (T-705) protects against Nipah
+2016; accessed 31 October 2018)        https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=368110         virus infection in the hamster model Sci Rep. 2018;8:7604
+Baseler L, Scott DP, Saturday G, Horne E, Rosenke R, Thomas T et al    Identifying early target cells of Nipah         https://www.nature.com/articles/s41598-018-25780-3
+virus infection in Syrian hamsters  PLoS Negl Trop Dis 2016;10(11):e0005120                                            DeBuysscher BL, Scott D, Marzi A, Prescott J, Feldmann H  Single-dose live-attenuated
+https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005120                                             Nipah virus vaccines confer complete protection by eliciting antibodies directed against
+Bossart KN, Zhu Z, Middleton D, Klippel J, Crameri G, Bingham J et al A neutralizing human monoclonal                  surface glycoproteins Vaccine. 2014;32(22):2637-44 https://www.ncbi.nlm.nih.gov/
+antibody protects against lethal disease in a new ferret model of acute Nipah virus infection      PLoS Pathog         pubmed/?term=DeBuysscher+BL%2C+Scott+D%2C+Marzi+A
+2009;5(10):e1000642 https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1000642                    DeBuysscher BL, de Wit E, Munster VJ, Scott D, Feldmann H, Prescott J Comparison of the pathogenicity
+Bossart KN, Rockx B, Feldmann F, Brining D, Scott D, LaCasse R et al         A Hendra virus G glycoprotein subunit     of Nipah virus isolates from Bangladesh and Malaysia in the Syrian hamster. PLoS Negl Trop Dis
+vaccine protects African green monkeys from Nipah virus challenge    Sci Transl Med 2012;4(146):146ra107.              2013;7(1):e0002024 https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0002024
+https://stm.sciencemag.org/content/4/146/146ra107                                                                      de Wit E, Munster VJ  Nipah virus emergence, transmission, and pathogenesis  In: Shapshak P, Sinnott JT,
+Broder CC. Passive immunization and active vaccination against Hendra and Nipah viruses Dev Biol (Basel)               Somboonwit C, Kuhn J, eds Global Virology I - Identifying and investigating viral diseases New York, NY:
+                                                                                                                       Springer US; 2015:125-46
+2013;135:125-38 https://www.sciencedirect.com/science/article/pii/S0166354213001691                                    Deka MA, Morshed N Mapping disease transmission risk of Nipah virus in South and Southeast Asia   Trop Med
+Broder CC, Weir DL, Reid PA. Hendra virus and Nipah virus animal vaccines         Vaccine. 2016;34(30):3525-34         Infect Dis 2018;3(2).pii:E57. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6073609/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933500/                                                                  Dhondt KP, Horvat B. Henipavirus infections: lessons from animal models     Pathogens 2013;2(2):264-87.
+Broder CC, Xu K, Nikolov DB, Zhu Z, Dimitrov DS, Middleton D et al         A treatment for and vaccine against the     https://www.mdpi.com/2076-0817/2/2/264/htm
+deadly Hendra and Nipah viruses     Antiviral Res 2013;100(1):8-13                                                     Donaldson H, Lucey D. Enhancing preparation for large Nipah outbreaks beyond Bangladesh: preventing a
+https://www.sciencedirect.com/science/article/pii/S0166354213001691                                                    tragedy like Ebola in West Africa Int J Infect Dis 2018;72:69-72
+Nipah virus (NiV) signs and symptoms. Atlanta, GA: US Centers for Disease Control and Prevention; 2014                 https://www.ijidonline.com/article/S1201-9712(18)34425-4/fulltext
+(accessed 20 Mar 2014)    https://www.cdc.gov/vhf/nipah/symptoms/index.html                                            Epstein JH, Prakash V, Smith CS, Daszak P, McLaughlin AB, Meehan G et al     Henipavirus infection in fruit bats
+Chadha MS, Comer JA, Lowe L, Rota PA, Rollin PE, Bellini WJ et al     Nipah virus-associated encephalitis              (Pteropus giganteus), India  Emerg Infect Dis 2008;14(8):1309-11
+outbreak, Siliguri, India Emerg Infect Dis 2006;12(2):235-240                                                          https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600370/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373078/                                                                  Escaffre O, Hill T, Ikegami T, Juelich TL, Smith JK, Zhang L et al Experimental infection of Syrian hamsters with
+Chattu VK, Kumar R, Kumary S, Kajal F, David JK. Nipah virus epidemic in southern India and emphasizing "One           aerosolized Nipah virus J Infect Dis 2018;218(10):1602-10
+Health" approach to ensure global health security. J Family Med Prim Care. 2018;7(2):275-283                           https://academic.oup.com/jid/article/218/10/1602/5038367
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6060941/                                                                  Freiberg AN, Worthy MN, Lee B, Holbrook MR. Combined chloroquine and ribavirin treatment does not prevent
+Chen F, Zhao D, Jiao Z. Nipah virus encephalitis  In: Li H, ed Radiology of infectious diseases Volume 1               death in a hamster model of Nipah and Hendra virus infection     J Gen Virol 2010;91(pt 3):765-72
+Heidelberg: Springer Netherlands, Dordrect; 2015 541-47.                                                               https://www.microbiologyresearch.org/content/journal/jgv/10.1099/vir.0.017269-0#tab2
+Chew MH, Arguin PM, Shay DK, Goh KT, Rollin PE, Shieh WJ et al     Risk factors for Nipah virus infection among        Geisbert TW, Daddario-DiCaprio KM, Hickey AC, Smith MA, Chan YP, Wang LF et al     Development of an acute
+abattoir workers in Singapore. J Infect Dis   2000;181(5):1760-63                                                      and highly pathogenic nonhuman primate model of Nipah virus infection     PLoS One. 2010;5(5):e0010690
+https://www.ncbi.nlm.nih.gov/pubmed/10823780                                                                           https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010690
+
+
+24                                                                                                                     25
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP                                                                                      NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Geisbert TW, Mire CE, Geisbert JB, Chan YP, Agans KN, Feldmann F et al   Therapeutic treatment of Nipah                       Lo MK, Lowe L, Hummel KB, Sazzad HM, Gurley ES, Hossain MJ et al     Characterization of Nipah virus from
+virus infection in nonhuman primates with a neutralizing human monoclonal antibody. Sci Transl Med                            outbreaks in Bangladesh, 2008-2010. Emerg Infect Dis 2012;18(2):248-55
+2014;6(242):242ra82  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4467163/                                                    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310473/
+Georges-Courbot MC, Contamin H, Faure C, Loth P, Baize S, Leyssen P et al            Poly(I)-poly(C12U) but not ribavirin     Luby SP. The pandemic potential of Nipah virus Antiviral Res 2013;100(1):38-43
+prevents death in a hamster model of Nipah virus infection Antimicrob Agents Chemother. 2016;50(5):1768-72                    https://www.sciencedirect.com/science/article/pii/S0166354213001988
+https://aac.asm.org/content/50/5/1768                                                                                         Luby SP, Hossain MJ, Gurley ES, Ahmed BN, Banu S, Khan SU et al       Recurrent zoonotic transmission of Nipah
+Guillaume V, Contamin H, Loth P, Georges-Courbot MC, Lefeuvre A, Marianneau P et al              Nipah virus: vaccination     virus into humans, Bangladesh, 2001-2007. Emerg Infect Dis 2009; 15(8):1229-35
+and passive protection studies in a hamster model J Virol  2004;78(2):834-40.                                                 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815955/#R23
+https://jvi.asm.org/content/78/2/834.full                                                                                     Luby SP, Rahman M, Hossain MJ, Blum LS, Husain MM, Gurley E et al       Foodborne transmission of Nipah virus,
+Guillaume V, Lefeuvre A, Faure C, Marianneau P, Buckland P, Lam SK et al Specific detection of Nipah virus                    Bangladesh Emerg Infect Dis 2006;12(12):1888-94 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291367/
+using real-time RT-PCR (TaqMan) J Virol Methods 2004;120(2):229-37.                                                           Mathieu C, Horvat B. Henipavirus pathogenesis and antiviral approaches    Expert Rev Anti Infect Ther.
+https://jvi.asm.org/content/78/2/834.full                                                                                     2015;13(3):343-54  https://www.tandfonline.com/doi/abs/10.1586/14787210.2015.1001838
+Gurley ES, Montgomery JM, Hossain MJ, Bell M, Azad AK, Islam MR et al    Person-to-person transmission of                     Mathieu C, Porotto M, Figueira TN, Horvat B, Moscona A. Fusion inhibitory lipopeptides engineered for
+Nipah virus in a Bangladeshi community. Emerg Infec Dis 2007;13(7):1031-37.                                                   prophylaxis of Nipah virus in primates J Infect Dis 2018;218(2):218-227.
+https://wwwnc.cdc.gov/eid/article/13/7/06-1128_article                                                                        https://www.ncbi.nlm.nih.gov/pubmed/29566184
+Hayman DTS, Johnson N Nipah virus: a virus with multiple pathways of emergence. In: Johnson N, ed            The role         McEachern JA, Bingham J, Crameri G, Green DJ, Hancock TJ, Middleton D et al     A recombinant subunit vaccine
+of animals in emerging viral diseases Amsterdam: Elsevier; 2014:293-315                                                       formulation protects against lethal Nipah virus challenge in cats Vaccine. 2008;26(31):3842-52
+https://www.sciencedirect.com/book/9780124051911/the-role-of-animals-in-emerging-viral-diseases                               https://www.sciencedirect.com/science/article/pii/S0264410X08005720
+Homaira N, Rahman M, Hossain MJ, Epstein JH, Sultana R, Khan MS et al     Nipah virus outbreak with person-to-                Middleton D, Pallister J, Klein R, Feng YR, Haining J, Arkinstall R et al Hendra virus vaccine, a one health
+person transmission in a district of Bangladesh, 2007. Epidemiol Infect  2010;138(11):1630-36                                 approach to protecting horse, human, and environmental health     Emerg Infect Dis 2014;20:372-79
+https://www.ncbi.nlm.nih.gov/pubmed/20380769                                                                                  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944873/
+Hossain MJ, Gurley ES, Montgomery JM, Bell M, Carroll DS, Hsu VP et al   Clinical presentation of nipah virus                 Mire CE, Satterfield BA, Geisbert JB, Agans KN, Borisevich V, Yan L et al Pathogenic differences between Nipah
+infection in Bangladesh Clin Infect Dis  2008;46(7):977-84                                                                    virus Bangladesh and Malaysia strains in primates: implications for antibody therapy. Sci Rep. 2016;6:30916
+https://academic.oup.com/cid/article/46/7/977/292786                                                                          https://www.nature.com/articles/srep30916
+Hsu VP, Hossain MJ, Parshar UD, Ali MM, Ksiasek TG, Kuzmin I et al Nipah virus encephalitis reemergence,                      Mire CE, Versteeg KM, Cross RW, Agans KN, Fenton KA, Whitt MA et al     Single injection recombinant vesicular
+Bangladesh Emerg Infect Dis 2004;10(12):2082-87. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3323384/                        stomatitis virus vaccines protect ferrets against lethal Nipah virus disease Virol J 2013;10:353
+Iehlé C, Razafitrimo G, Razainirina, Andriaholinirina N, Goodman SM, Faure C et al Henipavirus and Tioman                     https://link.springer.com/article/10.1186/1743-422X-10-353
+virus antibodies in pteropodid bats, Madagascar. Emerg Infect Dis  2007;13(1):159-61                                          Parashar UD, Sunn LM, Ong F, Mounts AW, Arif MT, Ksiasek TG et al  Case-control study of risk factors for
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725826/                                                                         human infection with a new zoonotic paramyxovirus, Nipah virus, during a 1998-1999 outbreak of severe
+Islam MS, Sazzad HM, Satter SM, Sultana S, Hossain MJ, Hasan M et al        Nipah virus transmission from bats to             encephalitis in Malaysia J Infect Dis 2000;181(5):1755-59 (epub 2000 May 15)
+humans associated with drinking traditional liquor made from date palm sap, Bangladesh, 2011-2014           Emerg             https://www.ncbi.nlm.nih.gov/pubmed/10823779
+Infect Dis 2016;22(4):664-70 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4806957/                                            Paton NI, Leo YS, Zaki SR, Auchus AP, Lee KE, Ling AE et al Outbreak of Nipah-virus infection among abattoir
+Jensen KS, Adams R, Bennett RS, Bernbaum J, Jahrling PB, Holbrook MR. Development of a novel real-time                        workers in Singapore. Lancet 1999;354(9186):1253-56 https://www.ncbi.nlm.nih.gov/pubmed/10520634
+polymerase chain reaction assay for the quantitative detection of Nipah virus replicative viral RNA. PLoS One.                Pernet O, Schneider BS, Beaty SM, LeBreton M, Yun TE, Park A et al     Evidence for henipavirus spillover into
+2018;13(6):e0199534  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199534                                human populations in Africa  Nat Commun. 2014;5:5342 https://www.nature.com/articles/ncomms6342
+Johnston SC, Briese T, Bell TM, Pratt WD, Shamblin JD, Esham HL et al    Detailed analysis of the African green               Prescott J, de Wit E, Feldmann H, Munster VJ The immune response to Nipah infection  Arch Virol
+monkey model of Nipah virus disease     PLoS One. 2015;10(2):e0117817.                                                        2012;157(9):1635-41 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432143/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117817
+Kaku Y, Noguchi A, Marsh GA, Barr JA, Okutani A, Hotta K et al Second generation of pseudotype-based                          Rahman SA. National guideline for management, prevention and control of Nipah virus infection including
+serum neutralization assay for Nipah virus antibodies: sensitive and high-throughput analysis utilizing secreted              encephalitis Dhaka: Ministry of Health & Family Welfare. Government of the People's Republic of Bangladesh;
+alkaline phosphatase. J Virol Methods   2012;179(1):226-32                                                                    2011 https://www.medbox.org/guideline-for-management-prevention-and-control-of-nipah-virus-infection-
+https://www.ncbi.nlm.nih.gov/pubmed/?term=pseudotyped+neutralization+assays+for+Nipah                                         including-encephalitis/download.pdf
+Kaku Y, Noguchi A, Marsh GA, McEachern JA, Otukani A, Hotta K et al     A neutralization test for specific                    Rahman MA, Hossain MJ, Sultana S, Homaira N, Khan SU, Rahman M et al     Date palm sap linked to Nipah virus
+detection of Nipah virus antibodies using pseudotyped vesicular stomatitis virus expressing green fluorescent                 outbreak in Bangladesh, 2008. Vector Borne Zoonotic Dis 2012;12(1):65-72
+protein J Virol Methods 2009;160(1-2):7-13           https://www.ncbi.nlm.nih.gov/pubmed/19433112                             https://www.ncbi.nlm.nih.gov/pubmed/21923274
+Ksiazek TG, Rota PA, Rollin PE. A review of Nipah and Hendra viruses with an historical aside     Virus Res                   Reynes JM, Counor D, Ong S, Faure C, Seng V, Molia S et al  Nipah virus in Lyle's flying foxes, Cambodia    Emerg
+2011;162(1-2):173-83 https://www.ncbi.nlm.nih.gov/pubmed/21963678                                                             Infect Dis 2005;11(7):1042-47. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371782/
+Kulkarni DD, Tosh C, Venkatesh G, Senthil Kumar D. Nipah virus infection: current scenario Indian J Virol                     Rockx B. Recent developments in experimental animal models of Henipavirus infection  Pathog Dis
+2013;24(3):398-408   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832692/                                                    2014;71(2):199-206  https://www.ncbi.nlm.nih.gov/pubmed/24488776
+Lancet Editorial Nipah virus control needs more than R&D. Lancet   2018;391(10137):2295                                       Rockx B, Bossart KN, Feldmann F, Geisbert JB, Hickey AC, Brining D et al     A novel model of lethal Hendra virus
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31264-9/fulltext                                           infection in African green monkeys and the effectiveness of ribavirin treatment J Virol 2010;84(19):9831-39
+                                                                                                                              https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937751/
+Lo MK, Jordan R, Arvey A, Sudhamsu J, Shrivastava-Ranjan P, Hotard AL et al    GS-5734 and its parent                         Satterfield BA, Dawes BE, Milligan GN  Status of vaccine research and development of vaccines for Nipah virus
+nucleoside analog inhibit Filo-, Pneumo-, and Paramyxoviruses  Sci Rep. 2017;7:43395                                          Vaccine. 2016;34(26):2971-75
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338263/                                                                         https://www.sciencedirect.com/science/article/pii/S0264410X16002966?via%3Dihub
+
+
+26                                                                                                                            27
+
+---
+
+NIPAH RESEARCH AND DEVELOPMENT (R&D) ROADMAP
+
+Satterfield BA, Geisbert TW, Mire CE. Inhibition of the host antiviral response by Nipah virus: current
+understanding and future perspectives. Future Virol. 2016;11(5):331-4.
+https://www.futuremedicine.com/doi/abs/10.2217/fvl-2016-0027
+Sazzad HM, Luby SP, Ströher U, Daszak P, Sultana S, Afroj S et al. Exposure-based screening for Nipah virus
+encephalitis, Bangladesh. Emerg Infect Dis. 2015;21(2):349-51.
+https://wwwnc.cdc.gov/eid/article/21/2/14-1129_article
+Schmidt R, Beltzig LC, Sawatsky B, Dolnik O, Dietzel E, Krähling V et al. Generation of therapeutic antisera for
+emerging viral infections. NPJ Vaccines. 2018;3:42. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173733/
+Sendow I, Ratnawati A, Taylor T, Adjid RM, Saepulloh M, Barr J et al. Nipah virus in the fruit bat Pteropus
+vampyrus in Sumatera, Indonesia. PLoS One. 2013;8(7):e69544 (epub 2013 July 22).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3718695/
+Sharma V, Kaushik S, Kumar R, Yadav JP, Kaushik S. Emerging trends of Nipah virus: a review. Rev Med Virol.
+2018:e2010. https://www.ncbi.nlm.nih.gov/pubmed/30251294
+Spiropoulou C. Nipah virus outbreaks: still small but extremely lethal. J Infect Dis. 2018 (published ahead of
+print, 26 October 2018). https://academic.oup.com/jid/article/219/12/1855/5144923
+Steffen DL, Xu K, Nikolov DB, Broder CC. Henipavirus mediated membrane fusion, virus entry and targeted
+therapeutics. Viruses. 2012;4(2):280-308. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3315217/
+Sun B, Jia L, Liang B, Chen Q, Liu D. Phylogeography, transmission, and viral proteins of Nipah virus. Virol Sin.
+2018; Oct 11. https://link.springer.com/article/10.1007%2Fs12250-018-0050-1
+Tamin A, Harcourt BH, Lo MK, Roth JA, Wolf MC, Lee B et al. Development of a neutralization assay for Nipah
+virus using pseudotype particles. J Virol Methods. 2009;160(1-2):1-6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2704486/
+Tan KS, Tan CT, Goh KJ. Epidemiological aspects of Nipah virus infection. Neuro J Southeast Asia. 1999;4:77-81.
+https://pdfs.semanticscholar.org/3735/f4fd0619e58b422b7621299437bcc421f62d.pdf
+Yu J, Lv X, Yang Z, Gao S, Li C, Cai Y et al. The main risk factors of Nipah disease and its risk analysis in China.
+Viruses. 2018;10(10)pii:E572. https://www.mdpi.com/1999-4915/10/10/572
+van den Pol AN, Mao G, Chattopadhyay A, Rose JK, Davis JN. Chikungunya, influenza, Nipah, and Semliki
+Forest chimeric viruses with vesicular stomatitis virus: actions in the brain. J Virol. 2017;91(6):e02154-16.
+https://jvi.asm.org/content/91/6/e02154-16
+Wacharapluesadee S, Lumlertdacha B, Boongird K, Wanghongsa S, Chanhome L, Rollin P et al. Bat Nipah virus,
+Thailand. Emerg Infect Dis. 2005;11(12):1949-51. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3367639/
+Wang LF, Daniels P. Diagnosis of henipavirus infection: current capabilities and future directions. Curr Top
+Microbiol Immunol. 2012;359:179-96. https://link.springer.com/chapter/10.1007%2F82_2012_215
+Weatherman S, Feldman H, de Wit E. Transmission of henipaviruses. Curr Opin Virol. 2018;28:7-11.
+https://www.sciencedirect.com/science/article/pii/S1879625717301104
+Yob JM, Field H, Rashdi AM, Morrissy C, van der Heide B, Rota P et al. Nipah virus infection in bats (order
+Chiroptera) in peninsular Malaysia. Emerg Infect Dis. 2001;7:439-41.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631791/
+
+
+
+
+
+
+
+
+
+
+28
+
+---
+
+WHO Headquarters in Geneva
+Avenue Appia 20
+1202 Geneva
+Telephone: +41-22-7912111
+
+
+
+
+World Health     R&DBlueprint
+Organization     Powering research
+                 to prevent epidemics

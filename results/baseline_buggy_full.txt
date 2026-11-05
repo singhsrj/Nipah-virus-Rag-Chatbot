@@ -1,0 +1,57 @@
+Q: What is the case fatality rate of Nipah virus?
+  Sources: ['Nipah virus fact sheet.md', 'Disease information on Nipah virus disease.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  Answer: The case fatality rate of Nipah virus is estimated at 40% to 75% [1].
+  Context Relevance: 1.00
+  Faithfulness: 1.00  (hallucination rate: 0.00)
+  Relevancy: 1.00
+  Answer Correctness: 1.00
+
+Q: What animal is the natural host of Nipah virus?
+  Sources: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Nipah virus fact sheet.md', 'Disease information on Nipah virus disease.md']
+  Answer: Fruit bats of the Pteropodidae family (particularly species belonging to the *Pteropus* genus) are the natural hosts for Nipah virus. [1]
+  Context Relevance: 0.67
+  Faithfulness: 1.00  (hallucination rate: 0.00)
+  Relevancy: 1.00
+  Answer Correctness: 0.99
+
+Q: What is the incubation period for Nipah virus infection?
+  Sources: ['Nipah virus fact sheet.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  Answer: The incubation period for Nipah virus infection is typically from 4 to 14 days, but rare cases have reported incubation up to 45 days. [1][2][3]
+  Context Relevance: 1.00
+  Faithfulness: 1.00  (hallucination rate: 0.00)
+  Relevancy: 1.00
+  Answer Correctness: 0.80
+
+Q: Is there an approved treatment or vaccine for Nipah virus?
+  Sources: ['Nipah virus fact sheet.md', 'WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection 2023–2030.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  Answer: No, there are currently no approved treatments or vaccines for Nipah virus infection [1].
+  Context Relevance: 1.00
+  Faithfulness: 1.00  (hallucination rate: 0.00)
+  Relevancy: 1.00
+  Answer Correctness: 0.94
+
+Q: Where and when was Nipah virus first identified?
+  Sources: ['nipah & Henipaviruses.md', 'Nipah virus fact sheet.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  Answer: Nipah virus was first identified in Malaysia in 1998, as stated in [1] and [2]. [3] also references its identification in 1999 in Malaysia and Singapore.
+  Context Relevance: 1.00
+  Faithfulness: 0.33  (hallucination rate: 0.67)
+  Relevancy: 1.00
+  Answer Correctness: 0.89
+  Unsupported claims: ['References [1] and [2] state that Nipah virus was first identified in Malaysia in 1998', 'Reference [3] references its identification in 1999 in Malaysia and Singapore']
+
+Q: What genus and family does Nipah virus belong to?
+  Sources: ['Disease information on Nipah virus disease.md', 'Disease information on Nipah virus disease.md', 'Nipah virus fact sheet.md']
+  Answer: Nipah virus belongs to the Henipavirus genus within the Paramyxoviridae family. [1]
+  Context Relevance: 0.33
+  Faithfulness: 1.00  (hallucination rate: 0.00)
+  Relevancy: 1.00
+  Answer Correctness: 0.99
+
+Q: What biosafety level is required to work with live Nipah virus for propagation and isolation?
+  Sources: ['Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md', 'WHO South-East Asia Regional Strategy for the prevention and control of Nipah virus infection 2023–2030.md', 'Enhancing readiness for a Nipah virus event in countries not reporting a Nipah virus event.md']
+  Answer: BSL-4 [1]
+  Context Relevance: 0.33
+  Faithfulness: 1.00  (hallucination rate: 0.00)
+  Relevancy: 1.00
+  Answer Correctness: 0.76
+

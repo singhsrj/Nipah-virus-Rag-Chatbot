@@ -1,0 +1,739 @@
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    Other sites
+
+                    ecoc     European Centre for Disease
+                        Prevention and Control
+                        Q      ≡
+
+                    Home > Topics A-Z > Nipah virus disease
+                    > Disease information on Nipah virus disease
+
+                    Disease information on Nipah virus
+                    disease
+
+                    Factsheet
+
+                    Nipah virus (NiV) is an emerging zoonotic virus that can be transmitted
+                    to humans from animals (both wild and domestic). Fruit bats of the
+                    Pteropodidae family are the natural hosts of Nipah virus. NiV infection
+                    can be asymptomatic or mild (subclinical), but it also causes acute
+                    respiratory illness and fatal encephalitis. The case fatality rate is
+                    estimated between 40-75% or higher, and it varies depending on the
+                    specific NiV strain [1], access to and quality of healthcare, or the severity
+                    of illness [2]. There are no specifically approved treatments or vaccines
+                    available for NiV infection, either for people or animals.
+
+                    So far, NiV outbreaks have only been described in Asia. The first reported
+                    outbreak occurred in 1998-1999 and involved pig farmers in the village
+                    of Sungai Nipah (Malaysia) [3]. Since then, sporadic outbreaks have been
+                    documented in Bangladesh, India, the Philippines, and Singapore [4-7].
+
+                    NiV infection is one of the priority diseases on the World Health
+                    Organization (WHO) R&D Blueprint because of its epidemic or pandemic
+                    potential [8].
+
+                    Case definition
+                    NiV infection is not a notifiable disease at the EU/EEA level and there is
+                    no EU case definition.
+
+                    However, NiV infection case definitions have been proposed in scientific
+                    literature [9] and by national public health institutes in various countries
+                    (India [10], Malaysia [11]).
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 1/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    The pathogen
+                    NiV belongs to the Henipavirus genus within the Paramyxoviridae
+                    family.
+
+                    The Paramyxoviridae family consists of enveloped, non-segmented,
+                    negative-sense RNA viruses. Their genomes code for six structural
+                    proteins: nucleocapsid (N), phosphoprotein (P), matrix protein (M),
+                    fusion protein (F), glycoprotein or receptor-binding protein (G), and large
+                    protein or RNA polymerase (L).
+
+                    Many paramyxoviruses are host-specific, and several are pathogenic to
+                    humans, including NiV, measles virus, mumps virus, Hendra virus (HeV),
+                    and several parainfluenza viruses. NiV has a broad host range that
+                    includes humans, bats, pigs, sheep, goats, dogs, cats, and horses.
+
+                    The genus Henipavirus has five recognised species (Cedar
+                    henipavirus, Ghanaian bat henipavirus, Hendra henipavirus, Mojiang
+                    henipavirus, and Nipah henipavirus) that are distinguished on the basis
+                    of the amino acid sequences of their large protein (L) [12]. Species
+                    demarcation is based on the distance in phylogenetic analysis of
+                    complete L protein amino acid sequences. Phylogenetic tree topology
+                    and branch length (0.03) between the nearest node and the tip of the
+                    branch determines whether two genotypes belong to the same species
+                    [12].
+
+                    Recently, further henipaviruses were discovered in South-East Asia in
+                    small mammals [13,14]. Metagenomic and serological studies indicate
+                    human infections in China with a henipavirus tentatively named Langya
+                    virus [15].
+
+                    Based on sequence differences of either whole or partial nucleocapsid
+                    (N) gene, NiV strains are divided into two clades (Clade I: NiV-B in
+                    Bangladesh and India, and Clade II: NiV-M in Malaysia) which suggests
+                    two separate NiV introductions in these countries [16,17]. The two
+                    strains have >92% genetic identity and amino acid homology, but clinical
+                    features and transmission routes differ in India/Bangladesh and
+                    Malaysia [3,18]. Phylogenetic analysis also confirmed two distinct NiV-M
+                    subclades circulating in northern and southern Malaysia; these two
+                    subclades likely originate from distinct hosts [19].
+
+                    In the first stage of illness, virus detection can be performed in the
+                    epithelial cells of the bronchioles. In experimental animal models, viral
+                    antigens can be detected in the bronchi and alveoli. In the later stages of
+                    illness, virus can also be found in the lung endothelia and the blood
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 2/16
+
+---
+
+9/16/26, 6:07 PM    Disease information on Nipah virus disease
+                    either freely or in host leukocyte-bound form. Eventually, lungs, spleen,
+                    kidneys and brain are targeted by the virus and the patient suffers from
+                    multiple organ failure [3]. Ephrin-B2 (EFNB2) and ephrin-B3 (EFNB3) were
+                    identified as the main functional receptors for both NiV clades. The
+                    presence of these receptors in many vertebrates can explain the wide
+                    host range of henipaviruses [20]. In addition, the fact that these
+                    receptors are often located on the arterial endothelial cells can explain
+                    the systematic nature of the infections [20].
+
+                    NiV has been classified as a Risk Group 4 pathogen, which means
+                    specimens containing NiV need to be handled using special containment
+                    and barrier protection measures. This applies to laboratory personnel
+                    handling samples and healthcare professionals caring for potentially
+                    infected patients, as well as people taking care of dead bodies. While
+                    diagnostic RT-PCR and serology on inactivated samples can be done
+                    under biosafety level (BSL)-2 conditions, virus inactivation has to be
+                    done at BSL-3. Virus propagation, isolation, quantification and
+                    neutralisation require BSL-4 facilities.
+
+                    NiV is relatively stable, and it can survive for up to three days in some
+                    fruit juices or fruits at local environmental temperatures. It can remain
+                    infectious for at least seven days in date palm sap kept at 22°C. The
+                    virus has a half-life of 18 hours in the urine of fruit bats. It remains viable
+                    at 70°C for one hour (only the viral concentration decreases). However, it
+                    can be completely inactivated by heating at 100°C for more than 15
+                    minutes. Given its enveloped nature, NiV can be inactivated by soaps,
+                    detergents and sodium hypochlorite (10 000 ppm) [3,21]. The use of
+                    ultraviolet-C and medium-base lights was found to be an effective way to
+                    reduce NiV infectivity in serum and plasma [22], with the combination of
+                    heating [23]. More information on inactivation methods for NiV-infected
+                    material is available in Widerspick et al [24].
+
+                    Clinical features and sequelae
+                    Up to 11% of infected individuals remain asymptomatic and the
+                    proportion of asymptomatic cases seems to depend on the specific NiV
+                    strain [25]. Symptomatic individuals may present mild respiratory
+                    symptoms to severe respiratory distress or encephalitis. People infected
+                    with the NiV-B strain are more likely to develop atypical pneumonia and
+                    severe respiratory problems, including acute respiratory distress [26].
+
+                    Initial symptoms of NiV infection may include fever, headache, myalgia
+                    (muscle pain), nausea, vomiting, sore throat, cough and/or respiratory
+                    discomfort. Acute encephalitis might develop with the following
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 3/16
+
+---
+
+9/16/26, 6:07 PM Disease information on Nipah virus disease
+        symptoms: dizziness, drowsiness, altered state of consciousness and
+        any other indicative neurological signs. In severe cases, encephalitis and
+        seizures occur and may lead to coma within 24-48 hours. Progression
+        to encephalitis indicates a poor prognosis, with death within a median of
+        six days after the onset of symptoms [27].
+
+        Most people who survive encephalitis make a full recovery, but
+        neurological dysfunctions remain in around 20% of survivors. These
+        include recurrent seizures, overwhelming fatigue and altered behaviour.
+        A small proportion of patients can have relapses or delayed onset of
+        encephalitis (weeks, months or even years post-recovery) with fatal
+        outcomes [19,28-30].
+
+        The case fatality rate usually ranges between 40-75% but can be higher
+        depending on the NiV strain, the severity of the disease and the
+        availability of adequate and high-quality healthcare facilities [2,17,31].
+
+        NiV can infect and cause subclinical or clinical diseases in domestic
+        animals such as dogs, cats, pigs, horses, goats and sheep [32]. The
+        illness is similar to the human disease i.e. neurological or respiratory. It
+        seems to be mostly acute and self-limiting, but can also be fatal [33].
+
+        Epidemiology
+        NiV has caused a few known outbreaks in Asia. It emerged in 1998
+        during an outbreak among pig farmers in the village of Sungai Nipah in
+        Malaysia [3]. In March 1999, there was another outbreak in Singapore
+        including 11 abattoir workers linked to imported pigs from a farm in
+        Malaysia which were infected by NiV [7]. In total, 246 cases were
+        reported from these two outbreaks. Pig farmers and abattoir workers
+        were identified as the high-risk group. A period of widespread forest
+        burning for agricultural use, which sparked the migration of fruit bats
+        from Indonesia to other parts of South-East Asia was considered to be
+        an underlying reason for the geographical expansion of NiV reservoir
+        hosts [34].
+
+        Since the initial detection, three countries described single or sporadic
+        reoccurring outbreaks: Bangladesh (the first outbreak was in 2001, and
+        then there were nine subsequent outbreaks till 2010 and 2011), India
+        (2001, 2007, 2018, 2019, 2021) and the Philippines in 2014. In
+        Bangladesh and India, the most likely sources of infection were fruits or
+        fruit products (such as raw date palm sap) contaminated with urine or
+        saliva from infected fruit bats [27]. Human-to-human transmission was
+        also reported [17,35]. In the Philippines, the most commonly described
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 4/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    routes of transmission to humans were direct exposure to infected
+                    horses, contact with contaminated materials during the slaughtering of
+                    sick horses, or consumption of raw or undercooked meat from infected
+                    horses [6].
+
+                    Anti-NiV or cross-reacting anti-NiV antibodies have been detected in fruit
+                    bats from Bangladesh, Cambodia, China, Indonesia, India, Madagascar,
+                    Malaysia, New Caledonia, Papua New Guinea, Thailand and Vietnam
+                    [3,18]. NiV RNA was detected in bats in Timor-Leste (both Pteropid and
+                    non-Pteropid), Bangladesh, India and Thailand. Moreover, Ghanaian bat
+                    henipavirus RNA (a species of the Henipavirus genus) was identified in
+                    Ghana [36].
+
+                    There are many unknown aspects about the patterns of NiV circulation
+                    in bats and the factors which may cause the virus to spillover to
+                    domestic animals. The role of bats other than Pteropid bats in the
+                    dissemination of NiV remains unclear. The only fruit bat residing in
+                    Europe is the Egyptian fruit bat (Rousettus aegyptiacus), which does not
+                    support NiV replication experimentally [37]. Henipavirus antibodies were
+                    found in China in Daubenton's bat (Myotis daubentonii) - a species of
+                    insectivorous bats widely found in Europe and parts of Asia. However no
+                    specific RNA was detected [38].
+
+                    Virus shedding by bats is cyclical, driven by demographic factors
+                    (population turnover, migration of infected bats) and immunological
+                    factors (waning protection, stress during pregnancy) [39]. No seasonal
+                    pattern in human infections could be identified besides the seasonal
+                    consumption of date palm sap (contaminated with urine or saliva from
+                    infected fruit bats) in Bangladesh during winter months [40].
+
+                    Transmission
+                    The incubation period of NiV generally ranges between 4-21 days [2];
+                    however, longer incubation periods have also been observed, notably
+                    during the outbreak in Malaysia when the incubation period was up to
+                    two months. It is presumed that infected persons remain infectious till
+                    21 days after the onset of symptoms.
+
+                    NiV is transmitted either via direct contact with infected people or
+                    animals or their body fluids, or via consumption or handling of
+                    contaminated products. Mother-to-child transmissions have not been
+                    recorded [26]. However, the possibility was demonstrated in an animal
+                    experiment [41].
+
+                    NiV can be transmitted to animals by:
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 5/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    The consumption of contaminated fruit, with saliva or urine from
+                    infected fruit bats [3] or the consumption of meat from an infected
+                    animal [6].
+                    Direct contact with other infected animals [42]. Rectal shedding of
+                    viable virus was reported in animal models [43].
+
+                    NiV can be transmitted to people by:
+
+                    Direct contact with infected wild or domesticated animals, or their
+                    excretions and secretions (such as urine, saliva, blood, pharyngeal
+                    and respiratory secretions). Transmission to humans via virus-
+                    containing aerosols should also be considered [44].
+                    Consumption of unprocessed meat from infected animals, or
+                    unheated/raw food products that have been contaminated by body
+                    fluids of infected animals (such as palm sap or fruit contaminated
+                    by an infected fruit bat).
+                    Contact with the body fluids of an infected person (such as nasal or
+                    respiratory droplets, urine, blood).
+
+                    The main mode of transmission varied between the affected countries
+                    [18]. In Malaysia and Singapore, the outbreaks were linked to pigs as
+                    intermediate hosts, while in the Philippines horses were the intermediate
+                    hosts [6,7,18,45]. In all instances, the consumption of fruits
+                    contaminated with bat droppings is believed to have caused the initial
+                    infections in domestic animals. In India and in Bangladesh, outbreaks
+                    were linked to the consumption of date palm sap [18]. Human-to-human
+                    transmissions in the community and/or hospital settings were reported
+                    in several countries including Bangladesh, India and the Philippines
+                    [6,35,46-49].
+
+                    Diagnostics
+                    The initial signs and symptoms of NiV infection are nonspecific, which is
+                    why it is often misdiagnosed at first. A syndromic testing approach for
+                    pathogens causing symptoms such as febrile, respiratory or encephalitic
+                    disease could be considered for more accurate diagnosis [19]. Moreover,
+                    HeV and NiV are closely related, and diagnostic assays can cross-react
+                    depending on the RNA or antigen targeted.
+
+                    In the early stages of disease, NiV infection can be confirmed by RT-PCR
+                    testing of RNA extracted from throat and nasal swabs, cerebrospinal
+                    fluid, urine, and blood. Animal experiments demonstrated shedding in
+                    faeces, but stools are not listed in humans amongst the standard
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 6/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    diagnostic samples. Exact virus kinetics are not known as well. Several
+                    narrow- and broad-range RT-PCR assays exist for strain detection,
+                    including a few commercial ones [19].
+
+                    Later (10-14 days after the onset of symptoms) in the course of illness
+                    and after recovery, the diagnosis relies on antibody testing, using
+                    immunoassays (e.g. enzyme-linked immunosorbent assay (ELISA), and
+                    Luminex) or virus neutralisation. This also depends on the post-
+                    symptoms timing, the kinetics of antibodies and available laboratory
+                    facilities.
+
+                    Virus isolation and virus neutralisation tests need to be performed at
+                    BSL-4 [3]. Neutralisation tests can also be performed at BSL-2 if
+                    pseudoviruses are used [3]. BSL-2 facilities can be used for RNA
+                    isolation on inactivated samples from suspected clinical materials, but
+                    proper risk assessments need to be observed for any work. Currently
+                    there are no points of care/rapid tests available for NiV [19].
+
+                    Various diagnostic tests are available for animals.
+                    Immunohistochemistry can be performed on infected animal or human
+                    tissues using specific anti-henipavirus antibodies. This is sometimes
+                    useful to confirm the diagnosis, although detection of viral RNA by RT-
+                    PCR and confirmation by sequencing are preferred methods.
+
+                    Case management and treatment
+                    Guidelines for the clinical management of patients with NiV infection
+                    have been made available in various countries, including affected
+                    countries such as Bangladesh, India and Malaysia. NiV clinical
+                    management is based on general, supportive treatment (ensuring fluid
+                    and electrolyte balance, oxygen inhalation if required), symptomatic
+                    treatment (treating fever, convulsions, shock), and adopting procedures
+                    to prevent further spread of the disease (implementing isolation
+                    measures, barrier nursing, safe handling of deceased bodies).
+
+                    NiV-specific immunotherapeutic treatments (such as m102.4
+                    monoclonal antibody against the G protein) are under development and
+                    evaluation. This treatment showed effectiveness in animal models [50].
+                    Based on a completed phase 1 clinical trial, it can also be used in
+                    patients on a compassionate use basis.
+
+                    As for treatment, several antiviral medications have been
+                    employed/tested for NiV infection. Remdesivir was found effective
+                    against NiV-B in non-human primates as a post-exposure prophylaxis
+                    when given 24 hours after intranasal and intratracheal lethal challenge
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 7/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    and treatment pursued for 12 days [51]. It may be complementary to
+                    immunotherapeutic treatments. In Malaysia, ribavirin was used to treat a
+                    small proportion of patients, but its efficacy in people remained unclear
+                    [52]. After this, it was also used in India with supposed positive
+                    outcomes [53]. However, governing conditions and the true efficacy of
+                    this treatment remain unclear [54]. Other drugs tested and showing
+                    inhibition either in vitro or in animal models are favipiravir (T-705) [55]
+                    and 4ʹ-chloromethyl-2ʹ-deoxy-2ʹ-fluorocytidine (ALS-8112) [56].
+
+                    Public health control measures
+                    Raising awareness about the risk factors and mitigating measures are
+                    key to reducing the risk of NiV exposure and transmission. The present
+                    options to prevent secondary transmissions are active case finding,
+                    contact tracing, isolation and quarantine of cases and their contacts.
+                    Human-to-human transmission can be reduced by avoiding close
+                    contact with infected individuals, using protective equipment, and
+                    following good hand hygiene.
+
+                    NiV transmission may happened through different routes depending on
+                    the epidemiolocal context in the country or region. Control measures
+                    should therefore be adapted to the transmission pattern. In Malaysia,
+                    culling of infected domestic animals and implementing disinfection
+                    measures were successful in stopping the outbreak [45]. Furthermore,
+                    infection prevention in livestock is an effective method in regions where
+                    they serve as intermediate hosts. Strategies involve keeping fruit trees
+                    (on which bats usually roost) away from livestock susceptible to NiV
+                    infection [6]. In regions in Bangladesh and eastern India particularly, it is
+                    essential to create public awareness about the need to boil fresh palm
+                    sap and the importance of preventing access of bats to the containers in
+                    which the sap is stored. In regions in south India, where transmission is
+                    from infected fruits, proper washing and peeling of vegetables and is
+                    essential to remove traces of bat excreta from them.
+
+                    Infection control, personal protection and
+                    prevention
+
+                    As symptoms during the prodromal phase are not specific, the early
+                    diagnosis of NiV infection can be challenging. Infection control
+                    measures and other preventive steps like hand hygiene, barrier nursing,
+                    safe handling of deceased bodies help to limit viral spread both in
+                    households and hospitals. Personal protection devices like masks
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 8/16
+
+---
+
+9/16/26, 6:07 PM Disease information on Nipah virus disease
+        (providing sufficient filtration against airborne diseases), glasses and
+        gloves, should also be used properly [3,26].
+
+        There is very limited data available worldwide about NiV disease. There
+        has been no evidence of increased incidence rates or increased severity
+        of the disease in specific population groups, such as pregnant women,
+        infants or immunocompromised subjects. Length of exposure and
+        contact with body fluids were increasingly associated with risk of
+        infection [26]. In Malaysia, high-risk populations were people who handle
+        pigs, pork sellers, pig cullers and so on [45]. Isolation of NiV from urine
+        and faeces collected from the cages of animals infected with NiV-M and
+        NiV-B strains suggests that environmental contamination could pose a
+        risk of infection [43]. This also points to the danger of transmission in
+        zoos when bats which have the potential to carry NiV are housed on the
+        premises.
+
+        Currently no NiV vaccine is approved either for humans or animals.
+        However, in Australia an HeV vaccine for horses is available, which
+        cross-protects against NiV infection.
+
+        Further reading
+        Central Team, Ministry of Health and Family Welfare, Government of
+        India. Clinical Management Protocol for Nipah Virus Disease.
+        Ministry of Health and Family Welfare: Delhi; 2018.
+        European Centre for Disease Prevention and Control. Health
+        emergency preparedness for imported cases of high-consequence
+        infectious diseases. Stockholm: ECDC; 2019. Available at:
+        https://www.ecdc.europa.eu/sites/default/files/documents/Health-
+        emergency-preparedness-imported-cases-of-high-consequence-
+        infectious-diseases.pdf
+        World Health Organization (WHO) Regional Office for South-East
+        Asia. Nipah virus infection. WHO Regional Office for South-East
+        Asia: New Delhi; 2009. Available at:
+        https://www.who.int/publications/i/item/10665-205574
+        World Organisation for Animal Health (WOAH). OIE Terrestrial
+        Manual 2018. Paris: WOAH; 2018. Available at:
+        https://www.woah.org/fileadmin/Home/eng/Health_standards/tah
+        m/3.01.14_NIPAH_HENDRA.pdf
+
+        References
+
+
+    https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease    9/16
+
+---
+
+9/16/26, 6:07 PM    Disease information on Nipah virus disease
+                    1. Harcourt BH, Lowe L, Tamin A, Liu X, Bankamp B, Bowden N, et al.
+                    Genetic characterization of Nipah virus, Bangladesh, 2004. Emerg
+                    Infect Dis. 2005 Oct;11(10):1594-7.Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/16318702
+                    2. Soman Pillai V, Krishna G, Valiya Veettil M. Nipah Virus: Past
+                    Outbreaks and Future Containment. Viruses. 2020 Apr 20;12(4).
+                    Available at:https://www.ncbi.nlm.nih.gov/pubmed/32325930
+                    3. Singh RK, Dhama K, Chakraborty S, Tiwari R, Natesan S, Khandia R,
+                    et al. Nipah virus: epidemiology, pathology, immunobiology and
+                    advances in diagnosis, vaccine designing and control strategies - a
+                    comprehensive review. Vet Q. 2019 Dec;39(1):26-55. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31006350
+                    4. Rahman M, Chakraborty A. Nipah virus outbreaks in Bangladesh: a
+                    deadly infectious disease. WHO South East Asia J Public Health.
+                    2012 Apr-Jun;1(2):208-12. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/28612796
+                    5. World Health Organization (WHO). Nipah virus disease - India, 24
+                    September 2021. Geneva: WHO. Available at:
+                    https://www.who.int/emergencies/disease-outbreak-
+                    news/item/nipah-virus-disease---india
+                    6. Ching PK, de los Reyes VC, Sucaldito MN, Tayag E, Columna-Vingno
+                    AB, Malbas FF, Jr., et al. Outbreak of henipavirus infection,
+                    Philippines, 2014. Emerg Infect Dis. 2015 Feb;21(2):328-31.
+                    Available at: https://www.ncbi.nlm.nih.gov/pubmed/25626011
+                    7. Paton NI, Leo YS, Zaki SR, Auchus AP, Lee KE, Ling AE, et al.
+                    Outbreak of Nipah-virus infection among abattoir workers in
+                    Singapore. Lancet. 1999 Oct 9;354(9186):1253-6.Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/10520634
+                    8. World Health Organization (WHO). R&D Blueprint and Nipah.
+                    Geneva: WHO. Available at:
+                    https://www.who.int/teams/blueprint/nipah
+                    9. Denis M. NIPAH Baseline Situation Analysis, 27 January. Geneva:
+                    WHO; 2018. Available at: https://cdn.who.int/media/docs/default-
+                    source/documents/health-
+                    topics/nipah/who_nipah_baseline_situation_analysis_27jan20188b4
+                    15c76-8649-4e98-b18f-18c6134f3819.pdf?
+                    sfvrsn=8d3de3b2_1&download=true
+    10. National Health Portal Of India. Nipah virus infection, Case
+                    Definitions. New Delhi: Government of India.
+
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease    10/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    11. Ministry of Health Malaysia. Syndromic notfication and laboratory
+                    investigation manual, 2nd edition, October 2004. Putrajaya: Ministry
+                    of Health; 2004. Available at:
+                    https://www.academia.edu/40635410/SYNDROMIC_NOTIFICATION
+                    _AND_LABORATORY_INVESTIGATION_MANUAL
+                    12. International Committee on Taxonomy of Viruses (ICTV). Genus:
+                    Henipavirus. Available at:
+                    https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae
+                    /henipavirus
+                    13. Wu Z, Yang L, Yang F, Ren X, Jiang J, Dong J, et al. Novel Henipa-like
+                    virus, Mojiang Paramyxovirus, in rats, China, 2012. Emerg Infect Dis.
+                    2014 Jun;20(6):1064-6. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/24865545
+                    14. Lee SH, Kim K, Kim J, No JS, Park K, Budhathoki S, et al. Discovery
+                    and Genetic Characterization of Novel Paramyxoviruses Related to
+                    the Genus Henipavirus in Crocidura Species in the Republic of
+                    Korea. Viruses. 2021 Oct 7;13(10) Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/34696450
+                    15. Zhang XA, Li H, Jiang FC, Zhu F, Zhang YF, Chen JJ, et al. A Zoonotic
+                    Henipavirus in Febrile Patients in China. N Engl J Med. 2022 Aug
+                    4;387(5):470-2. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/35921459
+                    16. Lo Presti A, Cella E, Giovanetti M, Lai A, Angeletti S, Zehender G, et
+                    al. Origin and evolution of Nipah virus. J Med Virol. 2016
+                    Mar;88(3):380-8. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/26252523
+                    17. Lo MK, Lowe L, Hummel KB, Sazzad HM, Gurley ES, Hossain MJ, et
+                    al. Characterization of Nipah virus from outbreaks in Bangladesh,
+                    2008-2010. Emerg Infect Dis. 2012 Feb;18(2):248-55. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/22304936
+                    18. Sun B, Jia L, Liang B, Chen Q, Liu D. Phylogeography, Transmission,
+                    and Viral Proteins of Nipah Virus. Virol Sin. 2018 Oct;33(5):385-93.
+                    Available at: https://www.ncbi.nlm.nih.gov/pubmed/30311101
+                    19. Mazzola LT, Kelly-Cirino C. Diagnostics for Nipah virus: a zoonotic
+                    pathogen endemic to Southeast Asia. BMJ Glob Health.
+                    2019;4(Suppl 2):e001118. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/30815286
+                    20. Lawrence P, Escudero-Perez B. Henipavirus Immune Evasion and
+                    Pathogenesis Mechanisms: Lessons Learnt from Natural Infection
+
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease    11/16
+
+---
+
+9/16/26, 6:07 PM        Disease information on Nipah virus disease
+                    and Animal Models. Viruses. 2022 Apr 29;14(5).Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/35632678
+                    21. National Health Service (NHS) Scotland. Hendra virus and Nipah
+                    virus Management and Control, 10 August Edinburgh: NHS Scotland;
+                    2000.
+                    22. Skowron K, Bauza-Kaszewska J, Grudlewska-Buda K, Wiktorczyk-
+                    Kapischke N, Zacharski M, Bernaciak Z, et al. Nipah Virus-Another
+                    Threat From the World of Zoonotic Viruses. Frontiers in
+                    microbiology. 2021;12:811157. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/35145498
+                    23. Watanabe S, Fukushi S, Harada T, Shimojima M, Yoshikawa T,
+                    Kurosu T, et al. Effective inactivation of Nipah virus in serum
+                    samples for safe processing in low-containment laboratories. Virol
+                    J. 2020 Oct 9;17(1):151. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/33036623
+                    24. Widerspick L, Vazquez CA, Niemetz L, Heung M, Olal C, Bencsik A, et
+                    al. Inactivation Methods for Experimental Nipah Virus Infection.
+                    Viruses. 2022 May 15;14(5). Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/35632791
+                    25. Kumar CPG, Sugunan AP, Yadav P, Kurup KK, Aarathee R, Manickam
+                    P, et al. Infections among Contacts of Patients with Nipah Virus,
+                    India. Emerg Infect Dis. 2019 May;25(5):1007-10.Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31002050
+                    26. Nikolay B, Salje H, Hossain MJ, Khan A, Sazzad HMS, Rahman M, et
+                    al. Transmission of Nipah Virus - 14 Years of Investigations in
+                    Bangladesh. N Engl J Med. 2019 May 9;380(19):1804-14.Available
+                    at: https://www.ncbi.nlm.nih.gov/pubmed/31067370
+                    27. World Health Organization (WHO). Nipah virus factsheet. Geneva:
+                    WHO; 2018. Available at: https://www.who.int/news-room/fact-
+                    sheets/detail/nipah-virus
+                    28. Sejvar JJ, Hossain J, Saha SK, Gurley ES, Banu S, Hamadani JD, et
+                    al. Long-term neurological and functional outcome in Nipah virus
+                    infection. Ann Neurol. 2007 Sep;62(3):235-42. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/17696217
+                    29. Tan CT, Goh KJ, Wong KT, Sarji SA, Chua KB, Chew NK, et al.
+                    Relapsed and late-onset Nipah encephalitis. Ann Neurol. 2002
+                    Jun;51(6):703-8. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/12112075
+                    30. Chong HT, Tan CT. Relapsed and late-onset Nipah encephalitis, a
+                    report of three cases. Neurol J Southeast Asia. 2003;8:108-12.
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 12/16
+
+---
+
+9/16/26, 6:07 PM    Disease information on Nipah virus disease
+                    Available at: http://neurology-asia.org/articles/20032_109.pdf
+                    31. Clayton BA. Nipah virus: transmission of a zoonotic paramyxovirus.
+                    Curr Opin Virol. 2017 Feb;22:97-104. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/28088124
+                    32. Mohd Nor MN, Gan CH, Ong BL. Nipah virus infection of pigs in
+                    peninsular Malaysia. Rev Sci Tech. 2000 Apr;19(1):160-5. Available
+                    at: https://www.ncbi.nlm.nih.gov/pubmed/11189713
+                    33. Middleton DJ, Westbury HA, Morrissy CJ, van der Heide BM, Russell
+                    GM, Braun MA, et al. Experimental Nipah virus infection in pigs and
+                    cats. J Comp Pathol. 2002 Feb-Apr;126(2-3):124-36. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/11945001
+                    34. Breed AC, Field HE, Epstein JH, Daszak P. Emerging henipaviruses
+                    and flying foxes - Conservation and management perspectives. Biol
+                    Conserv. 2006 Aug;131(2):211-20. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/32226079
+                    35. Arunkumar G, Chandni R, Mourya DT, Singh SK, Sadanandan R,
+                    Sudan P, et al. Outbreak Investigation of Nipah Virus Disease in
+                    Kerala, India, 2018. J Infect Dis. 2019 May 24;219(12):1867-78.
+                    Available at: https://www.ncbi.nlm.nih.gov/pubmed/30364984
+                    36. Drexler JF, Corman VM, Gloza-Rausch F, Seebens A, Annan A, Ipsen
+                    A, et al. Henipavirus RNA in African bats. PLoS One. 2009 Jul
+                    28;4(7):e6367. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/19636378
+                    37. Seifert SN, Letko MC, Bushmaker T, Laing ED, Saturday G, Meade-
+                    White K, et al. Rousettus aegyptiacus Bats Do Not Support
+                    Productive Nipah Virus Replication. J Infect Dis. 2020 May
+                    11;221(Suppl 4):S407-S13. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31682727
+                    38. Simons RR, Gale P, Horigan V, Snary EL, Breed AC. Potential for
+                    introduction of bat-borne zoonotic viruses into the EU: a review.
+                    Viruses. 2014 May 16;6(5):2084-121. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/24841385
+                    39. Epstein JH, Anthony SJ, Islam A, Kilpatrick AM, Ali Khan S, Balkey
+                    MD, et al. Nipah virus dynamics in bats and implications for spillover
+                    to humans. Proc Natl Acad Sci U S A. 2020 Nov 17;117(46):29190-
+                    201. Available at: https://www.ncbi.nlm.nih.gov/pubmed/33139552
+
+                    40. Gurley ES, Hegde ST, Hossain K, Sazzad HMS, Hossain MJ, Rahman
+                    M, et al. Convergence of Humans, Bats, Trees, and Culture in Nipah
+                    Virus Transmission, Bangladesh. Emerg Infect Dis. 2017
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease 13/16
+
+---
+
+9/16/26, 6:07 PM    Disease information on Nipah virus disease
+                    Sep;23(9):1446-53. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/28820130
+                    41. Dimitrov DS, Wang LF. In utero transmission of Nipah virus: role
+                    played by pregnancy and vertical transmission in Henipavirus
+                    epidemiology. J Infect Dis. 2007 Sep 15;196(6):807-9. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/17703408
+                    42. Amaya M, Broder CC. Vaccines to Emerging Viruses: Nipah and
+                    Hendra. Annu Rev Virol. 2020 Sep 29;7(1):447-73. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/32991264
+                    43. Clayton BA, Middleton D, Bergfeld J, Haining J, Arkinstall R, Wang L,
+                    et al. Transmission routes for nipah virus from Malaysia and
+                    Bangladesh. Emerg Infect Dis. 2012 Dec;18(12):1983-93. Available
+                    at: https://www.ncbi.nlm.nih.gov/pubmed/23171621
+                    44. Prasad AN, Agans KN, Sivasubramani SK, Geisbert JB, Borisevich V,
+                    Mire CE, et al. A Lethal Aerosol Exposure Model of Nipah Virus
+                    Strain Bangladesh in African Green Monkeys. J Infect Dis. 2020 May
+                    11;221(Suppl 4):S431-S5. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31665351
+                    45. Chua KB. Epidemiology, surveillance and control of Nipah virus
+                    infections in Malaysia. Malays J Pathol. 2010 Dec;32(2):69-73.
+                    Available at: https://www.ncbi.nlm.nih.gov/pubmed/21329176
+                    46. Gurley ES, Montgomery JM, Hossain MJ, Bell M, Azad AK, Islam MR,
+                    et al. Person-to-person transmission of Nipah virus in a Bangladeshi
+                    community. Emerg Infect Dis. 2007 Jul;13(7):1031-7. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/18214175
+                    47. Thomas B, Chandran P, Lilabi MP, George B, Sivakumar CP, Jayadev
+                    VK, et al. Nipah Virus Infection in Kozhikode, Kerala, South India, in
+                    2018: Epidemiology of an Outbreak of an Emerging Disease. Indian
+                    J Community Med. 2019 Oct-Dec;44(4):383-7. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31802805
+                    48. Chadha MS, Comer JA, Lowe L, Rota PA, Rollin PE, Bellini WJ, et al.
+                    Nipah virus-associated encephalitis outbreak, Siliguri, India. Emerg
+                    Infect Dis. 2006 Feb;12(2):235-40. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/16494748
+                    49. Homaira N, Rahman M, Hossain MJ, Epstein JH, Sultana R, Khan
+                    MS, et al. Nipah virus outbreak with person-to-person transmission
+                    in a district of Bangladesh, 2007. Epidemiol Infect. 2010
+                    Nov;138(11):1630-6. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/20380769
+
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease    14/16
+
+---
+
+9/16/26, 6:07 PM    Disease information on Nipah virus disease
+                    50. Devnath P, Masud H. Nipah virus: a potential pandemic agent in the
+                    context of the current severe acute respiratory syndrome
+                    coronavirus 2 pandemic. New Microbes New Infect. 2021
+                    May;41:100873. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/33758670
+                    51. Lo MK, Feldmann F, Gary JM, Jordan R, Bannister R, Cronin J, et al.
+                    Remdesivir (GS-5734) protects African green monkeys from Nipah
+                    virus challenge. Sci Transl Med. 2019 May 29;11(494). Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31142680
+                    52. Chong HT, Kamarulzaman A, Tan CT, Goh KJ, Thayaparan T,
+                    Kunjapan SR, et al. Treatment of acute Nipah encephalitis with
+                    ribavirin. Ann Neurol. 2001 Jun;49(6):810-3. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/11409437
+                    53. Banerjee S, Niyas VKM, Soneja M, Shibeesh AP, Basheer M,
+                    Sadanandan R, et al. First experience of ribavirin postexposure
+                    prophylaxis for Nipah virus, tried during the 2018 outbreak in Kerala,
+                    India. J Infect. 2019 Jun;78(6):491-503. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/30851290
+                    54. Sen N, Kanitkar TR, Roy AA, Soni N, Amritkar K, Supekar S, et al.
+                    Predicting and designing therapeutics against the Nipah virus. PLoS
+                    Negl Trop Dis. 2019 Dec;13(12):e0007419. Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/31830030
+                    55. Dawes BE, Kalveram B, Ikegami T, Juelich T, Smith JK, Zhang L, et al.
+                    Favipiravir (T-705) protects against Nipah virus infection in the
+                    hamster model. Sci Rep. 2018 May 15;8(1):7604.Available at:
+                    https://www.ncbi.nlm.nih.gov/pubmed/29765101
+                    56. Lo MK, Amblard F, Flint M, Chatterjee P, Kasthuri M, Li C, et al. Potent
+                    in vitro activity of beta-D-4'-chloromethyl-2'-deoxy-2'-fluorocytidine
+                    against Nipah virus. Antiviral Res. 2020 Mar;175:104712. Available
+                    at: https://www.ncbi.nlm.nih.gov/pubmed/31935422
+
+
+Page last updated: 28 February 2023
+
+
+
+
+
+About us            Newsletter    RSS
+What we do     Follow us:
+Who we are     in
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease    15/16
+
+---
+
+9/16/26, 6:07 PM Disease information on Nipah virus disease
+                    Governance
+
+                    Work with us
+                    Vacancies
+                    Procurement and grants
+
+                    Contact ECDC
+                    Contact us
+                    Media centre
+                    Social media
+
+
+
+                    Legal notice Copyright Access to surveillance data
+
+                    Personal data protection Language policy Cookies Accessibility
+
+                    Sitemap
+
+                    © European Centre for Disease Prevention and Control (ECDC) 2026
+
+
+
+
+
+
+
+
+
+
+https://www.ecdc.europa.eu/en/infectious-disease-topics/nipah-virus-disease/disease-information-nipah-virus-disease    16/16

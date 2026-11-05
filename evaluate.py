@@ -30,17 +30,13 @@ Usage (as a library):
     correctness = score_answer_correctness(answer, reference_answer)
 """
 import json
-import os
 import re
 
 import numpy as np
 import requests
-from dotenv import load_dotenv
 
-load_dotenv()
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-JUDGE_MODEL = "upstage/solar-pro4"  # swap for a stronger model if you want a more reliable judge
-EMBED_MODEL = "openai/text-embedding-3-small"
+from config import JUDGE_EMBED_MODEL as EMBED_MODEL
+from config import JUDGE_MODEL, OPENROUTER_API_KEY, OPENROUTER_BASE_URL
 
 
 def _call_judge(prompt: str, retries: int = 1) -> dict | None:
@@ -50,7 +46,7 @@ def _call_judge(prompt: str, retries: int = 1) -> dict | None:
     generation call it's scoring."""
     for attempt in range(retries + 1):
         resp = requests.post(
-            url="https://openrouter.ai/api/v1/chat/completions",
+            url=f"{OPENROUTER_BASE_URL}/chat/completions",
             headers={
                 "Authorization": f"Bearer {OPENROUTER_API_KEY}",
                 "Content-Type": "application/json",
@@ -79,7 +75,7 @@ def _call_judge(prompt: str, retries: int = 1) -> dict | None:
 
 def _embed(text: str) -> np.ndarray:
     resp = requests.post(
-        "https://openrouter.ai/api/v1/embeddings",
+        f"{OPENROUTER_BASE_URL}/embeddings",
         headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"},
         json={"model": EMBED_MODEL, "input": [text]},
     )

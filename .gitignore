@@ -8,8 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-Preprocessed Files
-vector store
-uv.lock
 
+# Secrets
 .env

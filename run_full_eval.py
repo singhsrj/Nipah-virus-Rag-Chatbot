@@ -16,10 +16,7 @@ import argparse
 import json
 from pathlib import Path
 
-from llama_index.core import Settings, StorageContext, load_index_from_storage
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.vector_stores.faiss import FaissVectorStore
-
+from config import STORE_DIR, TOP_K
 from evaluate import evaluate_full
 from test_set import test_set
 from reference_answers import reference_answers
@@ -27,17 +24,7 @@ from reference_answers import reference_answers
 # reuse generate() and build_prompt() from retrieve_and_generate.py so the
 # eval hits the exact same generation path a real user query would
 from retrieve_and_generate import build_prompt, generate
-
-
-def load_retriever(store_dir: Path, top_k: int):
-    if not store_dir.exists() or not any(store_dir.iterdir()):
-        raise SystemExit(f"No vector store found at {store_dir}. Run build_faiss_store.py first.")
-
-    Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
-    vector_store = FaissVectorStore.from_persist_dir(str(store_dir))
-    storage_context = StorageContext.from_defaults(vector_store=vector_store, persist_dir=str(store_dir))
-    index = load_index_from_storage(storage_context)
-    return index.as_retriever(similarity_top_k=top_k)
+from retrieval import load_retriever
 
 
 def run(top_k: int, store_dir: str, out_path: str | None):
@@ -118,8 +105,8 @@ def run(top_k: int, store_dir: str, out_path: str | None):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--top-k", type=int, default=3)
-    parser.add_argument("--store", default="vector_store")
+    parser.add_argument("--top-k", type=int, default=TOP_K)
+    parser.add_argument("--store", default=str(STORE_DIR))
     parser.add_argument("--out", default=None, help="Optional path to write full JSON results")
     args = parser.parse_args()
 
